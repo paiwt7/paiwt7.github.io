@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <!--
-	Verti by HTML5 UP	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+	Verti by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -22,10 +21,10 @@
           <nav id="nav">
             <ul>
               <li class="current"><a href="index.html">Welcome</a></li>
-              <li><a href="left-sidebar.html" title="About">About<br>
+              <li><a href="about" title="About">About<br>
                 </a></li>
-              <li><a href="right-sidebar.html" title="Instructions">Products</a></li>
-              <li><a href="no-sidebar.html">Instructions</a></li>
+              <li><a href="products" title="Instructions">Products</a></li>
+              <li><a href="instructions">Instructions</a></li>
               <li> <a href="#">Techniques</a>
                 <ul>
                   <li><a href="colorfulmedium">Colorful Medium</a></li>
