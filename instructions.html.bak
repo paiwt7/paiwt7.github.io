@@ -57,13 +57,13 @@
           <div id="content">
             <!-- Content -->
             <article>
-              <h1 id="content">Instructions</h1>
-              <hr>
-              <p style="color:black;font-size:25px;">To get started you
-                will need: <a href="whitemedium">Paiwt White Medium</a>,
-                <a href="colordroppers">Paiwt Color Droppers</a>, <a href="expander">Paiwt
-                  Expander</a>, and a flat level surface to paint on.<br>
-              </p>
+              <h2>Instructions</h2>
+              To get started you will need: <a href="whitemedium">Paiwt White
+                Medium</a>, <a href="colordroppers">Paiwt Color Droppers</a>, <a
+
+                href="expander">Paiwt Expander</a>, and a flat level surface to
+              paint on.<br>
+              <br>
               <div style="text-align: center;"><span><img src="images/3mLKit.png"
 
                     class="center" alt=""><br>
