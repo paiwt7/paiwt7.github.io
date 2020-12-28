@@ -25,7 +25,7 @@
                 </a></li>
               <li><a href="products" title="Instructions">Products</a></li>
               <li><a href="instructions">Instructions</a></li>
-              <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop" target="_blank">e-Shop</a></li>
+              <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop">e-Shop</a></li>
               <li> <a href="techniques">Techniques</a>
                 <ul>
                   <li><a href="colorful-medium">Colorful Medium</a></li>
@@ -66,7 +66,7 @@
             <div class="col-5 col-12-medium">
               <ul>
                 <li><a href="https://etsy.com/paiwt" class="button large icon solid fa-arrow-circle-right"
-                    title="Paiwt e-Shop" target="_blank">Visit e-Shop</a></li>
+                    title="Paiwt e-Shop">Visit e-Shop</a></li>
                 <li><a href="#main" class="button alt large icon solid fa-question-circle">More
                     info</a></li>
               </ul>
@@ -217,8 +217,7 @@
               <section class="widget links">
                 <h3>Quick Links</h3>
                 <ul class="style2">
-                  <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop "
-                      target="_blank">e-Shop</a></li>
+                  <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop ">e-Shop</a></li>
                   <li><a href="about" title="About Paiwt">About Paiwt<br>
                     </a></li>
                   <li><a href="mailinglist" title="Join Our Email List">Join Our
