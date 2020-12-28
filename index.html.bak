@@ -30,24 +30,23 @@
                 <ul>
                   <li><a href="colorfulmedium">Colorful Medium</a></li>
                   <li><a href="peelingoffplastic">Peeling Off Plastic</a></li>
-                     <li><a href="#">Using Paint Brushes</a></li>
-                   <li><a href="#">Adding a Resin Finish</a></li>
+                  <li><a href="#">Using Paint Brushes</a></li>
+                  <li><a href="#">Adding a Resin Finish</a></li>
                   <li> <a href="#">More</a>
                     <ul>
                       <li><a href="#">Pouring Medium Into Colors</a></li>
                       <li><a href="#">"Magic Brush"</a></li>
                       <li><a href="#">Adding Image Cutouts</a></li>
                       <li><a href="#">Cutting Out Your Paiwt</a></li>
-                            <li><a href="#">Straight Lines & Checkerboards</a></li>
+                      <li><a href="#">Straight Lines &amp; Checkerboards</a></li>
                       <li><a href="#">Pouring Color Mixture</a></li>
                       <li><a href="#">Creating Starfish</a></li>
                       <li><a href="#">Using Paiwt On Clay</a></li>
-                             <li><a href="#">Large Colorful Design</a></li>
-                            <li><a href="#">Blow Drip</a></li>
+                      <li><a href="#">Large Colorful Design</a></li>
+                      <li><a href="#">Blow Drip</a></li>
                       <li><a href="#">Scenic Painting</a></li>
                     </ul>
                   </li>
-       
                 </ul>
               </li>
             </ul>
@@ -80,8 +79,7 @@
           <div class="row">
             <div class="col-4 col-12-medium">
               <!-- Box -->
-              <section class="box feature"> <a href="#" class="image featured"><img
-
+              <section class="box feature"> <a href="#" class="image featured"><img
                     src="images/pic02b.png" alt="Instructions" title="Instructions"></a>
                 <div class="inner">
                   <header>
@@ -95,8 +93,7 @@
             </div>
             <div class="col-4 col-12-medium">
               <!-- Box -->
-              <section class="box feature"> <a href="#" class="image featured"><img
-
+              <section class="box feature"> <a href="#" class="image featured"><img
                     src="images/pic01b.png" alt="Products" title="Products"></a>
                 <div class="inner">
                   <header>
@@ -110,8 +107,7 @@
             </div>
             <div class="col-4 col-12-medium">
               <!-- Box -->
-              <section class="box feature"> <a href="#" class="image featured"><img
-
+              <section class="box feature"> <a href="#" class="image featured"><img
                     src="images/pic03b.png" alt="Instructions" title="Instructions"></a>
                 <div class="inner">
                   <header>
@@ -119,7 +115,8 @@
                     <p>Follow Step-By-Step instructions on exactly how to use
                       Paiwt. Learn what materials are needed, along with a basic
                       technique to get you started. For more advanced ways of
-                      using Paiwt, visit our Techniques page.</p>
+                      using Paiwt, visit our <a href="techniques">Techniques</a>
+                      page.</p>
                   </header>
                 </div>
               </section>
@@ -138,19 +135,14 @@
                   <h3>Discover New Methods!</h3>
                   <div class="grid">
                     <div class="row gtr-50">
-                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic04b.png"
-
+                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic04b.png"
                             alt="Blow Drip" title="Blow Drip"></a></div>
-                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic05b.png"
-
+                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic05b.png"
                             alt="Paiwt On Clay" title="Paiwt On Clay"></a></div>
-                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic06b.png"
-
+                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic06b.png"
                             alt="Colorful Medium" title="Colorful Medium"></a></div>
-                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic07b.png"
-
-                            alt="Paint Brushs" title="Paint Brushs"></a><a href="#"
-
+                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic07b.png"
+                            alt="Paint Brushs" title="Paint Brushs"></a><a href="#"
                           class="image fit"></a></div>
                     </div>
                   </div>
@@ -230,11 +222,9 @@
               <section class="widget contact last">
                 <h3>Contact Us</h3>
                 <ul>
-                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
-
+                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
                       title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
-
+                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
                       title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
                   <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
                   <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
