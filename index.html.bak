@@ -17,7 +17,7 @@
           <!-- Logo -->
           <div id="logo">
             <h1><a href="index.html">Paiwt </a></h1>
-            <span>by HTML5 UP</span> </div>
+            <span></span> </div>
           <!-- Nav -->
           <nav id="nav">
             <ul>
@@ -70,47 +70,39 @@
           <div class="row">
             <div class="col-4 col-12-medium">
               <!-- Box -->
-              <section class="box feature"> <a href="#" class="image featured"><img
-
+              <section class="box feature"> <a href="#" class="image featured"><img
                     src="images/pic02b.png" alt="Instructions" title="Instructions"></a>
                 <div class="inner">
                   <header>
-                    <h2>About</h2>
-                    <p>Learn about Paiwt</p>
-                  </header>
-                  <p>Paiwt are all natural dropper paints</p>
+                    <h2><u><a href="about" title="About">About</a></u></h2>
+                    Paiwt are all natural dropper paints </header>
                 </div>
               </section>
             </div>
             <div class="col-4 col-12-medium">
               <!-- Box -->
-              <section class="box feature"> <a href="#" class="image featured"><img
-
+              <section class="box feature"> <a href="#" class="image featured"><img
                     src="images/pic01b.png" alt="Products" title="Products"></a>
                 <div class="inner">
                   <header>
-                    <h2><u><a href="products">Products</a></u></h2>
-                    <p>Learn About Paiwt Products</p>
-                  </header>
-                  <p>Phasellus quam turpis, feugiat sit amet in, hendrerit in
+                    <h2><u><a href="products" title="Products">Products</a></u></h2>
+                    Phasellus quam turpis, feugiat sit amet in, hendrerit in
                     lectus. Praesent sed semper amet bibendum tristique
-                    fringilla.</p>
+                    fringilla. </header>
                 </div>
               </section>
             </div>
             <div class="col-4 col-12-medium">
               <!-- Box -->
-              <section class="box feature"> <a href="#" class="image featured"><img
-
+              <section class="box feature"> <a href="#" class="image featured"><img
                     src="images/pic03b.png" alt="Instructions" title="Instructions"></a>
                 <div class="inner">
                   <header>
-                    <h2>Instructions</h2>
+                    <h2><u><a href="instructions" title="Instructions">Instructions</a></u></h2>
                     <p>Here's another intriguing subtitle</p>
-                  </header>
-                  <p>Phasellus quam turpis, feugiat sit amet in, hendrerit in
+                    Phasellus quam turpis, feugiat sit amet in, hendrerit in
                     lectus. Praesent sed semper amet bibendum tristique
-                    fringilla.</p>
+                    fringilla. </header>
                 </div>
               </section>
             </div>
@@ -128,17 +120,13 @@
                   <h3>Techniques</h3>
                   <div class="grid">
                     <div class="row gtr-50">
-                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic04.jpg"
-
+                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic04.jpg"
                             alt=""></a></div>
-                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic05.jpg"
-
+                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic05.jpg"
                             alt=""></a></div>
-                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic06.jpg"
-
+                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic06.jpg"
                             alt=""></a></div>
-                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic07.jpg"
-
+                      <div class="col-6"><a href="#" class="image fit"><img src="images/pic07.jpg"
                             alt=""></a></div>
                     </div>
                   </div>
@@ -217,8 +205,7 @@
               <section class="widget contact last">
                 <h3>Contact Us</h3>
                 <ul>
-                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
-
+                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
                       title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
                   <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
                   <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
