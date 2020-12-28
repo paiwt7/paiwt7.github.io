@@ -5,7 +5,7 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Verti by HTML5 UP</title>
+    <title>Homepage | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
@@ -16,7 +16,7 @@
         <header id="header" class="container">
           <!-- Logo -->
           <div id="logo">
-            <h1><a href="index.html">Homepage | Paiwt </a></h1>
+            <h1><a href="index.html">Paiwt </a></h1>
             <span>by HTML5 UP</span> </div>
           <!-- Nav -->
           <nav id="nav">
@@ -72,15 +72,13 @@
               <!-- Box -->
               <section class="box feature"> <a href="#" class="image featured"><img
 
-                    src="images/pic01.jpg" alt=""></a>
+                    src="images/pic02b.png" alt="Instructions" title="Instructions"></a>
                 <div class="inner">
                   <header>
                     <h2>About</h2>
-                    <p>Maybe here as well I think</p>
+                    <p>Learn about Paiwt</p>
                   </header>
-                  <p>Phasellus quam turpis, feugiat sit amet in, hendrerit in
-                    lectus. Praesent sed semper amet bibendum tristique
-                    fringilla.</p>
+                  <p>Paiwt are all natural dropper paints</p>
                 </div>
               </section>
             </div>
@@ -88,11 +86,11 @@
               <!-- Box -->
               <section class="box feature"> <a href="#" class="image featured"><img
 
-                    src="images/pic02.jpg" alt=""></a>
+                    src="images/pic01b.png" alt="Products" title="Products"></a>
                 <div class="inner">
                   <header>
-                    <h2>Products</h2>
-                    <p>This is also an interesting subtitle</p>
+                    <h2><u><a href="products">Products</a></u></h2>
+                    <p>Learn About Paiwt Products</p>
                   </header>
                   <p>Phasellus quam turpis, feugiat sit amet in, hendrerit in
                     lectus. Praesent sed semper amet bibendum tristique
@@ -104,7 +102,7 @@
               <!-- Box -->
               <section class="box feature"> <a href="#" class="image featured"><img
 
-                    src="images/pic03.jpg" alt=""></a>
+                    src="images/pic03b.png" alt="Instructions" title="Instructions"></a>
                 <div class="inner">
                   <header>
                     <h2>Instructions</h2>
