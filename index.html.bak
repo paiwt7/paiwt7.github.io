@@ -99,10 +99,10 @@
                 <div class="inner">
                   <header>
                     <h2><u><a href="instructions" title="Instructions">Instructions</a></u></h2>
-                    <p>Here's another intriguing subtitle</p>
-                    Phasellus quam turpis, feugiat sit amet in, hendrerit in
-                    lectus. Praesent sed semper amet bibendum tristique
-                    fringilla. </header>
+                    <p>Here's another intriguing subtitle Phasellus quam turpis,
+                      feugiat sit amet in, hendrerit in lectus. Praesent sed
+                      semper amet bibendum tristique fringilla. </p>
+                  </header>
                 </div>
               </section>
             </div>
