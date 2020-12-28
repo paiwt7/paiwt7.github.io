@@ -60,8 +60,9 @@
                 <section>
                   <h3>Product Menu</h3>
                   <ul class="style2">
-                    <li><a href="#">Color Droppers</a></li>
-                    <li><a href="#">White Medium<br>
+                    <li><a href="colordroppers" title="Color Droppers">Color
+                        Droppers</a></li>
+                    <li><a href="whitemedium" title="White Medium">White Medium<br>
                       </a></li>
                     <li><a href="#">Expander</a></li>
                   </ul>
@@ -75,6 +76,8 @@
                   <h2>Products</h2>
                   <p>Colorful dendrite fractal painting supplies and artwork.
                     Learn about Paiwt Supplies. </p>
+                  <div style="text-align: center;"><span><img src="images/pic01b.png"
+                        alt="Paiwt Kit" title="Paiwt Kit" style="width: 258px; height: 205px;"></span></div>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Maecenas ac quam risus, at tempus justo. Sed dictum rutrum
                     massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque
