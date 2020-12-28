@@ -19,18 +19,17 @@
           <!-- Nav -->
           <nav id="nav">
             <ul>
-              <li><a href="https://paiwt7.github.io" title="paiwt7.github.io">Welcome
-                  </a></li>
+              <li><a href="https://paiwt7.github.io" title="Homepage">Welcome </a></li>
               <li class="current"><a href="about">About</a></li>
               <li><a href="products" title="Instructions">Products</a></li>
               <li><a href="instructions">Instructions</a></li>
-              <li> <a href="#">Techniques</a>
+              <li> <a href="techniques">Techniques</a>
                 <ul>
                   <li><a href="colorful-medium">Colorful Medium</a></li>
                   <li><a href="peeling-off-plastic">Peeling Off Plastic</a></li>
                   <li><a href="using-paint-brush">Using Paint Brushes</a></li>
                   <li><a href="adding-resin-finish">Adding a Resin Finish</a></li>
-                  <li> <a href="#">More</a>
+                  <li> <a href="techniques">More</a>
                     <ul>
                       <li><a href="pouring-medium-into-colors">Pouring Medium
                           Into Colors</a></li>
@@ -95,7 +94,7 @@
               <div style="text-align: center;"><br>
               </div>
               <p style="color: black; font-size: 25px; text-align: center;">Visit
-                the <a href="techniques"><span class="label">Paiwt Techniques</span></a>
+                the <a href="techniques"><span class="label">Techniques</span></a>
                 page for new ideas. </p>
               <p></p>
               <div style="text-align: center;"><img src="images/lcdt1.png" class="center"
