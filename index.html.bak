@@ -170,7 +170,9 @@
                       title="Colorful Medium">Colorful Medium</a>, or jump right
                     in to advanced techniques such as <a href="scenic-painting"
                       title="Sceninic Painting">Scenic Painting</a>. </p>
-                  <a href="techniques" class="button icon solid fa-arrow-circle-right">Learn
+                  <a href="adding-image-cutout" title="Adding Image Out"><img src="file:///C:/Users/danbo/Documents/GitHub/paiwt7.github.io/images/indextechniques.png"
+                      alt="Paiwt Techniques" title="Paiwt Techniques"></a><br>
+                  &nbsp;<a href="techniques" class="button icon solid fa-arrow-circle-right">Learn
                     Techniques</a> </section>
               </div>
             </div>
