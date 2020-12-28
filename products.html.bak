@@ -18,11 +18,10 @@
           <!-- Nav -->
           <nav id="nav">
             <ul>
-                <li><a href="products" title="index.html">Welcome</a></li>
-              
+              <li><a href="products" title="https://paiwt7.github.io">Welcome</a></li>
               <li><a href="about" title="About">About<br>
-                </a>
-              </li><li class="current"><a href="products">Products</a></li>
+                </a> </li>
+              <li class="current"><a href="products">Products</a></li>
               <li><a href="instructions">Instructions</a></li>
               <li> <a href="#">Techniques</a>
                 <ul>
@@ -59,7 +58,7 @@
               <div id="sidebar">
                 <!-- Sidebar -->
                 <section>
-                  <h3>Products</h3>
+                  <h3>Product Menu</h3>
                   <ul class="style2">
                     <li><a href="#">Color Droppers</a></li>
                     <li><a href="#">White Medium<br>
@@ -73,13 +72,9 @@
               <div id="content">
                 <!-- Content -->
                 <article>
-                  <h2>Left Sidebar</h2>
-                  <p>Phasellus quam turpis, feugiat sit amet ornare
-                    in, hendrerit in lectus. Praesent semper mod quis eget mi.
-                    Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus
-                    et mattis lectus sit amet pulvinar. Nam turpis nisi
-                    consequat etiam lorem ipsum dolor sit amet nullam.</p>
-                  <h3>More intriguing information</h3>
+                  <h2>Products</h2>
+                  <p>Colorful dendrite fractal painting supplies and artwork.
+                    Learn about Paiwt Supplies. </p>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Maecenas ac quam risus, at tempus justo. Sed dictum rutrum
                     massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque
@@ -151,8 +146,7 @@
               <section class="widget links">
                 <h3>Quick Links</h3>
                 <ul class="style2">
-                  <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop "
-
+                  <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop "
                       target="_blank">e-Shop</a></li>
                   <li><a href="about" title="About Paiwt">About Paiwt<br>
                     </a></li>
@@ -172,20 +166,15 @@
               <section class="widget contact last">
                 <h3>Contact Us</h3>
                 <ul>
-                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
-
+                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
                       title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
-
+                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
                       title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
-
+                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
                       title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
-
+                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
                       title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
-
+                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
                       title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
                 </ul>
                 <p>1350 E Flamingo Rd. Ste 13b 422<br>
