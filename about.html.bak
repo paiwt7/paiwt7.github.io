@@ -10,8 +10,7 @@
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
   <body class="is-preload homepage">
-    <div id="page-wrapper">
-      <!-- Header -->
+    <div id="page-wrapper"> <!-- Header -->
       <div id="header-wrapper">
         <header id="header" class="container">
           <!-- Logo -->
