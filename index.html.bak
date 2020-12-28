@@ -169,11 +169,13 @@
               <section class="widget links">
                 <h3>Customer Service</h3>
                 <ul class="style2">
-                  <li><a href="#">Etiam feugiat condimentum</a></li>
-                  <li><a href="#">Aliquam imperdiet suscipit odio</a></li>
-                  <li><a href="#">Sed porttitor cras in erat nec</a></li>
-                  <li><a href="#">Felis varius pellentesque potenti</a></li>
-                  <li><a href="#">Nullam scelerisque blandit leo</a></li>
+                  <li><a href="#">Contact Us<br>
+                    </a></li>
+                  <li><a href="#">Payment Options</a></li>
+                  <li><a href="#">Request A Catalog</a></li>
+                  <li><a href="#">Shipping Information<br>
+                    </a></li>
+                  <li><a href="#">Return Policy</a></li>
                 </ul>
               </section>
             </div>
@@ -182,11 +184,13 @@
               <section class="widget links">
                 <h3>Product Information</h3>
                 <ul class="style2">
-                  <li><a href="#">Etiam feugiat condimentum</a></li>
-                  <li><a href="#">Aliquam imperdiet suscipit odio</a></li>
-                  <li><a href="#">Sed porttitor cras in erat nec</a></li>
-                  <li><a href="#">Felis varius pellentesque potenti</a></li>
-                  <li><a href="#">Nullam scelerisque blandit leo</a></li>
+                  <li><a href="#">General Help<br>
+                    </a></li>
+                  <li><a href="#">Products Page<br>
+                    </a></li>
+                  <li><a href="#">Instructions</a></li>
+                  <li><a href="#">Being Green at Paiwt</a></li>
+                  <li><a href="#">Health &amp; Safety</a></li>
                 </ul>
               </section>
             </div>
@@ -195,11 +199,15 @@
               <section class="widget links">
                 <h3>Quick Links</h3>
                 <ul class="style2">
-                  <li><a href="#">Etiam feugiat condimentum</a></li>
-                  <li><a href="#">Aliquam imperdiet suscipit odio</a></li>
-                  <li><a href="#">Sed porttitor cras in erat nec</a></li>
-                  <li><a href="#">Felis varius pellentesque potenti</a></li>
-                  <li><a href="#">Nullam scelerisque blandit leo</a></li>
+                  <li><a href="#">e-Shop</a></li>
+                  <li><a href="#">About Paiwt<br>
+                    </a></li>
+                  <li><a href="#">Join Our Email List<br>
+                    </a></li>
+                  <li><a href="#">Security &amp; Privacy<br>
+                    </a></li>
+                  <li><a href="#">Terms of Use<br>
+                    </a></li>
                 </ul>
               </section>
             </div>
@@ -225,8 +233,7 @@
             <div class="col-12">
               <div id="copyright">
                 <ul class="menu">
-                  <li>© Untitled. All rights reserved</li>
-                  <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                  <li>Copyright © 2018 Paiwt.com. All rights reserved</li>
                 </ul>
               </div>
             </div>
