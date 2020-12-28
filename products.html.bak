@@ -18,10 +18,11 @@
           <!-- Nav -->
           <nav id="nav">
             <ul>
-              <li class="current"><a href="index.html">Welcome</a></li>
+                <li><a href="products" title="index.html">Welcome</a></li>
+              
               <li><a href="about" title="About">About<br>
-                </a></li>
-              <li><a href="products" title="Instructions">Products</a></li>
+                </a>
+              </li><li class="current"><a href="products">Products</a></li>
               <li><a href="instructions">Instructions</a></li>
               <li> <a href="#">Techniques</a>
                 <ul>
@@ -73,11 +74,11 @@
                 <!-- Content -->
                 <article>
                   <h2>Left Sidebar</h2>
-                  <p>Phasellus quam turpis, feugiat sit amet ornare in,
-                    hendrerit in lectus. Praesent semper mod quis eget mi. Etiam
-                    eu ante risus. Aliquam erat volutpat. Aliquam luctus et
-                    mattis lectus sit amet pulvinar. Nam turpis nisi consequat
-                    etiam lorem ipsum dolor sit amet nullam.</p>
+                  <p>Phasellus quam turpis, feugiat sit amet ornare
+                    in, hendrerit in lectus. Praesent semper mod quis eget mi.
+                    Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus
+                    et mattis lectus sit amet pulvinar. Nam turpis nisi
+                    consequat etiam lorem ipsum dolor sit amet nullam.</p>
                   <h3>More intriguing information</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Maecenas ac quam risus, at tempus justo. Sed dictum rutrum
@@ -212,6 +213,5 @@
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
-    
   </body>
 </html>
