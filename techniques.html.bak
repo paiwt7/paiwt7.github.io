@@ -21,7 +21,7 @@
               <li><a href="index" title="https://paiwt7.github.io">Welcome</a></li>
               <li><a href="about" title="About">About<br>
                 </a> </li>
-              <li class="current"><a href="products">Products</a></li>
+              <li><a href="products">Products</a></li>
               <li><a href="instructions">Instructions</a></li>
               <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop">e-Shop</a></li>
               <li> <a href="techniques">Techniques</a>
@@ -43,7 +43,7 @@
                       <li><a href="paiwt-on-clay">Using Paiwt On Clay</a></li>
                       <li><a href="large-colorful-design">Large Colorful Design</a></li>
                       <li><a href="blow-drip">Blow Drip</a></li>
-                      <li><a href="scenic">Scenic Painting</a></li>
+                      <li><a href="scenic-painting">Scenic Painting</a></li>
                     </ul>
                   </li>
                 </ul>
@@ -99,9 +99,9 @@
                         Paiwt On Clay</a></li>
                     <li><a href="large-colorful-design" title="Large Colorful Design">Large
                         Colorful Design</a></li>
-                    <li><a href="blow-drip" title="Blow Drip">Blow
-                        Drip</a></li>
-                    <li><a href="#">Scenic Painting</a></li>
+                    <li><a href="blow-drip" title="Blow Drip">Blow Drip</a></li>
+                    <li><a href="scenic-painting" title="Scenic Painting">Scenic
+                        Painting</a></li>
                   </ul>
                 </section>
               </div>
