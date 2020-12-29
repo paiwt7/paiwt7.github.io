@@ -63,12 +63,11 @@
               <h1 style="text-align: justify;">Contact Us</h1>
               Have a question? Great. We are here to help you 7 days a week and
               respond within 24 hours.<br>
-              <br>
               <strong>For Assistance with an Order:</strong><br>
               For questions about placing an order or for help with an order
               that has just been placed (including cancellations):
               <br>
-              <em>Email:</em> orders@paiwt.com<br>
+              <em>Email:</em> <a href="mailto:orders@paiwt.com" title="Assistance with an Order Email">orders@paiwt.com</a><br>
               <strong>For Issues With an Order That Has Already Shipped:</strong>
               <br>
               <em>Email:</em> custservice@paiwt.com
