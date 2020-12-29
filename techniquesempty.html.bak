@@ -38,29 +38,25 @@
                       <li><a href="peeling-off-plastic">Peeling Off Plastic</a></li>
                       <li><a href="using-paint-brush">Using Paint Brushes</a></li>
                       <li><a href="pour-into-colors">Pouring Into Colors</a></li>
-                                  <li><a href="magic-brush">"Magic Brush"</a></li>
-                       <li><a href="straight-lines">Straight Lines</a></li>
-                              <li><a href="adding-cutouts">Adding Cutouts</a></li>
-                          <li><a href="pouring-color-mixture">Pouring Color Mixture</a></li>
-                       <li><a href="blow-drip">Blow Drip</a></li>
+                      <li><a href="magic-brush">"Magic Brush"</a></li>
+                      <li><a href="straight-lines">Straight Lines</a></li>
+                      <li><a href="adding-cutouts">Adding Cutouts</a></li>
+                      <li><a href="pouring-color-mixture">Pouring Color Mixture</a></li>
+                      <li><a href="blow-drip">Blow Drip</a></li>
                     </ul>
                   </li>
                   <li> <a href="#">Intermediate Techniques</a>
                     <ul>
-                    
                       <li><a href="cutting-out-paiwt">Cutting Out Paiwt</a></li>
                       <li><a href="large-colorful-designs">Large Colorful Design</a></li>
-            
                     </ul>
                   </li>
                   <li> <a href="#">Advanced Techniques</a>
                     <ul>
-                      
                       <li><a href="paiwt-on-clay">Paiwt On Clay</a></li>
-                   <li><a href="starfish">Creating Starfish</a></li>
-                     <li><a href="scenic-painting">Scenic Painting</a></li>
-                          <li><a href="adding-resin-finish">Resin Finish</a></li>
-                
+                      <li><a href="starfish">Creating Starfish</a></li>
+                      <li><a href="scenic-painting">Scenic Painting</a></li>
+                      <li><a href="resin-finish">Resin Finish</a></li>
                     </ul>
                   </li>
                 </ul>
@@ -113,7 +109,7 @@
                     <li><strong style="color: #666666;">Advanced Techniques</strong></li>
                     <li><a href="paiwt-on-clay" title="Paiwt On Clay">Paiwt On
                         Clay</a></li>
-                    <li><a href="creating-starfish" title="Creating Starfish">Creating
+                    <li><a href="starfish" title="Creating Starfish">Creating
                         Starfish</a></li>
                     <li><a href="scenic-painting" title="Scenic Painting">Scenic
                         Painting</a></li>
@@ -226,6 +222,5 @@
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
-    
   </body>
 </html>
