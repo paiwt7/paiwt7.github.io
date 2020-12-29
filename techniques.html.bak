@@ -62,90 +62,73 @@
                 <article>
                   <h2>Techniques</h2>
                   <p>Welcome to the Paiwt Techniques page. This is your portal
-                    into discovering new methods of using Paiwt.</p>
+                    into discovering new methods of using Paiwt. The beginner
+                    techniques are great for starting out, the intermediate
+                    techniques take more concentration to complete, and the
+                    advanced techniques take even more concentration. </p>
                   <em><strong>Beginner Techniques:<br>
                     </strong></em>
                   <table style="width: 100%" border="1">
                     <tbody>
                       <tr>
-                        <td><a href="colorful-medium" title="Colorful Medium"><img
-
+                        <td><a href="colorful-medium" title="Colorful Medium"><img
                               src="images/pic06b.png" alt="Colorful Medium" title="Colorful Medium"></a></td>
-                        <td><a href="peeling-off-plastic" title="Peeling Off Plastic"><img
-
-                              src="images/peeling-off-plastic.png" alt="Peeling Off Plastic"
-
+                        <td><a href="peeling-off-plastic" title="Peeling Off Plastic"><img
+                              src="images/peeling-off-plastic.png" alt="Peeling Off Plastic"
                               title="Peeling Off Plastic"></a></td>
                       </tr>
                       <tr>
-                        <td style="text-align: center;"><span style="color: #00cccc;"><a
-
+                        <td style="text-align: center;"><span style="color: #00cccc;"><a
                               href="colorful-medium" title="Colorful Medium">Colorful
                               Medium</a></span></td>
-                        <td style="text-align: center;"><span style="color: #180401;"><a
-
+                        <td style="text-align: center;"><span style="color: #180401;"><a
                               href="peeling-off-plastic" title="Peeling Off Plastic">Peeling
                               Off Plastic</a><strong><br>
                             </strong></span></td>
                       </tr>
                       <tr>
-                        <td><a href="using-paint-brush" title="Using Paint Brush"><img
-
+                        <td><a href="using-paint-brush" title="Using Paint Brush"><img
                               src="images/pic07b.png" alt="Using Paint Brush" title="Using Paint Brush"></a></td>
-                        <td><a href="pour-into-colors" title="Pour into Colors"><img
-
-                              src="images/pour-into-colors.png" alt="Pour into Colors"
-
+                        <td><a href="pour-into-colors" title="Pour into Colors"><img
+                              src="images/pour-into-colors.png" alt="Pour into Colors"
                               title="Pour into Colors"></a></td>
                       </tr>
                       <tr>
-                        <td style="text-align: center;"><a href="using-paint-brush"
-
+                        <td style="text-align: center;"><a href="using-paint-brush"
                             title="Using Paint Brush">Using Paint Brush</a></td>
                         <td style="text-align: center;"><a href="pour-into-colors">Pour
                             Into Colors</a><strong><br>
                           </strong></td>
                       </tr>
                       <tr>
-                        <td><a href="magic-brush" title="Magic Brush"><img src="images/magic-brush.png"
-
+                        <td><a href="magic-brush" title="Magic Brush"><img src="images/magic-brush.png"
                               alt="Magic Brush" title="Magic Brush"></a></td>
-                        <td><a href="straight-lines" title="Straight Lines"><img
-
-                              src="images/straight-lines.png" alt="Paiwt On Clay"
-
+                        <td><a href="straight-lines" title="Straight Lines"><img
+                              src="images/straight-lines.png" alt="Paiwt On Clay"
                               title="Paiwt On Clay"></a></td>
                       </tr>
                       <tr>
                         <td style="text-align: center;"><a href="magic-brush" title="Magic Brush">Magic
                             Brush</a></td>
-                        <td style="text-align: center;"><a href="straight-lines"
-
+                        <td style="text-align: center;"><a href="straight-lines"
                             title="Straight Lines">Straight Lines</a></td>
                       </tr>
                       <tr>
-                        <td><a href="adding-cutouts" title="Adding Cutouts"><img
-
-                              src="images/adding-cutouts.png" alt="Adding Cutouts"
-
+                        <td><a href="adding-cutouts" title="Adding Cutouts"><img
+                              src="images/adding-cutouts.png" alt="Adding Cutouts"
                               title="Adding Cutouts"></a></td>
-                        <td><a href="pouring-color-mixture" title="Pouring Color Mixture"><img
-
-                              src="images/pouring-color-mixture.png" alt="Pouring Color Mixture"
-
+                        <td><a href="pouring-color-mixture" title="Pouring Color Mixture"><img
+                              src="images/pouring-color-mixture.png" alt="Pouring Color Mixture"
                               title="Pouring Color Mixture"></a></td>
                       </tr>
                       <tr>
-                        <td style="text-align: center;"><a href="adding-cutouts"
-
+                        <td style="text-align: center;"><a href="adding-cutouts"
                             title="Adding Cutouts">Adding Cutouts</a></td>
-                        <td style="text-align: center;"><a href="pouring-color-mixture"
-
+                        <td style="text-align: center;"><a href="pouring-color-mixture"
                             title="Pouring Color Mixture">Pouring Color Mixture</a></td>
                       </tr>
                       <tr>
-                        <td><a href="blow-drip" title="Blow Drip"><img src="images/pic04b.png"
-
+                        <td><a href="blow-drip" title="Blow Drip"><img src="images/pic04b.png"
                               alt="Blow Drip" title="Blow Drip"></a></td>
                         <td><br>
                         </td>
@@ -164,18 +147,17 @@
                   <table style="width: 100%" border="1">
                     <tbody>
                       <tr>
-                        <td><img src="images/cutting-out-paiwt.png" alt="Paiwt On Clay"
-
-                            title="Paiwt On Clay"></td>
-                        <td><img src="images/large-colorful-design.png" alt="Paiwt On Clay"
-
-                            title="Paiwt On Clay"></td>
+                        <td><img src="images/cutting-out-paiwt.png" alt="Cutting Out Paiwt"
+                            title="Cutting Out Paiwt"></td>
+                        <td><a href="large-colorful-design" title="Large Colorful Design"><img
+                              src="images/large-colorful-design.png" alt="Paiwt On Clay"
+                              title="Paiwt On Clay"></a></td>
                       </tr>
                       <tr>
-                        <td style="text-align: center;"><strong>Cutting Out
-                            Paiwt</strong></td>
-                        <td style="text-align: center;"><strong>Large Colorful
-                            Design</strong></td>
+                        <td style="text-align: center;"><a href="cutting-out-paiwt"
+                            title="Cutting Out Paiwt">Cutting Out Paiwt</a></td>
+                        <td style="text-align: center;"><a href="large-colorful-design"
+                            title="Large Colorful Design">Large Colorful Design</a></td>
                       </tr>
                     </tbody>
                   </table>
@@ -185,14 +167,16 @@
                   <table style="width: 100%" border="1">
                     <tbody>
                       <tr>
-                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
-                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
+                        <td><a href="resin-finish" title="Resin Finish"><img src="images/resin-finish.png"
+                              alt="Resin Finish" title="Resin Finish"></a></td>
+                        <td><a href="creating-starfish" title="Creating Starfish"><strong><img
+                                src="images/starfish.png" alt="Paiwt On Clay" title="Paiwt On Clay"></strong></a></td>
                       </tr>
                       <tr>
-                        <td style="text-align: center;"><strong>Adding a Resin
-                            Finish</strong></td>
-                        <td style="text-align: center;"><strong>Creating
-                            Starfish</strong></td>
+                        <td style="text-align: center;"><a href="resin-finish" title="Resin Finish">Resin
+                            Finish</a></td>
+                        <td style="text-align: center;"><a href="creating-starfish"
+                            title="Creating Starfish">Creating Starfish</a></td>
                       </tr>
                       <tr>
                         <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
@@ -222,8 +206,7 @@
                         Off Plastic</a></li>
                     <li><a href="using-paint-brush" title="Using Paint Brush">Using
                         Paint Brush</a></li>
-                    <li><a href="adding-resin-finish" title="Adding a Resin Finish">Adding
-                        a Resin Finish</a></li>
+                    <li><a href="resin-finish" title="Resin Finish">Resin Finish</a></li>
                     <li><a href="pouring-medium-into-colors" title="Pouring Medium Into Colors">Pouring
                         Into Colors<br>
                       </a></li>
@@ -314,20 +297,15 @@
               <section class="widget contact last">
                 <h3>Contact Us</h3>
                 <ul>
-                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
-
+                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
                       title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
-
+                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
                       title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
-
+                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
                       title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
-
+                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
                       title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
-
+                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
                       title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
                 </ul>
                 <p>1350 E Flamingo Rd. Ste 13b 422<br>
