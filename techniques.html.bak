@@ -99,14 +99,11 @@
                           <table border="1">
                             <tbody>
                               <tr>
-                                <td><img src="images/pic04b.png" alt="Blow Drip Technique"
-
+                                <td><img src="images/pic04b.png" alt="Blow Drip Technique"
                                     title="Blow Drip Technique"> </td>
-                                <td><img src="images/pic05b.png" alt="Paiwt On Clay"
-
+                                <td><img src="images/pic05b.png" alt="Paiwt On Clay"
                                     title="Paiwt On Clay"> </td>
-                                <td><img src="images/pic06b.png" alt="Colorful Medium"
-
+                                <td><img src="images/pic06b.png" alt="Colorful Medium"
                                     title="Colorful Medium"> </td>
                               </tr>
                             </tbody>
@@ -123,14 +120,11 @@
                           <table border="1">
                             <tbody>
                               <tr>
-                                <td><img src="images/pic04b.png" alt="Blow Drip Technique"
-
+                                <td><img src="images/pic04b.png" alt="Blow Drip Technique"
                                     title="Blow Drip Technique"> </td>
-                                <td><img src="images/pic05b.png" alt="Paiwt On Clay"
-
+                                <td><img src="images/pic05b.png" alt="Paiwt On Clay"
                                     title="Paiwt On Clay"> </td>
-                                <td><img src="images/pic06b.png" alt="Colorful Medium"
-
+                                <td><img src="images/pic06b.png" alt="Colorful Medium"
                                     title="Colorful Medium"> </td>
                               </tr>
                             </tbody>
@@ -206,26 +200,7 @@
               <section class="widget links">
                 <h3>Customer Service</h3>
                 <ul class="style2">
-                  <li><a href="contact" title="Contact Us">Contact Us<br> <!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://Paiwt.us9.list-manage.com/subscribe/post?u=8a6a9a171c38193bc9389c1cb&amp;id=d764f95e76" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8a6a9a171c38193bc9389c1cb_d764f95e76" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+                  <li><a href="contact" title="Contact Us">Contact Us<br>
                     </a></li>
                   <li><a href="payments" title="Payment Options">Payment Options</a></li>
                   <li><a href="catalog" title="Request A Catalog">Request A
@@ -276,22 +251,17 @@
             <div class="col-3 col-6-medium col-12-small">
               <!-- Contact -->
               <section class="widget contact last">
-                <h3><span style="color: #fd320f;">Contact Us</span></h3>
+                <h3>Contact Us</h3>
                 <ul>
-                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
-
+                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
                       title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
-
+                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
                       title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
-
+                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
                       title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
-
+                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
                       title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
-
+                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
                       title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
                 </ul>
                 <p>1350 E Flamingo Rd. Ste 13b 422<br>
@@ -304,8 +274,7 @@
             <div class="col-12">
               <div id="copyright">
                 <ul class="menu">
-                  <li>Copyright © 2018 Paiwt.com. All rights
-                    reserved</li>
+                  <li>Copyright © 2018 Paiwt.com. All rights reserved</li>
                 </ul>
               </div>
             </div>
