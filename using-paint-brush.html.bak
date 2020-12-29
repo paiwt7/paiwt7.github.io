@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Techniques | Paiwt</title>
+    <title>Using Paint Brush | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
@@ -60,35 +60,42 @@
               <div id="content">
                 <!-- Content -->
                 <article>
-                  <h2>Using Paint Brushes</h2>
+                  <h2>Using Paint Brush</h2>
                   <hr>
-                  <p><img src="images/upb2.jpg" class="center" alt="" height="25%"
+                  <p><img src="images/upb2.jpg" class="center" alt="" height="25%"
+
                       width="25%"><br>
                   </p>
                   <p style="color:black;font-size:18px;">Using paint brushes is
                     an excellent way to create new designs. No Paiwt Expander is
                     needed, but when used it can enhance. Here I am painting on
                     a piece of wax paper. </p>
-                  <p><img src="images/upb3.jpg" class="center" alt="" height="25%"
+                  <p><img src="images/upb3.jpg" class="center" alt="" height="25%"
+
                       width="25%"><br>
                   </p>
-                  <p><img src="images/upb4.jpg" class="center" alt="" height="25%"
+                  <p><img src="images/upb4.jpg" class="center" alt="" height="25%"
+
                       width="25%"><br>
                   </p>
-                  <p><img src="images/upb5.jpg" class="center" alt="" height="25%"
+                  <p><img src="images/upb5.jpg" class="center" alt="" height="25%"
+
                       width="25%"><br>
                   </p>
                   <p style="color:black;font-size:18px;">Once you have finished
                     spreading Paiwt Medium and dropping your Paiwt Colors, use
                     your paint brush to mix the colors and create your unique
                     design. </p>
-                  <p><img src="images/upb6.jpg" class="center" alt="" height="25%"
+                  <p><img src="images/upb6.jpg" class="center" alt="" height="25%"
+
                       width="25%"><br>
                   </p>
                   <p style="color:black;font-size:18px;">Great looking designs
                     are achievable using Paiwt and paint brushes. </p>
-                  <p style="color: black; font-size: 18px; text-align: center;"
-                    class="center"> Visit <a href="https://www.etsy.com/shop/paiwt"
+                  <p style="color: black; font-size: 18px; text-align: center;"
+
+                    class="center"> Visit <a href="https://www.etsy.com/shop/paiwt"
+
                       target="_blank">The Paiwt e-Shop</a> to order genuine
                     Paiwt supplies. </p>
                 </article>
@@ -198,15 +205,20 @@
               <section class="widget contact last">
                 <h3>Social Media</h3>
                 <ul>
-                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+
                       title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+
                       title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+
                       title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+
                       title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+
                       title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
                 </ul>
               </section>
