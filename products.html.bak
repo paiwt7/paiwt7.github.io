@@ -62,11 +62,11 @@
                 <section>
                   <h3>Product Menu</h3>
                   <ul class="style2">
-                    <li><a href="colordroppers" title="Color Droppers">Color
+                    <li><a href="color-droppers" title="Color Droppers">Color
                         Droppers</a></li>
-                    <li><a href="whitemedium" title="White Medium">White Medium<br>
+                    <li><a href="white-medium" title="White Medium">White Medium<br>
                       </a></li>
-                    <li><a href="#">Expander</a></li>
+                    <li><a href="expander" title="Expander">Expander</a></li>
                   </ul>
                 </section>
               </div>
