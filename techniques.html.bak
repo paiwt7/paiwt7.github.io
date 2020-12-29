@@ -78,30 +78,48 @@
                               title="Peeling Off Plastic"></a></td>
                       </tr>
                       <tr>
-                        <td style="text-align: center;"><strong>Colorful Medium</strong></td>
-                        <td style="text-align: center;"><strong>Peeling Off
-                            Plastic<br>
-                          </strong></td>
-                      </tr>
-                      <tr>
-                        <td><img src="images/pic07b.png" alt="Using Paint Brush"
+                        <td style="text-align: center;"><span style="color: #00cccc;"><a
 
-                            title="Using Paint Brush"></td>
-                        <td><img src="images/pour-into-colors.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
+                              href="colorful-medium" title="Colorful Medium">Colorful
+                              Medium</a></span></td>
+                        <td style="text-align: center;"><span style="color: #180401;"><a
+
+                              href="peeling-off-plastic" title="Peeling Off Plastic">Peeling
+                              Off Plastic</a><strong><br>
+                            </strong></span></td>
                       </tr>
                       <tr>
-                        <td style="text-align: center;"><strong>Using Paint
-                            Brush</strong></td>
-                        <td style="text-align: center;"><strong>Pour Into Colors<br>
+                        <td><a href="using-paint-brush" title="Using Paint Brush"><img
+
+                              src="images/pic07b.png" alt="Using Paint Brush" title="Using Paint Brush"></a></td>
+                        <td><a href="pour-into-colors" title="Pour into Colors"><img
+
+                              src="images/pour-into-colors.png" alt="Pour into Colors"
+
+                              title="Pour into Colors"></a></td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: center;"><a href="using-paint-brush"
+
+                            title="Using Paint Brush">Using Paint Brush</a></td>
+                        <td style="text-align: center;"><a href="pour-into-colors">Pour
+                            Into Colors</a><strong><br>
                           </strong></td>
                       </tr>
                       <tr>
-                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
-                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
+                        <td><a href="magic-brush" title="Magic Brush"><img src="images/magic-brush.png"
+
+                              alt="Magic Brush" title="Magic Brush"></a></td>
+                        <td><img src="images/straight-lines.png" alt="Paiwt On Clay"
+
+                            title="Paiwt On Clay"></td>
                       </tr>
                       <tr>
-                        <td style="text-align: center;"><strong>Magic Brush</strong></td>
-                        <td style="text-align: center;"><strong>Straight Lines</strong></td>
+                        <td style="text-align: center;"><a href="magic-brush" title="Magic Brush">Magic
+                            Brush</a></td>
+                        <td style="text-align: center;"><a href="straight-lines"
+
+                            title="Straight Lines">Straight Lines</a></td>
                       </tr>
                       <tr>
                         <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
