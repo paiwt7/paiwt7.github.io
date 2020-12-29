@@ -2976,7 +2976,7 @@ word-break: break-word !important;
                       <li><a href="about" title="About Paiwt">About Paiwt </a></li>
                       <li><a href="mailinglist" title="Join Our Email List">Join
                           Our Email List </a></li>
-                      <li><a href="privacy" title="Security &amp; Privacy">Security
+                      <li><a href="security" title="Security &amp; Privacy">Security
                           &amp; Privacy </a></li>
                       <li><a href="terms" title="Terms of Use">Terms of Use </a></li>
                     </ul>
