@@ -61,9 +61,11 @@
                 <!-- Content -->
                 <article>
                   <h2>Cutting Out Paiwt</h2>
-                  <iframe class="center" src="https://www.youtube.com/embed/UltlmnTn13I?start=1763"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen="" height="315" frameborder="0" width="560"></iframe><br>
+                  <center> <iframe class="center" src="https://www.youtube.com/embed/UltlmnTn13I?start=1763"
+
+                      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+
+                      allowfullscreen="" height="315" frameborder="0" width="560"></iframe></center>
                   <br>
                   <p style="color:black;font-size:18px;">This technique
                     transforms your peel offs into cutout designs. You will need
@@ -72,14 +74,19 @@
                     butterfly. The designs for the cutouts come from
                     AuntAnnie.com. <br>
                     <br>
-                    <iframe class="center" src="https://www.youtube.com/embed/UltlmnTn13I?start=2616"
-                      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                      allowfullscreen="" height="315" frameborder="0" width="560"></iframe>
                   </p>
+                  <center> <iframe class="center" src="https://www.youtube.com/embed/UltlmnTn13I?start=2616"
+
+                      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+
+                      allowfullscreen="" height="315" frameborder="0" width="560"></iframe></center>
+                  <p></p>
                   <p style="color:black;font-size:18px;">Congratulations! You
                     have made a great cutout design!! </p>
-                  <p style="color: black; font-size: 18px; text-align: center;"
-                    class="center"> Visit <a href="https://www.etsy.com/shop/paiwt"
+                  <p style="color: black; font-size: 18px; text-align: center;"
+
+                    class="center"> Visit <a href="https://www.etsy.com/shop/paiwt"
+
                       target="_blank">The Paiwt e-Shop</a> to order genuine
                     Paiwt supplies. </p>
                 </article>
@@ -189,15 +196,20 @@
               <section class="widget contact last">
                 <h3>Social Media</h3>
                 <ul>
-                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+
                       title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+
                       title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+
                       title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+
                       title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+
                       title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
                 </ul>
               </section>
