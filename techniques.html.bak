@@ -68,10 +68,13 @@
                   <table style="width: 100%" border="1">
                     <tbody>
                       <tr>
-                        <td><a href="colorful-medium" title="Colorful Medium"><img
+                        <td><a href="colorful-medium" title="Colorful Medium"><img
+
                               src="images/pic06b.png" alt="Colorful Medium" title="Colorful Medium"></a></td>
-                        <td><a href="peeling-off-plastic" title="Peeling Off Plastic"><img
-                              src="images/peeling-off-plastic.png" alt="Peeling Off Plastic"
+                        <td><a href="peeling-off-plastic" title="Peeling Off Plastic"><img
+
+                              src="images/peeling-off-plastic.png" alt="Peeling Off Plastic"
+
                               title="Peeling Off Plastic"></a></td>
                       </tr>
                       <tr>
@@ -81,8 +84,10 @@
                           </strong></td>
                       </tr>
                       <tr>
-                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
-                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
+                        <td><img src="images/pic07b.png" alt="Using Paint Brush"
+
+                            title="Using Paint Brush"></td>
+                        <td><img src="images/pour-into-colors.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
                       </tr>
                       <tr>
                         <td style="text-align: center;"><strong>Using Paint
@@ -272,15 +277,20 @@
               <section class="widget contact last">
                 <h3>Contact Us</h3>
                 <ul>
-                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+
                       title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+
                       title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+
                       title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+
                       title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+
                       title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
                 </ul>
                 <p>1350 E Flamingo Rd. Ste 13b 422<br>
