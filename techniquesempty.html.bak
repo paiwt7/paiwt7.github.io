@@ -27,28 +27,40 @@
                   <li><a href="white-medium">White Medium</a></li>
                   <li><a href="expander">Expander</a></li>
                 </ul>
+              </li>
               <li><a href="instructions">Instructions</a></li>
               <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop">e-Shop</a></li>
               <li class="current"> <a href="techniques">Techniques</a>
                 <ul>
-                  <li><a href="colorful-medium">Colorful Medium</a></li>
-                  <li><a href="peeling-off-plastic">Peeling Off Plastic</a></li>
-                  <li><a href="using-paint-brush">Using Paint Brushes</a></li>
-                  <li><a href="adding-resin-finish">Adding a Resin Finish</a></li>
-                  <li> <a href="#">More</a>
+                  <li> <a href="#">Beginner Techniques</a>
                     <ul>
-                      <li><a href="pour-into-colors">Pouring
-                          Into Colors</a></li>
-                      <li><a href="magic-brush">"Magic Brush"</a></li>
-                      <li><a href="adding-cutouts">Adding Image Cutouts</a></li>
-                      <li><a href="cutting-out-paiwt">Cutting Out Your Paiwt</a></li>
-                      <li><a href="straight-lines">Straight Lines</a></li>
-                      <li><a href="pouring-color-mixture">Pouring Color Mixture</a></li>
-                      <li><a href="creating-starfish">Creating Starfish</a></li>
-                      <li><a href="paiwt-on-clay">Using Paiwt On Clay</a></li>
+                      <li><a href="colorful-medium">Colorful Medium</a></li>
+                      <li><a href="peeling-off-plastic">Peeling Off Plastic</a></li>
+                      <li><a href="using-paint-brush">Using Paint Brushes</a></li>
+                      <li><a href="pour-into-colors">Pouring Into Colors</a></li>
+                                  <li><a href="magic-brush">"Magic Brush"</a></li>
+                       <li><a href="straight-lines">Straight Lines</a></li>
+                              <li><a href="adding-cutouts">Adding Cutouts</a></li>
+                          <li><a href="pouring-color-mixture">Pouring Color Mixture</a></li>
+                       <li><a href="blow-drip">Blow Drip</a></li>
+                    </ul>
+                  </li>
+                  <li> <a href="#">Intermediate Techniques</a>
+                    <ul>
+                    
+                      <li><a href="cutting-out-paiwt">Cutting Out Paiwt</a></li>
                       <li><a href="large-colorful-designs">Large Colorful Design</a></li>
-                      <li><a href="blow-drip">Blow Drip</a></li>
-                      <li><a href="scenic-painting">Scenic Painting</a></li>
+            
+                    </ul>
+                  </li>
+                  <li> <a href="#">Advanced Techniques</a>
+                    <ul>
+                      
+                      <li><a href="paiwt-on-clay">Paiwt On Clay</a></li>
+                   <li><a href="starfish">Creating Starfish</a></li>
+                     <li><a href="scenic-painting">Scenic Painting</a></li>
+                          <li><a href="adding-resin-finish">Resin Finish</a></li>
+                
                     </ul>
                   </li>
                 </ul>
@@ -214,5 +226,6 @@
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
+    
   </body>
 </html>
