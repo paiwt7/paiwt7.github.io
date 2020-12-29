@@ -84,60 +84,48 @@
                       <tr>
                         <td style="text-align: center;"><strong>Using Paint
                             Brush</strong></td>
-                        <td style="text-align: center;"><strong>Pouring Medium
-                            Into Colors<br>
+                        <td style="text-align: center;"><strong>Pour Into Colors<br>
                           </strong></td>
+                      </tr>
+                      <tr>
+                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
+                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: center;"><strong>Magic Brush</strong></td>
+                        <td style="text-align: center;"><strong>Straight Lines</strong></td>
+                      </tr>
+                      <tr>
+                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
+                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: center;"><strong>Adding Image
+                            Cutouts</strong></td>
+                        <td style="text-align: center;"><strong>Pouring Color
+                            Mixture</strong></td>
                       </tr>
                     </tbody>
                   </table>
                   <em><strong><br>
-                    </strong></em><em><strong>Intermediate Techniques:</strong></em><br>
-                  <table border="1">
+                    </strong></em><em><strong>Intermediate Techniques:<br>
+                    </strong></em>
+                  <table style="width: 100%" border="1">
                     <tbody>
                       <tr>
-                        <td>
-                          <table border="1">
-                            <tbody>
-                              <tr>
-                                <td><img src="images/pic04b.png" alt="Blow Drip Technique"
-                                    title="Blow Drip Technique"> </td>
-                                <td><img src="images/pic05b.png" alt="Paiwt On Clay"
-                                    title="Paiwt On Clay"> </td>
-                                <td><img src="images/pic06b.png" alt="Colorful Medium"
-                                    title="Colorful Medium"> </td>
-                              </tr>
-                            </tbody>
-                          </table>
-                        </td>
+                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
+                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
                       </tr>
-                    </tbody>
-                  </table>
-                  <em><strong>Advanced Techniques:</strong></em><br>
-                  <table border="1">
-                    <tbody>
                       <tr>
-                        <td>
-                          <table border="1">
-                            <tbody>
-                              <tr>
-                                <td><img src="images/pic04b.png" alt="Blow Drip Technique"
-                                    title="Blow Drip Technique"> </td>
-                                <td><img src="images/pic05b.png" alt="Paiwt On Clay"
-                                    title="Paiwt On Clay"> </td>
-                                <td><img src="images/pic06b.png" alt="Colorful Medium"
-                                    title="Colorful Medium"> </td>
-                              </tr>
-                            </tbody>
-                          </table>
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                  <table border="1">
-                    <tbody>
-                      <tr>
+                        <td>Cutting Out Paiwt</td>
                         <td><br>
                         </td>
+                      </tr>
+                      <tr>
+                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
+                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
+                      </tr>
+                      <tr>
                         <td><br>
                         </td>
                         <td><br>
@@ -145,6 +133,8 @@
                       </tr>
                     </tbody>
                   </table>
+                  <em><strong><br>
+                    </strong></em><em><strong>Advanced Techniques:</strong></em><br>
                   <p></p>
                 </article>
               </div>
