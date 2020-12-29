@@ -62,10 +62,7 @@
                 <article>
                   <h2>Techniques</h2>
                   <p>Welcome to the Paiwt Techniques page. This is your portal
-                    into discovering new methods of using Paiwt. The beginner
-                    techniques are great for starting out, the intermediate
-                    techniques take more concentration to complete, and the
-                    advanced techniques take even more concentration. </p>
+                    into discovering new methods of using Paiwt. </p>
                   <em><strong>Beginner Techniques:<br>
                     </strong></em>
                   <table style="width: 100%" border="1">
@@ -179,12 +176,17 @@
                             title="Creating Starfish">Creating Starfish</a></td>
                       </tr>
                       <tr>
-                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
-                        <td><img src="images/pic05b.png" alt="Paiwt On Clay" title="Paiwt On Clay"></td>
+                        <td><a href="paiwt-on-clay" title="Paiwt on Clay"><img src="images/pic05b.png"
+                              alt="Paiwt On Clay" title="Paiwt On Clay"></a></td>
+                        <td><a href="scenic-painting" title="Scenic Painting"><img
+                              src="images/scenic-painting.png" alt="Scenic Painting"
+                              title="Scenic Painting"></a></td>
                       </tr>
                       <tr>
-                        <td style="text-align: center;"><strong>Paiwt on Clay</strong></td>
-                        <td style="text-align: center;"><strong>Scenic Painting</strong></td>
+                        <td style="text-align: center;"><a href="mailto:paiwt-on-clay"
+                            title="Paiwt On Clay">Paiwt on Clay</a></td>
+                        <td style="text-align: center;"><a href="scenic-painting"
+                            title="Scenic Painting">Scenic Painting</a></td>
                       </tr>
                     </tbody>
                   </table>
@@ -213,8 +215,8 @@
                     <li><a href="magic-brush" title="Magic Brush">"Magic Brush"</a></li>
                     <li><a href="adding-image-cutouts" title="Adding Image Cutouts">Adding
                         Cutouts</a></li>
-                    <li><a href="cutting-out-paiwt" title="Cutting Out Your Paiwt">Cutting
-                        Out Your Paiwt</a></li>
+                    <li><a href="cutting-out-paiwt" title="Cutting Out Paiwt">Cutting
+                        Out Paiwt</a></li>
                     <li><a href="straight-lines" title="Straight Lines">Straight
                         Lines</a></li>
                     <li><a href="pouring-color-mixture" title="Pouring Color Mixture">Pouring
