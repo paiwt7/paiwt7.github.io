@@ -209,6 +209,8 @@
                 <li><a href="shipping" title="Shipping Information">Shipping
                     Information </a></li>
                 <li><a href="returns" title="Return Policy">Return Policy</a></li>
+                <li><br>
+                </li>
               </ul>
             </section>
           </div>
@@ -219,8 +221,7 @@
                 <li><a href="help" title="General Help">General Help </a></li>
                 <li><a href="products" title="Products Page">Products Page </a></li>
                 <li><a href="instructions" title="Instructions">Instructions</a></li>
-                <li><a href="live" title="Live Show">Live Show<br>
-                  </a></li>
+                <li><a href="live" title="Live Show">Live Show</a></li>
                 <li><br>
                 </li>
               </ul>
