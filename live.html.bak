@@ -113,7 +113,7 @@
               <div class="row">
                 <div class="col-3 col-6-medium col-12-small">
                   <!-- Links -->
-                  <section class="widget links"> Customer Service
+                  <section class="widget links"> <strong>Customer Service </strong>
                     <ul class="style2">
                       <li><a href="contact" title="Contact Us">Contact Us </a></li>
                       <li><a href="payments" title="Payment Options">Payment
@@ -126,7 +126,7 @@
                 </div>
                 <div class="col-3 col-6-medium col-12-small">
                   <!-- Links -->
-                  <section class="widget links"> Product Information
+                  <section class="widget links"> <strong>Product Information </strong>
                     <ul class="style2">
                       <li><a href="help" title="General Help">General Help </a></li>
                       <li><a href="products" title="Products Page">Products Page
@@ -140,8 +140,8 @@
                   </section>
                 </div>
                 <div class="col-3 col-6-medium col-12-small">
-                  <!-- Links -->
-                  <section class="widget links"> Quick Links
+                  <!-- Links --><strong> </strong>
+                  <section class="widget links"><strong> Quick Links </strong>
                     <ul class="style2">
                       <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop ">e-Shop</a></li>
                       <li><a href="mailinglist" title="Join Our Email List">Join
