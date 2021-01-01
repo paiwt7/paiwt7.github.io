@@ -94,7 +94,7 @@
               <!-- Box -->
               <section class="box feature"> <a href="about" class="image featured"
                   title="About Paiwt" target="_blank"><img src="images/pic02b.png"
-                    alt="Instructions" title="Instructions"></a>
+                    alt="Instructions" title="Instructions" style="width: 353px; height: 279px;"></a>
                 <div class="inner">
                   <header>
                     <h2><u><a href="about" title="About">About</a></u></h2>
@@ -111,7 +111,7 @@
               <!-- Box -->
               <section class="box feature"> <a href="products" class="image featured"
                   title="Paiwt Products"><img src="images/pic01b.png" alt="Products"
-                    title="Products"></a>
+                    title="Products" style="width: 353px; height: 279px;"></a>
                 <div class="inner">
                   <header>
                     <h2><u><a href="products" title="Products">Products</a></u></h2>
@@ -128,7 +128,7 @@
               <!-- Box -->
               <section class="box feature"> <a href="instructions" class="image featured"
                   title="Paiwt Instructions"><img src="images/pic03b.png" alt="Instructions"
-                    title="Instructions"></a>
+                    title="Instructions" style="width: 354px; height: 280px;"></a>
                 <div class="inner">
                   <header>
                     <h2><u><a href="instructions" title="Instructions">Instructions</a></u></h2>
