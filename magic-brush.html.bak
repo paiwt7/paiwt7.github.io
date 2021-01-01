@@ -2,13 +2,12 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Techniques | Paiwt</title>
+    <title>Magic Brush | Techniques | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
   <body class="is-preload homepage">
-    <div id="page-wrapper">
-      <!-- Header -->
+    <div id="page-wrapper"> <!-- Header -->
       <div id="header-wrapper">
         <header id="header" class="container">
           <!-- Logo -->
@@ -62,39 +61,48 @@
                 <article>
                   <h2>Magic Brush</h2>
                   <hr>
-                  <p><img src="images/mb1.jpg" class="center" alt="" height="25%"
+                  <p><img src="images/mb1.jpg" class="center" alt="" height="25%"
+
                       width="25%"><br>
                   </p>
                   <p style="color:black;font-size:18px;">This technique is fun
                     and colorful, I call it "Magic Brush". To create your magic
                     brush, mix equal parts of Paiwt Expander with Paiwt Colors
                     then dip your brush into the mixture. </p>
-                  <p><img src="images/mb2.jpg" class="center" alt="" height="25%"
+                  <p><img src="images/mb2.jpg" class="center" alt="" height="25%"
+
                       width="25%"><br>
                   </p>
-                  <p><img src="images/mb3.jpg" class="center" alt="" height="25%"
+                  <p><img src="images/mb3.jpg" class="center" alt="" height="25%"
+
                       width="25%"><br>
                   </p>
                   <p style="color:black;font-size:18px;">Create new unique
                     designs with your magic brush using different Paiwt Colors
                     mixed with Paiwt Expander. </p>
-                  <p><img src="images/mb4.jpg" class="center" alt="" height="25%"
+                  <p><img src="images/mb4.jpg" class="center" alt="" height="25%"
+
                       width="25%"><br>
                   </p>
-                  <p><img src="images/mb5.jpg" class="center" alt="" height="25%"
+                  <p><img src="images/mb5.jpg" class="center" alt="" height="25%"
+
                       width="25%"><br>
                   </p>
-                  <p><img src="images/mb6.jpg" class="center" alt="" height="25%"
+                  <p><img src="images/mb6.jpg" class="center" alt="" height="25%"
+
                       width="25%"><br>
                   </p>
                   <p style="color:black;font-size:18px;">You can make new
                     stunning artwork with your "Magic Brush". </p>
-                  <p><img src="images/mb7.jpg" class="center" alt="" height="25%"
+                  <p><img src="images/mb7.jpg" class="center" alt="" height="25%"
+
                       width="25%"><br>
                   </p>
                   <p style="color:black;font-size:18px;"> </p>
-                  <p style="color: black; font-size: 18px; text-align: center;"
-                    class="center"> Visit <a href="https://www.etsy.com/shop/paiwt"
+                  <p style="color: black; font-size: 18px; text-align: center;"
+
+                    class="center"> Visit <a href="https://www.etsy.com/shop/paiwt"
+
                       target="_blank">The Paiwt e-Shop</a> to order genuine
                     Paiwt supplies. </p>
                 </article>
@@ -102,133 +110,129 @@
             </div>
             <div class="col-4 col-12-medium">
               <div id="sidebar">
-                <!-- Sidebar -->
+             <!-- Sidebar -->
                 <section>
                   <h3>Techniques Menu</h3>
                   <ul class="style2">
-                    <li><a href="colorful-medium" title="Colorful Medium">Colorful
+                    <li><strong style="color: #666666;">Beginner Techniques</strong><br>
+                      <a href="colorful-medium" title="Colorful Medium">Colorful
                         Medium</a></li>
                     <li><a href="peeling-off-plastic" title="Peeling Off Plastic">Peeling
                         Off Plastic</a></li>
                     <li><a href="using-paint-brush" title="Using Paint Brush">Using
                         Paint Brush</a></li>
-                    <li><a href="resin-finish" title="Resin Finish">Resin Finish</a></li>
-                    <li><a href="pouring-medium-into-colors" title="Pouring Medium Into Colors">Pour
-                        Into Colors<br>
-                      </a></li>
+                    <li><a href="pour-into-colors" title="Pouring Medium Into Colors">Pour
+                        Into Colors</a></li>
                     <li><a href="magic-brush" title="Magic Brush">"Magic Brush"</a></li>
-                    <li><a href="adding-image-cutouts" title="Adding Image Cutouts">Adding
-                        Cutouts</a></li>
-                    <li><a href="cutting-out-paiwt" title="Cutting Out Paiwt">Cutting
-                        Out Paiwt</a></li>
                     <li><a href="straight-lines" title="Straight Lines">Straight
                         Lines</a></li>
+                    <li><a href="adding-cutouts" title="Adding Image Cutouts">Adding
+                        Cutouts</a></li>
                     <li><a href="pouring-color-mixture" title="Pouring Color Mixture">Pouring
                         Color Mixture</a></li>
-                    <li><a href="creating-starfish" title="Creating Starfish">Creating
-                        Starfish</a></li>
+                    <li><a href="blow-drip" title="Blow Drip">Blow Drip</a><br>
+                      <span style="color: #0090c5;"></span></li>
+                    <li><strong style="color: #666666;">Intermediate Techniques</strong></li>
+                    <li><a href="cutting-out-paiwt" title="Cutting Out Paiwt">Cutting
+                        Out Paiwt</a></li>
+                    <li><a href="large-colorful-designs" title="Large Colorful Design">Large
+                        Colorful Design</a></li>
+                    <li><strong style="color: #666666;">Advanced Techniques</strong></li>
                     <li><a href="paiwt-on-clay" title="Paiwt On Clay">Paiwt On
                         Clay</a></li>
-                    <li><a href="large-colorful-design" title="Large Colorful Design">Large
-                        Colorful Design</a></li>
-                    <li><a href="blow-drip" title="Blow Drip">Blow Drip</a></li>
+                    <li><a href="starfish" title="Creating Starfish">Creating
+                        Starfish</a></li>
                     <li><a href="scenic-painting" title="Scenic Painting">Scenic
                         Painting</a></li>
+                    <li><a href="resin-finish" title="Resin Finish">Resin Finish</a></li>
                   </ul>
                 </section>
               </div>
             </div>
           </div>
         </div>
-      </div>
-      <!-- Footer -->
-      <div id="footer-wrapper">
-        <footer id="footer" class="container">
-          <div class="row">
-            <div class="col-3 col-6-medium col-12-small">
-              <!-- Links -->
-              <section class="widget links">
-                <h3>Customer Service</h3>
-                <ul class="style2">
-                  <li><a href="contact" title="Contact Us">Contact Us<br>
-                    </a></li>
-                  <li><a href="payments" title="Payment Options">Payment Options</a></li>
-                  <li><a href="catalog" title="Request A Catalog">Request A
-                      Catalog</a></li>
-                  <li><a href="shipping" title="Shipping Information">Shipping
-                      Information<br>
-                    </a></li>
-                  <li><a href="returns" title="Return Policy">Return Policy</a></li>
-                </ul>
-              </section>
-            </div>
-            <div class="col-3 col-6-medium col-12-small">
-              <!-- Links -->
-              <section class="widget links">
-                <h3>Product Information</h3>
-                <ul class="style2">
-                  <li><a href="help" title="General Help">General Help<br>
-                    </a></li>
-                  <li><a href="products" title="Products Page">Products Page<br>
-                    </a></li>
-                  <li><a href="instructions" title="Instructions">Instructions</a></li>
-                  <li><a href="green" title="Being Green At Paiwt">Being Green
-                      at Paiwt</a></li>
-                  <li><a href="health" title="Health &amp; Saftey">Health &amp;
-                      Safety</a></li>
-                </ul>
-              </section>
-            </div>
-            <div class="col-3 col-6-medium col-12-small">
-              <!-- Links -->
-              <section class="widget links">
-                <h3>Quick Links</h3>
-                <ul class="style2">
-                  <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop ">e-Shop</a></li>
-                  <li><a href="about" title="About Paiwt">About Paiwt<br>
-                    </a></li>
-                  <li><a href="mailinglist" title="Join Our Email List">Join Our
-                      Email List<br>
-                    </a></li>
-                  <li><a href="security" title="Security &amp; Privacy">Security
-                      &amp; Privacy<br>
-                    </a></li>
-                  <li><a href="terms" title="Terms of Use">Terms of Use</a></li>
-                  <li><br>
-                  </li>
-                </ul>
-              </section>
-            </div>
-            <div class="col-3 col-6-medium col-12-small">
-              <!-- Contact -->
-              <section class="widget contact last">
-                <h3>Social Media</h3>
-                <ul>
-                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
-                      title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
-                      title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
-                      title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
-                      title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
-                      title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
-                </ul>
-              </section>
+      </div>      <!-- Footer --> </div>
+    <div id="footer-wrapper">
+      <footer id="footer" class="container">
+        <div class="row">
+          <div class="col-3 col-6-medium col-12-small">
+            <!-- Links -->
+            <section class="widget links"> <strong>Customer Service </strong>
+              <ul class="style2">
+                <li><a href="contact" title="Contact Us">Contact Us </a></li>
+                <li><a href="payments" title="Payment Options">Payment Options</a></li>
+                <li><a href="shipping" title="Shipping Information">Shipping
+                    Information </a></li>
+                <li><a href="returns" title="Return Policy">Return Policy</a></li>
+                <li><br>
+                </li>
+              </ul>
+            </section>
+          </div>
+          <div class="col-3 col-6-medium col-12-small">
+            <!-- Links -->
+            <section class="widget links"> <strong>Product Information </strong>
+              <ul class="style2">
+                <li><a href="help" title="General Help">General Help </a></li>
+                <li><a href="products" title="Products Page">Products Page </a></li>
+                <li><a href="instructions" title="Instructions">Instructions</a></li>
+                <li><a href="live" title="Live Show">Live Show</a></li>
+                <li><br>
+                </li>
+              </ul>
+            </section>
+          </div>
+          <div class="col-3 col-6-medium col-12-small">
+            <!-- Links --><strong> </strong>
+            <section class="widget links"><strong> Quick Links </strong>
+              <ul class="style2">
+                <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop ">e-Shop</a></li>
+                <li><a href="mailinglist" title="Join Our Email List">Join Our
+                    Email List </a></li>
+                <li><a href="security" title="Security &amp; Privacy">Security
+                    &amp; Privacy </a></li>
+                <li><a href="terms" title="Terms of Use">Terms of Use </a></li>
+                <li><br>
+                </li>
+              </ul>
+            </section>
+          </div>
+          <div class="col-3 col-6-medium col-12-small">
+            <!-- Contact -->
+            <section class="widget contact last"><strong><span style="color: #ff2400;">Social
+                  Media</span></strong><br>
+              <ul>
+                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+
+                    title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
+                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+
+                    title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
+                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+
+                    title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
+                <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+
+                    title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
+                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+
+                    title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
+              </ul>
+              <p><br>
+              </p>
+            </section>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <div id="copyright">
+              <ul class="menu">
+                <li>Copyright © 2018 Paiwt.com. All rights reserved</li>
+              </ul>
             </div>
           </div>
-          <div class="row">
-            <div class="col-12">
-              <div id="copyright">
-                <ul class="menu">
-                  <li>Copyright © 2018 Paiwt.com. All rights reserved</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </footer>
-      </div>
+        </div>
+      </footer>
     </div>
     <!-- Scripts -->
     <script src="assets/js/jquery.min.js"></script>
