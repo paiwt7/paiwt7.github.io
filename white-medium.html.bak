@@ -15,7 +15,7 @@
           <div id="logo">
             <h1><a href="index.html">Paiwt </a></h1>
             <span></span> </div>
-         <!-- Nav -->
+          <!-- Nav -->
           <nav id="nav">
             <ul>
               <li><a href="index" title="https://paiwt7.github.io">Welcome</a></li>
@@ -110,8 +110,8 @@
                       title="White Medium Image #2"><br>
                   </a>
                   <p style="color:black;font-size:18px;">Mixing your colors
-                    using <a href="colordroppers">Paiwt Color Droppers</a>,
-                    creates a colorful medium:<br>
+                    using <a href="color-droppers" title="Paiwt Color Droppers">Paiwt
+                      Color Droppers</a>, creates a colorful medium:<br>
                   </p>
                   <a href="colorfulmedium" target="_blank"><img src="images/cmt7.jpg"
                       class="center" alt=""><br>
@@ -135,7 +135,7 @@
         </div>
       </div>
     </div>
-         <!-- Footer --> </div>
+    <!-- Footer -->
     <div id="footer-wrapper">
       <footer id="footer" class="container">
         <div class="row">
@@ -186,20 +186,15 @@
             <section class="widget contact last"><strong><span style="color: #ff2400;">Social
                   Media</span></strong><br>
               <ul>
-                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
-
+                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
                     title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
-
+                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
                     title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
-
+                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
                     title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
-
+                <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
                     title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
-
+                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
                     title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
               </ul>
               <p><br>
