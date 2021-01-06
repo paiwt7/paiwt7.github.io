@@ -22,8 +22,7 @@
         <header id="header" class="container">
           <!-- Logo -->
           <div id="logo">
-            <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img
-
+            <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img
                   src="images/logo9.png" alt="yes" title="yes"></a></h1>
             <span></span> </div>
           <!-- Nav -->
@@ -86,8 +85,7 @@
               Paiwt are all-natural dropper paints for artists of any age and
               skill level. Made from water soluble, nontoxic materials, Paiwt is
               safe to use and has no harmful chemicals or unpleasant odors.
-              Paiwt was created in 2009 by <a href="https://facebook.com/crosswaters"
-
+              Paiwt was created in 2009 by <a href="https://facebook.com/crosswaters"
                 target="_blank">Daniel Crosswaters Bohnett</a>. Initially, Paiwt
               was known by another name, and over the years has gone through
               numerous name changes including: Artist Group Anonymous, Art Kit
@@ -97,30 +95,24 @@
               Fractals being created.<br>
               <br>
               <div style="text-align: justify;">
-                <center><iframe src="https://www.youtube.com/embed/wa_DP8xLQt0"
-
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-
+                <center><iframe src="https://www.youtube.com/embed/wa_DP8xLQt0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen="" height="158" frameborder="0" width="280"></iframe><br>
                   <br>
                 </center>
               </div>
               <hr>
               <div style="display: inline-flex; width: 100%">
-                <div style="width: 50%">
+                <div style="width: 25%">
                   <dl>
-                    <dt> <img src="images/daniel.png"
-
-                        alt="Daniel Crosswaters Bohnett" style="height: 138px; width: 226px;"
-
+                    <dt style="text-align: right;"> <img src="images/daniel.png"
+                        alt="Daniel Crosswaters Bohnett" style="height: 100px; width: 165px;"
                         title="Daniel Crosswaters Bohnett"> </dt>
                   </dl>
                 </div>
-                <div style="width: 50%"> Crosswaters continued producing his <a
-
+                <div style="width: 75%"> Crosswaters continued producing his <a
                     href="https://www.youtube.com/paiwt" target="_blank">organic
-                    dendrite fractal painting videos</a>, while posting his <a
-
+                    dendrite fractal painting videos</a>, while posting his <a
                     href="techniques">Techniques</a>. In early 2011, Mr. Bohnett
                   recieved his first order, and has been selling all over the
                   world, over 40 countries, ever since. </div>
@@ -129,8 +121,7 @@
           </div>
           <div style="text-align: justify;">
             <div style="text-align: center;"><br>
-              <iframe src="https://www.youtube.com/embed/ZGI9y9N3jlg" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-
+              <iframe src="https://www.youtube.com/embed/ZGI9y9N3jlg" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen="" height="158" frameborder="0" width="280"></iframe></div>
             &nbsp;
             <center> </center>
@@ -237,20 +228,15 @@
                   <section class="widget contact last"><strong><span style="color: #ffaab4;">Social
                         Media</span></strong><br>
                     <ul>
-                      <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
-
+                      <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
                           title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                      <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
-
+                      <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
                           title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                      <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
-
+                      <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
                           title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                      <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
-
+                      <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
                           title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                      <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
-
+                      <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
                           title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
                     </ul>
                   </section>
