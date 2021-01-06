@@ -15,8 +15,9 @@
         <header id="header" class="container">
           <!-- Logo -->
           <div id="logo">
-            <h1 style="background-color: transparent;"><a href="index.html"><img
-                  src="images/logo9.png" alt="yes" title="yes" style="width: 192px; height: 97px;"></a></h1>
+            <h1 style="background-color: transparent;"><a href="index.html"><img
+
+                  src="images/logo9.png" alt="yes" title="yes" style="width: 140px; height: 71px;"></a></h1>
             <span></span> </div>
           <!-- Nav -->
           <nav id="nav">
@@ -79,9 +80,11 @@
             </div>
             <div class="col-5 col-12-medium">
               <ul>
-                <li><a href="https://etsy.com/shop/paiwt" class="button large icon solid fa-arrow-circle-right"
+                <li><a href="https://etsy.com/shop/paiwt" class="button large icon solid fa-arrow-circle-right"
+
                     title="Paiwt e-Shop">Visit e-Shop</a></li>
-                <li><a href="about" class="button alt large icon solid fa-question-circle"
+                <li><a href="about" class="button alt large icon solid fa-question-circle"
+
                     title="Learn More Information">More info</a></li>
               </ul>
             </div>
@@ -94,8 +97,10 @@
           <div class="row">
             <div class="col-4 col-12-medium">
               <!-- Box -->
-              <section class="box feature"> <a href="about" class="image featured"
-                  title="About Paiwt" target="_blank"><img src="images/pic02b.png"
+              <section class="box feature"> <a href="about" class="image featured"
+
+                  title="About Paiwt" target="_blank"><img src="images/pic02b.png"
+
                     alt="Instructions" title="Instructions" style="width: 353px; height: 279px;"></a>
                 <div class="inner">
                   <header>
@@ -111,8 +116,10 @@
             </div>
             <div class="col-4 col-12-medium">
               <!-- Box -->
-              <section class="box feature"> <a href="products" class="image featured"
-                  title="Paiwt Products"><img src="images/pic01b.png" alt="Products"
+              <section class="box feature"> <a href="products" class="image featured"
+
+                  title="Paiwt Products"><img src="images/pic01b.png" alt="Products"
+
                     title="Products" style="width: 353px; height: 279px;"></a>
                 <div class="inner">
                   <header>
@@ -120,7 +127,8 @@
                     <div style="text-align: justify;"> Colorful dendrite fractal
                       painting supplies and artwork.&nbsp; Learn about Paiwt
                       products including White Medium, Color Droppers, and
-                      Expander. Visit our <a href="https://etsy.com/shop/paiwt"
+                      Expander. Visit our <a href="https://etsy.com/shop/paiwt"
+
                         target="_blank">e-Shop</a> for genuine Paiwt Supplies.</div>
                   </header>
                 </div>
@@ -128,8 +136,10 @@
             </div>
             <div class="col-4 col-12-medium">
               <!-- Box -->
-              <section class="box feature"> <a href="instructions" class="image featured"
-                  title="Paiwt Instructions"><img src="images/pic03b.png" alt="Instructions"
+              <section class="box feature"> <a href="instructions" class="image featured"
+
+                  title="Paiwt Instructions"><img src="images/pic03b.png" alt="Instructions"
+
                     title="Instructions" style="width: 354px; height: 280px;"></a>
                 <div class="inner">
                   <header>
@@ -157,17 +167,25 @@
                   <h3>Discover New Methods!</h3>
                   <div class="grid">
                     <div class="row gtr-50">
-                      <div class="col-6"><a href="blow-drip" class="image fit" title="Blow Drip Technique"><img
+                      <div class="col-6"><a href="blow-drip" class="image fit" title="Blow Drip Technique"><img
+
                             src="images/pic04b.png" alt="Blow Drip" title="Blow Drip"></a></div>
-                      <div class="col-6"><a href="paiwt-on-clay" class="image fit"
-                          title="Using Paiwt On Clay Techniquer"><img src="images/pic05b.png"
+                      <div class="col-6"><a href="paiwt-on-clay" class="image fit"
+
+                          title="Using Paiwt On Clay Techniquer"><img src="images/pic05b.png"
+
                             alt="Paiwt On Clay" title="Paiwt On Clay"></a></div>
-                      <div class="col-6"><a href="colorful-medium" class="image fit"
-                          title="Colorful Medium Technique"><img src="images/pic06b.png"
+                      <div class="col-6"><a href="colorful-medium" class="image fit"
+
+                          title="Colorful Medium Technique"><img src="images/pic06b.png"
+
                             alt="Colorful Medium" title="Colorful Medium"></a></div>
-                      <div class="col-6"><a href="using-paint-brush" class="image fit"
-                          title="Using Paint Brush"><img src="images/pic07b.png"
-                            alt="Paint Brushs" title="Paint Brushs"></a><a href="#"
+                      <div class="col-6"><a href="using-paint-brush" class="image fit"
+
+                          title="Using Paint Brush"><img src="images/pic07b.png"
+
+                            alt="Paint Brushs" title="Paint Brushs"></a><a href="#"
+
                           class="image fit"></a></div>
                     </div>
                   </div>
@@ -181,7 +199,8 @@
                 <div class="inner">
                   <header>
                     <h2><u><a href="techniques" title="Techniques">Techniques</a></u></h2>
-                    <p style="text-align: justify;">Never seen before, Paiwt <a
+                    <p style="text-align: justify;">Never seen before, Paiwt <a
+
                         href="techniques" title="Techniques">Techniques</a> show
                       new possibilities for artists. Learn step-by-step with
                       picture references as you discover some of the infinite
@@ -191,7 +210,8 @@
                       as <a href="scenic-painting" title="Sceninic Painting">Scenic
                         Painting</a>. Paiwt has tools for any artist, so pick up
                       a dropper and have fun!</p>
-                    <a href="adding-cutouts" title="Adding Image Out"><img src="images/indextechniques.png"
+                    <a href="adding-cutouts" title="Adding Image Out"><img src="images/indextechniques.png"
+
                         alt="Paiwt Techniques" title="Paiwt Techniques"></a><br>
                     &nbsp;<a href="techniques" class="button icon solid fa-arrow-circle-right">Learn
                       Techniques</a> </header>
@@ -251,15 +271,20 @@
               <section class="widget contact last"><strong><span style="color: #ff2400;">Social
                     Media</span></strong><br>
                 <ul>
-                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+                  <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+
                       title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+                  <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+
                       title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+                  <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+
                       title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+
                       title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+                  <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+
                       title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
                 </ul>
               </section>
