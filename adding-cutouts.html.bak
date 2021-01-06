@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
-  <head>
+  <head>  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140661149-1');
+</script>
+
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Adding Cutout Images | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -11,14 +20,11 @@
       <!-- Header -->
       <div id="header-wrapper">
         <header id="header" class="container">
-          <!-- Logo -->
-          <div id="logo">
-            <h1><a href="index.html">Paiwt </a></h1>
-            <span></span> </div>
+ <!-- Logo -->     <div id="logo">   <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img  src="images/logo9.png" alt="yes" title="yes"></a></h1>          <span></span> </div>
           <!-- Nav -->
           <nav id="nav">
             <ul>
-              <li><a href="index" title="https://paiwt7.github.io">Welcome</a></li>
+              <li><a href="https://paiwt.com" title="https://paiwt.com">Welcome</a></li>
               <li><a href="about" title="About">About<br>
                 </a> </li>
               <li><a href="products">Products</a>
@@ -81,26 +87,21 @@
                     making collages. For my project, I will be using 3 cutouts
                     and a Paiwt painting. <br>
                     <br>
-                    <img src="images/aict2.jpg" class="center" alt="" height="25%"
-
-                      width="25%"> </p>
+                    <img src="images/aict2.jpg" class="center" alt="" style="width: 352px; height: 245px;">
+                  </p>
                   <p style="color:black;font-size:18px;">Glue your cutouts onto
                     your dried Paiwt painting. I glued eyes and arms cutouts.<br>
                     <br>
-                    <img src="images/aict3.jpg" class="center" alt="" height="25%"
-
-                      width="25%"> <br>
+                    <img src="images/aict3.jpg" class="center" alt="" style="width: 345px; height: 380px;">
                     <br>
-                    <img src="images/aict4.jpg" class="center" alt="" height="25%"
-
-                      width="25%"> </p>
+                    <br>
+                    <img src="images/aict4.jpg" class="center" alt="" style="width: 344px; height: 392px;">
+                  </p>
                   <p style="color:black;font-size:18px;">Paiwt with cutouts can
                     create awesome works of art! Once you've finished with all
                     your cutouts I recommend Adding a Clear Resin Finish. </p>
-                  <p style="color: black; font-size: 18px; text-align: center;"
-
-                    class="center"> Visit <a href="https://www.etsy.com/shop/paiwt"
-
+                  <p style="color: black; font-size: 18px; text-align: center;"
+                    class="center"> Visit <a href="https://www.etsy.com/shop/paiwt"
                       target="_blank">The Paiwt e-Shop</a> to order genuine
                     Paiwt supplies. <br>
                   </p>
@@ -109,7 +110,7 @@
             </div>
             <div class="col-4 col-12-medium">
               <div id="sidebar">
-              <!-- Sidebar -->
+                <!-- Sidebar -->
                 <section>
                   <h3>Techniques Menu</h3>
                   <ul class="style2">
@@ -151,7 +152,7 @@
           </div>
         </div>
       </div>
-        <!-- Footer --> </div>
+      <!-- Footer --> </div>
     <div id="footer-wrapper">
       <footer id="footer" class="container">
         <div class="row">
@@ -202,20 +203,15 @@
             <section class="widget contact last"><strong><span style="color: #ff2400;">Social
                   Media</span></strong><br>
               <ul>
-                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
-
+                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
                     title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
-
+                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
                     title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
-
+                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
                     title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
-
+                <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
                     title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
-
+                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
                     title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
               </ul>
               <p><br>

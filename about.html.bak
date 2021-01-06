@@ -3,6 +3,16 @@
 	Verti by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
   <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140661149-1');
+</script>
+
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>About | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -12,14 +22,11 @@
     <div id="page-wrapper">
       <div id="header-wrapper">
         <header id="header" class="container">
-          <!-- Logo -->
-          <div id="logo">
-            <h1><a href="index.html">Paiwt </a></h1>
-            <span></span> </div>
+ <!-- Logo -->     <div id="logo">   <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img  src="images/logo9.png" alt="yes" title="yes"></a></h1>          <span></span> </div>
           <!-- Nav -->
           <nav id="nav">
             <ul>
-              <li><a href="index" title="https://paiwt7.github.io">Welcome</a></li>
+              <li><a href="https://paiwt.com" title="Homepage">Welcome</a></li>
               <li class="current"><a href="about" title="About">About </a> </li>
               <li><a href="products">Products</a>
                 <ul>
@@ -79,30 +86,32 @@
               Paiwt was created in 2009 by <a href="https://facebook.com/crosswaters"
                 target="_blank">Daniel Crosswaters Bohnett</a>. In 2010 Daniel
               published the first YouTube video of Acrylic Dendrite Fractals
-              being created.
+              being created.<br>
+              <br>
               <div style="text-align: justify;">
                 <center><iframe src="https://www.youtube.com/embed/wa_DP8xLQt0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen="" height="158" frameborder="0" width="280"></iframe><br>
+                  <br>
                 </center>
               </div>
               Crosswaters continued producing his <a href="https://youtube.com/artkitstore"
                 target="_blank">organic dendrite fractal painting videos</a>,
               while posting his <a href="techniques">Techniques</a>. In early
               2011, Mr. Bohnett recieved his first order, and has been selling
-              all over the world, 40 countries, ever since.
+              all over the world, 40 countries, ever since.<br>
+              <br>
               <div style="text-align: justify;">
-                <div style="text-align: center;"><iframe src="https://www.youtube.com/embed/ZGI9y9N3jlg"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen="" height="158" frameborder="0" width="280"></iframe>
-                </div>
+                <div style="text-align: center;"><br>
+                  <iframe src="https://www.youtube.com/embed/ZGI9y9N3jlg" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen="" height="158" frameborder="0" width="280"></iframe></div>
+                <div style="text-align: center;">&nbsp;</div>
                 <center> </center>
               </div>
-              <p style="color: black; font-size: 18px; text-align: left;">
-                Please review our F.A.Q.s below, and if you have any further
-                questions or comments please visit our <a href="contact">contact</a>
-                page or our <a href="https://t.me/PaiwtTelegram" target="_blank">Telegram.
-                  </a> </p>
+              Please review our F.A.Q.s below, and if you have any further
+              questions or comments please visit our <a href="contact">contact</a>
+              page or our <a href="https://t.me/PaiwtTelegram" target="_blank">Telegram.</a><br>
+              <br>
               <div style="text-align: left;"><strong>To start creating artwork
                   with Paiwt, what materials do I need? </strong><br>
                 You will need all three of the following: <a href="whitemedium">Paiwt
