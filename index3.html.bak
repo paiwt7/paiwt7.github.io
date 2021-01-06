@@ -15,8 +15,9 @@
         <header id="header" class="container">
           <!-- Logo -->
           <div id="logo">
-            <h1 style="background-color: transparent;"><img src="images/logo-06.png"
-                alt="yes" title="yes" style="width: 141px; height: 141px;"></h1>
+            <h1 style="background-color: transparent;"><a href="index.html"><img
+                  src="file:///C:/Users/danbo/Downloads/paiwt_project/PAIWT-06.png"
+                  alt="yes" title="yes" style="width: 88px; height: 45px;"></a></h1>
             <span></span> </div>
           <!-- Nav -->
           <nav id="nav">
