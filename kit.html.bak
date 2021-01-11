@@ -99,21 +99,83 @@
                 <!-- Content -->
                 <article>
                   <h2>Paiwt Kit</h2>
-                  <p style="color:black;font-size:18px;">You can purchase a
-                    Paiwt Kit </p>
-                  <a href="https://www.etsy.com/listing/853836280" target="_blank"><img
-                      src="file:///C:/Users/danbo/Documents/GitHub/paiwt7.github.io/images/3mLKit.jpg"
-                      alt="Paiwt Kit" title="Paiwt Kit" style="width: 241px; height: 281px;"><br>
+                  <img src="file:///C:/Users/danbo/Documents/GitHub/paiwt7.github.io/images/3mLKit.png"
+                    alt="Paiwt Kit" title="Paiwt Kit"><br>
+                  <br>
+                  <section>
+                    <div class="table-wrapper">
+                      <table>
+                        <thead>
+                          <tr>
+                            <th style="background-color: #62bca3;">Description</th>
+                            <th style="background-color: #62bca3;">Price</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                            <td><span style="color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Kit
+                                Includes:</span><br style="margin: 0px; box-sizing: border-box; color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                              <span style="color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Nine
+                                Paiwt Colors in 3mL Dropper Bottles (100+ Drops
+                                of Color per 1/10 oz Bottle)</span><br style="margin: 0px; box-sizing: border-box; color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                              <span style="color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">(Red,
+                                Yellow, Blue, Green, Pink, Orange, Purple,
+                                Brown, and Black)</span><br style="margin: 0px; box-sizing: border-box; color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                              <span style="color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Paiwt
+                                Medium in 8 oz Dual Chamber Bottle (5 to 6
+                                Square Feet of Surface)</span><br style="margin: 0px; box-sizing: border-box; color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                              <span style="color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Paiwt
+                                Expander in 15mL Dropper Bottle (500+ Drops of
+                                Expander per 1/2 oz Bottle)</span><br style="margin: 0px; box-sizing: border-box; color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                              <span style="color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Instructions
+                                Booklet</span><br style="margin: 0px; box-sizing: border-box; color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                              <span style="color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">100%
+                                Satisfaction Guaranteed</span><br style="margin: 0px; box-sizing: border-box; color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                              <span style="color: rgb(34, 34, 34); font-family: &quot;Graphik Webfont&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Droid Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span></td>
+                            <td><span style="color: dimgray;"><b> </b>
+                                <p ;=""><span style="color: #62bca3;"><b>$25</b></span></p>
+                              </span></td>
+                          </tr>
+                        </tbody>
+                        <tfoot>
+                          <tr>
+                            <td colspan="1">To purchase, first completely fill
+                              out our <a href="mailing-list" title="Mailing List">Mailing
+                                List Form</a>, then complete your purchase by
+                              selecting your region with either <br>
+                              a.) U.S. Order if you are in the 48 U.S.
+                              Continental States or </td>
+                            <td>
+                              <div style="text-align: center;"> <a class="buy-with-crypto"
+                                  href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2">
+                                  U.S. Order </a>
+                                <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
+  </script> </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>b.) International Order if you are placing your
+                              order from outside of the 48 U.S. Continental
+                              States. </td>
+                            <td>
+                              <div style="text-align: center;"> <a class="buy-with-crypto"
+                                  href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21">
+                                  Buy with Crypto </a>
+                                <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
+  </script>
+                              </div>
+                              <br>
+                            </td>
+                          </tr>
+                        </tfoot>
+                      </table>
+                    </div>
+                  </section>
+                  <p></p>
+                  <a href="https://www.etsy.com/listing/853836280" target="_blank">
                   </a>
-                  <p style="color:black;font-size:18px;">$20<br>
-                    <a href="peelingoffplastic" target="_blank"> </a> </p>
                   <p style="color: black; font-size: 15px; text-align: center;"
                     class="center"></p>
-                  <div> <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2">
-                      Buy with Crypto </a>
-                    <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
-  </script> </div>
-                  <br>
                   <p></p>
                 </article>
               </div>
