@@ -140,7 +140,7 @@
                           Satisfaction Guaranteed.</td>
                         <td style="text-align: center;"><strong>U.S. <br>
                             <span style="color: #62bca3;">24.99</span><br>
-                            International<br>
+                            Int.<br>
                             <span style="color: #62bca3;">64.99</span><br>
                           </strong></td>
                       </tr>
@@ -151,13 +151,16 @@
                           with either<br>
                           a.) U.S. Order if you are in the 48 U.S. Contiguous
                           States or </td>
-                        <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2"><button
-                              name="U.S." value="U.S." type="button" formtarget="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2">U.S.</button></a></td>
+                        <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2"
+                            title="U.S. Paiwt Order" target="_blank"><button name="U.S."
+                              value="U.S." type="button" formtarget="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2">U.S.</button></a></td>
                       </tr>
                       <tr>
                         <td>b.) International Order if you are placing your
                           order from outside of the 48 U.S. Contiguous States. </td>
-                        <td>Test</td>
+                        <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2"
+                            title="U.S. Paiwt Order" target="_blank"><button name="Int."
+                              value="Int." type="button" formtarget="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2">Int.</button></a></td>
                       </tr>
                     </tbody>
                   </table>
