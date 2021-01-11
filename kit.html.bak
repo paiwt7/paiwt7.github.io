@@ -153,10 +153,10 @@
                           States or </td>
                         <td style="text-align: center;">
                           <div> <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2">
-                              U.S. Order </a>
+                              U.S. <br>
+                              Order </a>
                             <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
-  </script>
-                          </div>
+  </script> </div>
                         </td>
                       </tr>
                       <tr>
@@ -165,7 +165,8 @@
                         <td>
                           <div style="text-align: center;"> <a class="buy-with-crypto"
                               href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21">
-                              International Order </a>
+                              International <br>
+                              Order </a>
                             <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
   </script> </div>
                         </td>
