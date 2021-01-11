@@ -61,7 +61,7 @@ mark {
 }
 
 input::-moz-focus-inner {
-	border: 0;
+	border: 5;
 	padding: 0;
 }
 
