@@ -101,7 +101,7 @@
                   <h2>Paiwt Kit</h2>
                   <img src="images/3mLKit.png" alt="Paiwt Kit" title="Paiwt Kit"><br>
                   <div class="table-wrapper">
-                    <table class="alt">
+                    <table class="alt" style="width: 100%;" border="5">
                       <thead>
                         <tr>
                           <th style="background-color: #62bca3;">Description</th>
