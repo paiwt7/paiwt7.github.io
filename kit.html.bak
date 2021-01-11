@@ -127,7 +127,7 @@
                     <tbody>
                       <tr>
                         <th style="background-color: #62bca3;">Description</th>
-                        <th style="background-color: #62bca3;">Price</th>
+                        <th style="background-color: #62bca3; text-align: center;">Price</th>
                       </tr>
                       <tr>
                         <td>Kit Includes: Nine Paiwt Colors in 3mL Dropper
