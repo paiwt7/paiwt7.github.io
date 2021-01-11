@@ -103,7 +103,9 @@
                   <p>We now offer the ability to purchase a Paiwt Kit directly
                     from Paiwt.com using Bitcoin. You can also visit the <a href="https://paiwt.com/shop/paiwt"
                       title="Paiwt Etsy e-Shop ">Paiwt Etsy e-Shop</a> to
-                    purchase. </p>
+                    purchase. When purchasing from Paiwt.com using Bitcoin, your
+                    order total includes shipping, taxes, and all handling fees.
+                  </p>
                   <style>
 #customers {
   font-family: Arial, Helvetica, sans-serif;
@@ -150,7 +152,7 @@
                       </tr>
                       <tr>
                         <td>To purchase using Bitcoin, first complete our <a href="mailinglist"
-                            title="Mailing List Form" target="_self">Mailing
+                            title="Mailing List Form" target="_blank">Mailing
                             Form</a>, then complete your order by selecting your
                           region:</td>
                         <td><br>
