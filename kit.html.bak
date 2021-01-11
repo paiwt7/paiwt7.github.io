@@ -157,13 +157,7 @@
                       <tr>
                         <td>b.) International Order if you are placing your
                           order from outside of the 48 U.S. Contiguous States. </td>
-                        <td>
-                          <div style="text-align: center;"> <a class="buy-with-crypto"
-                              href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21">
-                              International </a>
-                            <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
-  </script> </div>
-                        </td>
+                        <td>Test</td>
                       </tr>
                     </tbody>
                   </table>
