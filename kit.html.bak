@@ -146,9 +146,9 @@
                       </tr>
                       <tr>
                         <td>To purchase, first complete our <a href="mailinglist"
-                            title="Mailing List Form" target="_blank">Mailing
-                            Form</a>, then complete your purchase by selecting
-                          your region:</td>
+                            title="Mailing List Form" target="_self">Mailing
+                            Form</a>, then complete your order by selecting your
+                          region:</td>
                         <td><br>
                         </td>
                       </tr>
@@ -167,6 +167,14 @@
                         <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21"
                             title="International Paiwt Order" target="_blank"><button
                               name="Int." value="Int." type="button" formtarget="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21">Int.</button></a></td>
+                      </tr>
+                      <tr>
+                        <td>You will receive a confirmation, along with a USPS
+                          Priority Mail tracking code by e-mail within 24 hours
+                          of your order. <a href="shipping" title="Shipments">Shipments</a>
+                          are sent out the next business day.</td>
+                        <td><br>
+                        </td>
                       </tr>
                     </tbody>
                   </table>
