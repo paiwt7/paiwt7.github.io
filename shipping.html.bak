@@ -2,50 +2,70 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Shipping | Paiwt</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140661149-1');
+</script> <title>Shipping | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
   <body class="is-preload homepage">
-    <p><br>
-    </p>
-    <p><!-- Header --> </p>
+    <!-- Header -->
     <div id="page-wrapper">
       <div id="header-wrapper">
         <header id="header" class="container">
           <!-- Logo -->
           <div id="logo">
-            <h1><a href="index.html">Paiwt </a></h1>
+            <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img
+                  src="images/logo9.png" alt="yes" title="yes"></a></h1>
             <span></span> </div>
           <!-- Nav -->
           <nav id="nav">
             <ul>
-              <li><a href="https://paiwt7.github.io" title="paiwt7.github.io">Welcome
-                  </a></li>
-              <li><a href="about">About</a></li>
-              <li><a href="products" title="Products">Products</a></li>
+              <li><a href="https://paiwt.com" title="https://paiwt.com">Welcome</a></li>
+              <li><a href="about" title="About">About<br>
+                </a> </li>
+              <li><a href="products">Products</a>
+                <ul>
+                  <li><a href="color-droppers">Color Droppers</a></li>
+                  <li><a href="white-medium">White Medium</a></li>
+                  <li><a href="expander">Expander</a></li>
+                </ul>
+              </li>
               <li><a href="instructions">Instructions</a></li>
               <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop">e-Shop</a></li>
               <li> <a href="techniques">Techniques</a>
                 <ul>
-                  <li><a href="colorful-medium">Colorful Medium</a></li>
-                  <li><a href="peeling-off-plastic">Peeling Off Plastic</a></li>
-                  <li><a href="using-paint-brush">Using Paint Brushes</a></li>
-                  <li><a href="adding-resin-finish">Adding a Resin Finish</a></li>
-                  <li> <a href="#">More</a>
+                  <li> <a href="#">Beginner Techniques</a>
                     <ul>
-                      <li><a href="pouring-medium-into-colors">Pouring Medium
-                          Into Colors</a></li>
+                      <li><a href="colorful-medium">Colorful Medium</a></li>
+                      <li><a href="peeling-off-plastic">Peeling Off Plastic</a></li>
+                      <li><a href="using-paint-brush">Using Paint Brush</a></li>
+                      <li><a href="pour-into-colors">Pouring Into Colors</a></li>
                       <li><a href="magic-brush">"Magic Brush"</a></li>
-                      <li><a href="adding-image-cutouts">Adding Image Cutouts</a></li>
-                      <li><a href="cutting-out-paiwt">Cutting Out Your Paiwt</a></li>
                       <li><a href="straight-lines">Straight Lines</a></li>
+                      <li><a href="adding-cutouts">Adding Cutouts</a></li>
                       <li><a href="pouring-color-mixture">Pouring Color Mixture</a></li>
-                      <li><a href="creating-starfish">Creating Starfish</a></li>
-                      <li><a href="paiwt-on-clay">Using Paiwt On Clay</a></li>
-                      <li><a href="large-colorful-design">Large Colorful Design</a></li>
                       <li><a href="blow-drip">Blow Drip</a></li>
+                    </ul>
+                  </li>
+                  <li> <a href="#">Intermediate Techniques</a>
+                    <ul>
+                      <li><a href="cutting-out-paiwt">Cutting Out Paiwt</a></li>
+                      <li><a href="large-colorful-designs">Large Colorful Design</a></li>
+                    </ul>
+                  </li>
+                  <li> <a href="#">Advanced Techniques</a>
+                    <ul>
+                      <li><a href="paiwt-on-clay">Paiwt On Clay</a></li>
+                      <li><a href="starfish">Creating Starfish</a></li>
                       <li><a href="scenic-painting">Scenic Painting</a></li>
+                      <li><a href="resin-finish">Resin Finish</a></li>
                     </ul>
                   </li>
                 </ul>
@@ -60,11 +80,11 @@
           <div id="content">
             <!-- Content -->
             <article>
-              <h1 style="text-align: justify;">Shipping Information</h1>
+              <h2>Shipping Information</h2>
               Ground shipping charges for orders to be delivered within the
               contiguous 48 United States are based on the number of unique
-              items in your order for orders totaling less than $35; orders of
-              $35 or more ship free. <br>
+              items in your order for orders totaling less than $25; orders of
+              $25 or more ship free. <br>
               Residential orders within the 48 contiguous states will ship USPS
               Priority 1 business days of receipt of your order and will be
               delivered within 2–7 business days. If your postal address is
@@ -73,15 +93,11 @@
                 the 48 Contiguous States<br>
               </strong>Shipping charges for residential orders shipping to AK,
               HI, PR, VI, the Pacific Territories, and APO/FPO addresses,
-              regardless of order total or weight, will require a freight quote.
-              The shipping charge will show up as TBD (To Be Determined) within
-              your order. We will contact you with a shipping quote within 24
-              hours of placing your order, and we will not ship your order
-              without your approval. We apologize for any inconvenience this may
-              cause. After approval, your order will be shipped via USPS
+              regardless of order total or weight, will require you to place an
+              international order.&nbsp; Your order will be shipped via USPS
               Priority Mail. <br>
               <strong>Free Shipping</strong><br>
-              Merchandise orders totaling $35 or more ship freight-free via USPS
+              Merchandise orders totaling $25 or more ship freight-free via USPS
               Priority to the United States of America. <br>
               Free Shipping does not apply to Expedited or Overnight Express
               Shipping. Oversized or overweight orders will ship via a freight
@@ -99,7 +115,7 @@
               Due to occasional carrier rate increases, the shipping rates shown
               above may differ from the rates that appear in previously
               published catalogs. Currently, we offer FREE SHIPPING for
-              merchandise orders totaling $35 or more (with some exceptions).
+              merchandise orders totaling $25 or more (with some exceptions).
               Shipping rates are subject to change without notice. All shipping
               methods require a physical address. USPS Parcel Post is available
               only if you have no physical address (i.e., a PO Box), and USPS
@@ -130,47 +146,46 @@
               Questions regarding international shipments should be directed to
               sales@paiwt.com. International orders do not ship without customer
               approval so questions regarding shipping charges will be answered
-              once an order is placed. You may also call 1-702-764-7095.<!-- Footer --></article>
+              once an order is placed. You may also call 1-702-764-7095.
+              <!-- Footer --> </article>
           </div>
           <div id="footer-wrapper">
             <footer id="footer" class="container">
               <div class="row">
                 <div class="col-3 col-6-medium col-12-small">
                   <!-- Links -->
-                  <section class="widget links"> Customer Service
+                  <section class="widget links"> <strong>Customer Service </strong>
                     <ul class="style2">
                       <li><a href="contact" title="Contact Us">Contact Us </a></li>
                       <li><a href="payments" title="Payment Options">Payment
                           Options</a></li>
-                      <li><a href="catalog" title="Request A Catalog">Request A
-                          Catalog</a></li>
                       <li><a href="shipping" title="Shipping Information">Shipping
                           Information </a></li>
                       <li><a href="returns" title="Return Policy">Return Policy</a></li>
+                      <li><br>
+                      </li>
                     </ul>
                   </section>
                 </div>
                 <div class="col-3 col-6-medium col-12-small">
                   <!-- Links -->
-                  <section class="widget links"> Product Information
+                  <section class="widget links"> <strong>Product Information </strong>
                     <ul class="style2">
                       <li><a href="help" title="General Help">General Help </a></li>
                       <li><a href="products" title="Products Page">Products Page
                         </a></li>
                       <li><a href="instructions" title="Instructions">Instructions</a></li>
-                      <li><a href="green" title="Being Green At Paiwt">Being
-                          Green at Paiwt</a></li>
-                      <li><a href="health" title="Health &amp; Saftey">Health
-                          &amp; Safety</a></li>
+                      <li><a href="live" title="Live Show">Live Show</a></li>
+                      <li><br>
+                      </li>
                     </ul>
                   </section>
                 </div>
                 <div class="col-3 col-6-medium col-12-small">
-                  <!-- Links -->
-                  <section class="widget links"> Quick Links
+                  <!-- Links --><strong> </strong>
+                  <section class="widget links"><strong> Quick Links </strong>
                     <ul class="style2">
                       <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop ">e-Shop</a></li>
-                      <li><a href="about" title="About Paiwt">About Paiwt </a></li>
                       <li><a href="mailinglist" title="Join Our Email List">Join
                           Our Email List </a></li>
                       <li><a href="security" title="Security &amp; Privacy">Security
@@ -183,7 +198,8 @@
                 </div>
                 <div class="col-3 col-6-medium col-12-small">
                   <!-- Contact -->
-                  <section class="widget contact last"> Contact Us
+                  <section class="widget contact last"><strong><span style="color: #ffaab4;">Social
+                        Media</span></strong><br>
                     <ul>
                       <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
                           title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
@@ -191,14 +207,13 @@
                           title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
                       <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
                           title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                      <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+                      <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
                           title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
                       <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
                           title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
                     </ul>
-                    <p>1350 E Flamingo Rd. Ste 13b 422<br>
-                      Las Vegas, NV 89119<br>
-                      (702) 764-7095</p>
+                    <p><br>
+                    </p>
                   </section>
                 </div>
               </div>
@@ -206,21 +221,21 @@
                 <div class="col-12">
                   <div id="copyright">
                     <ul class="menu">
-                      <li>Copyright © 2018 Paiwt.com. All rights reserved</li>
+                      <li> © 2018 Paiwt.com. All rights reserved</li>
                     </ul>
                   </div>
                 </div>
               </div>
             </footer>
           </div>
-        </div>
-        <!-- Scripts -->
-        <script src="assets/js/jquery.min.js"></script>
-        <script src="assets/js/jquery.dropotron.min.js"></script>
-        <script src="assets/js/browser.min.js"></script>
-        <script src="assets/js/breakpoints.min.js"></script>
-        <script src="assets/js/util.js"></script>
-        <script src="assets/js/main.js"></script> </div>
+          <!-- Scripts -->
+          <script src="assets/js/jquery.min.js"></script>
+          <script src="assets/js/jquery.dropotron.min.js"></script>
+          <script src="assets/js/browser.min.js"></script>
+          <script src="assets/js/breakpoints.min.js"></script>
+          <script src="assets/js/util.js"></script>
+          <script src="assets/js/main.js"></script> </div>
+      </div>
     </div>
   </body>
 </html>

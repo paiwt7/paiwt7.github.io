@@ -1,24 +1,29 @@
 <!DOCTYPE html>
 <html>
-  <head>
+  <head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140661149-1');
+</script>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Color Droppers | Paiwt</title>
+    <title>Color Droppers | Products | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
   <body class="is-preload homepage">
-    <div id="page-wrapper">
-      <!-- Header -->
+    <div id="page-wrapper"> <!-- Header -->
       <div id="header-wrapper">
         <header id="header" class="container">
-          <!-- Logo -->
-          <div id="logo">
-            <h1><a href="index.html">Paiwt </a></h1>
-            <span></span> </div>
+               <!-- Logo -->     <div id="logo">   <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img  src="images/logo9.png" alt="yes" title="yes"></a></h1>          <span></span> </div>
+         
           <!-- Nav -->
           <nav id="nav">
             <ul>
-              <li><a href="index" title="https://paiwt7.github.io">Welcome</a></li>
+              <li><a href="https://paiwt.com" title="https://paiwt.com">Welcome</a></li>
               <li><a href="about" title="About">About<br>
                 </a> </li>
               <li class="current"><a href="products">Products</a>
@@ -89,21 +94,26 @@
                 <!-- Content -->
                 <article>
                   <h2>Paiwt Color Droppers</h2>
-                  <p style="color:black;font-size:18px;"> <a href="https://www.etsy.com/listing/856052002"
+                  <p style="color:black;font-size:18px;"> <a href="https://www.etsy.com/listing/856052002"
+
                       target="_blank">Paiwt Color Droppers</a> offer an art form
                     that is unique, when used with <a href="white-medium" title="Paiwt White Medium">Paiwt
                       Medium</a> they produce an organic effect. The process is
                     easy, safe, and fun. </p>
-                  <a href="https://www.etsy.com/listing/856052002" target="_blank"><img
-                      src="images/lcdt4b.png" class="center" alt="Paiwt Color Droppers Image #1"
+                  <a href="https://www.etsy.com/listing/856052002" target="_blank"><img
+
+                      src="images/lcdt4b.png" class="center" alt="Paiwt Color Droppers Image #1"
+
                       title="Paiwt Color Droppers Image #1"><br>
                   </a>
                   <p style="color:black;font-size:18px;">There are 9 different
                     Paiwt Colors including: Red, Yellow, Purple, Green, Orange,
                     Blue, Brown, Pink, and Black.<br>
                   </p>
-                  <a href="https://www.etsy.com/listing/856052002/3ml-paiwt-color-droppers-dendrite?variation0=1677445702"
-                    target="_blank"><img src="images/colordroppers7.png" class="center"
+                  <a href="https://www.etsy.com/listing/856052002/3ml-paiwt-color-droppers-dendrite?variation0=1677445702"
+
+                    target="_blank"><img src="images/colordroppers7.png" class="center"
+
                       alt="Color Dropper Image #2" title="Color Dropper Image #2"><br>
                   </a>
                   <p style="color:black;font-size:18px;">When two or more Paiwt
@@ -112,12 +122,16 @@
                     together. New colors and designs can be achieved by then
                     using <a href="expander">Paiwt Expander.</a><br>
                   </p>
-                  <a href="https://www.instagram.com/p/CDwyraGnKCh/" target="_blank"><img
-                      src="images/expander8.png" class="center" alt="Color Dropper Picture #3"
+                  <a href="https://www.instagram.com/p/CDwyraGnKCh/" target="_blank"><img
+
+                      src="images/expander8.png" class="center" alt="Color Dropper Picture #3"
+
                       title="Color Dropper Picture #3"><br>
                   </a>
-                  <p style="color: black; font-size: 15px; text-align: center;"
-                    class="center"> Visit <a href="https://www.etsy.com/shop/paiwt"
+                  <p style="color: black; font-size: 15px; text-align: center;"
+
+                    class="center"> Visit <a href="https://www.etsy.com/shop/paiwt"
+
                       target="_blank">The Paiwt e-Shop</a> to order genuine
                     Paiwt supplies. </p>
                 </article>
@@ -175,18 +189,23 @@
           </div>
           <div class="col-3 col-6-medium col-12-small">
             <!-- Contact -->
-            <section class="widget contact last"><strong><span style="color: #ff2400;">Social
+            <section class="widget contact last"><strong><span style="color: #ffaab4;">Social
                   Media</span></strong><br>
               <ul>
-                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+
                     title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+
                     title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+
                     title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+                <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
+
                     title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+
                     title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
               </ul>
               <p><br>
@@ -198,7 +217,7 @@
           <div class="col-12">
             <div id="copyright">
               <ul class="menu">
-                <li>Copyright © 2018 Paiwt.com. All rights reserved</li>
+                <li> © 2018 Paiwt.com. All rights reserved</li>
               </ul>
             </div>
           </div>
