@@ -100,6 +100,10 @@
                 <!-- Content -->
                 <article>
                   <h2>Paiwt Kit</h2>
+                  <p>We now offer the ability to purchase a Paiwt Kit directly
+                    from Paiwt.com using Bitcoin. You can also visit the <a href="https://paiwt.com/shop/paiwt"
+                      title="Paiwt Etsy e-Shop ">Paiwt Etsy e-Shop</a> to
+                    purchase. </p>
                   <style>
 #customers {
   font-family: Arial, Helvetica, sans-serif;
@@ -145,7 +149,7 @@
                           </strong></td>
                       </tr>
                       <tr>
-                        <td>To purchase, first complete our <a href="mailinglist"
+                        <td>To purchase using Bitcoin, first complete our <a href="mailinglist"
                             title="Mailing List Form" target="_self">Mailing
                             Form</a>, then complete your order by selecting your
                           region:</td>
@@ -161,8 +165,10 @@
                               value="U.S." type="button" formtarget="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2">U.S.</button></a></td>
                       </tr>
                       <tr>
-                        <td>b.) International Order if you are placing your
-                          order from outside of the <a href="shipping" title="Shipping Information">48
+                        <td><a href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21"
+                            title="International Order" target="_blank">b.)</a>
+                          International Order if you are placing your order from
+                          outside of the <a href="shipping" title="Shipping Information">48
                             U.S. Contiguous States. </a></td>
                         <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21"
                             title="International Paiwt Order" target="_blank"><button
@@ -171,7 +177,7 @@
                       <tr>
                         <td>You will receive a confirmation, along with a USPS
                           Priority Mail tracking code by e-mail within 24 hours
-                          of your order. <a href="shipping" title="Shipments">Shipments</a>
+                          of your order. <a href="shipping" title="Shipping Information">Shipments</a>
                           are sent out the next business day.</td>
                         <td><br>
                         </td>
