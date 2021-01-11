@@ -157,19 +157,18 @@
                         </td>
                       </tr>
                       <tr>
-                        <td>a.) U.S. Order if you are in the <a href="shipping"
-                            title="Shipping Information">48 U.S. Contiguous
-                            States</a>.</td>
+                        <td>a.) U.S. Order if you are <u><strong>in</strong></u>
+                          the <a href="shipping" title="Shipping Information">48
+                            U.S. Contiguous States</a>.</td>
                         <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2"
                             title="U.S. Paiwt Order" target="_blank"><button name="U.S."
                               value="U.S." type="button" formtarget="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2">U.S.</button></a></td>
                       </tr>
                       <tr>
-                        <td><a href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21"
-                            title="International Order" target="_blank">b.)</a>
-                          International Order if you are placing your order from
-                          outside of the <a href="shipping" title="Shipping Information">48
-                            U.S. Contiguous States. </a></td>
+                        <td>b.) International Order if you are placing your
+                          order from <strong><u>outside</u></strong> of the <a
+                            href="shipping" title="Shipping Information">48 U.S.
+                            Contiguous States. </a></td>
                         <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21"
                             title="International Paiwt Order" target="_blank"><button
                               name="Int." value="Int." type="button" formtarget="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21">Int.</button></a></td>
