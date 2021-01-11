@@ -100,55 +100,81 @@
                 <article>
                   <h2>Paiwt Kit</h2>
                   <img src="images/3mLKit.png" alt="Paiwt Kit" title="Paiwt Kit"><br>
-                  <div class="table-wrapper">
-                    <table class="alt" style="width: 100%;" border="5">
-                      <thead>
-                        <tr>
-                          <th style="background-color: #62bca3;">Description</th>
-                          <th style="background-color: #62bca3;">Price</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr>
-                          <td>Kit Includes: <br>
-                            Nine Paiwt Colors in 3mL Dropper Bottles (100+ Drops
-                            of Color per 1/10 oz Bottle) (Red, Yellow, Blue,
-                            Green, Pink, Orange, Purple, Brown, and Black) <br>
-                            Paiwt Medium in 8 oz Dual Chamber Bottle (5 to 6
-                            Square Feet of Surface) Paiwt Expander in 15mL
-                            Dropper Bottle (500+ Drops of Expander per 1/2 oz
-                            Bottle)<br>
-                            Instructions Booklet <br>
-                            100% Satisfaction Guaranteed<br>
-                            Shipping Included<br>
-                          </td>
-                          <td><strong>24.99</strong></td>
-                        </tr>
-                        <tr>
-                          <td> a.) U.S. Order if you are in the 48 U.S.
-                            Continental States or </td>
-                          <td>
-                            <div> <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2">
-                                U.S. Order </a>
-                              <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
+                  <style>
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+</style> <table id="customers">
+                    <tbody>
+                      <tr>
+                        <th style="background-color: #62bca3;">Description</th>
+                        <th style="background-color: #62bca3;">Price</th>
+                      </tr>
+                      <tr>
+                        <td>Kit Includes: Nine Paiwt Colors in 3mL Dropper
+                          Bottles (100+ Drops of Color per 1/10 oz Bottle) (Red,
+                          Yellow, Blue, Green, Pink, Orange, Purple, Brown, and
+                          Black) Paiwt Medium in 8 oz Dual Chamber Bottle (5 to
+                          6 Square Feet of Surface) Paiwt Expander in 15mL
+                          Dropper Bottle (500+ Drops of Expander per 1/2 oz
+                          Bottle) Instructions Booklet 100% Satisfaction
+                          Guaranteed Shipping Included</td>
+                        <td style="text-align: center;"><strong>U.S. <br>
+                            <span style="color: #62bca3;">24.99</span><br>
+                            International<br>
+                            <span style="color: #62bca3;">64.99</span><br>
+                          </strong></td>
+                      </tr>
+                      <tr>
+                        <td>To purchase, first completely fill out our <a href="mailing-list"
+                            title="Mailing List Form">Mailing List Form</a>,
+                          then complete your purchase by selecting your region
+                          with either<br>
+                          a.) U.S. Order if you are in the 48 U.S. Continental
+                          States or </td>
+                        <td>
+                          <div> <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2">
+                              U.S. Order </a>
+                            <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
+  </script>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>b.) International Order if you are placing your
+                          order from outside of the 48 U.S. Continental States.
+                        </td>
+                        <td>
+                          <div> <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21">
+                              International Order </a>
+                            <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
   </script> </div>
-                          </td>
-                        </tr>
-                      </tbody>
-                      <tfoot>
-                        <tr>
-                          <td colspan="1">b.) International Order if you are
-                            placing your order from outside of the 48 U.S.
-                            Continental States. </td>
-                          <td>
-                            <div> <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21">
-                                International Order </a>
-                              <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
-  </script> </div>
-                          </td>
-                        </tr>
-                      </tfoot>
-                    </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <br>
+                  <br>
+                  <div class="table-wrapper"><br>
                   </div>
                   <p></p>
                   <a href="https://www.etsy.com/listing/853836280" target="_blank">
