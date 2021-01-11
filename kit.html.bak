@@ -104,8 +104,8 @@
                     from Paiwt.com using Bitcoin. You can also visit the <a href="https://paiwt.com/shop/paiwt"
                       title="Paiwt Etsy e-Shop ">Paiwt Etsy e-Shop</a> to
                     purchase. When purchasing from Paiwt.com using Bitcoin, your
-                    order total includes shipping, taxes, and all handling fees.
-                  </p>
+                    order total includes taxes, shipping, handling, and all
+                    other fees. </p>
                   <style>
 #customers {
   font-family: Arial, Helvetica, sans-serif;
@@ -176,9 +176,9 @@
                               name="Int." value="Int." type="button" formtarget="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21">Int.</button></a></td>
                       </tr>
                       <tr>
-                        <td>You will receive a confirmation, along with a USPS
-                          Priority Mail tracking code by e-mail within 24 hours
-                          of your order. <a href="shipping" title="Shipping Information">Shipments</a>
+                        <td>You will receive a confirmation receipt, along with
+                          a USPS Priority Mail tracking code by e-mail within 24
+                          hours of your order. <a href="shipping" title="Shipping Information">Shipments</a>
                           are sent out the next business day.</td>
                         <td><br>
                         </td>
