@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140661149-1');
+</script> <title>Paiwt Kit | Products | Paiwt</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="is-preload homepage">
+    <div id="page-wrapper">
+      <!-- Header -->
+      <div id="header-wrapper">
+        <header id="header" class="container">
+          <!-- Logo -->
+          <div id="logo">
+            <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img
+                  src="images/logo9.png" alt="yes" title="yes"></a></h1>
+            <span></span> </div>
+          <!-- Nav -->
+          <nav id="nav">
+            <ul>
+              <li><a href="https://paiwt.com" title="https://paiwt.com">Welcome</a></li>
+              <li><a href="about" title="About">About<br>
+                </a> </li>
+              <li class="current"><a href="products">Products</a>
+                <ul>
+                  <li><a href="color-droppers">Color Droppers</a></li>
+                  <li><a href="white-medium">White Medium</a></li>
+                  <li><a href="expander">Expander</a></li>
+                </ul>
+              </li>
+              <li><a href="instructions">Instructions</a></li>
+              <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop">e-Shop</a></li>
+              <li> <a href="techniques">Techniques</a>
+                <ul>
+                  <li> <a href="#">Beginner Techniques</a>
+                    <ul>
+                      <li><a href="colorful-medium">Colorful Medium</a></li>
+                      <li><a href="peeling-off-plastic">Peeling Off Plastic</a></li>
+                      <li><a href="using-paint-brush">Using Paint Brush</a></li>
+                      <li><a href="pour-into-colors">Pouring Into Colors</a></li>
+                      <li><a href="magic-brush">"Magic Brush"</a></li>
+                      <li><a href="straight-lines">Straight Lines</a></li>
+                      <li><a href="adding-cutouts">Adding Cutouts</a></li>
+                      <li><a href="pouring-color-mixture">Pouring Color Mixture</a></li>
+                      <li><a href="blow-drip">Blow Drip</a></li>
+                    </ul>
+                  </li>
+                  <li> <a href="#">Intermediate Techniques</a>
+                    <ul>
+                      <li><a href="cutting-out-paiwt">Cutting Out Paiwt</a></li>
+                      <li><a href="large-colorful-designs">Large Colorful Design</a></li>
+                    </ul>
+                  </li>
+                  <li> <a href="#">Advanced Techniques</a>
+                    <ul>
+                      <li><a href="paiwt-on-clay">Paiwt On Clay</a></li>
+                      <li><a href="starfish">Creating Starfish</a></li>
+                      <li><a href="scenic-painting">Scenic Painting</a></li>
+                      <li><a href="resin-finish">Resin Finish</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+        </header>
+      </div>
+      <!-- Main -->
+      <div id="main-wrapper">
+        <div class="container">
+          <div class="row gtr-200">
+            <div class="col-4 col-12-medium">
+              <div id="sidebar">
+                <!-- Sidebar -->
+                <section>
+                  <h3>Product Menu</h3>
+                  <ul class="style2">
+                    <li><a href="color-droppers" title="Color Droppers">Color
+                        Droppers</a></li>
+                    <li><a href="white-medium" title="White Medium">White Medium<br>
+                      </a></li>
+                    <li><a href="expander" title="Expander">Expander</a></li>
+                    <li><span style="color: #62bca3;">Paiwt Kit</span></li>
+                  </ul>
+                </section>
+              </div>
+            </div>
+            <div class="col-8 col-12-medium imp-medium">
+              <div id="content">
+                <!-- Content -->
+                <article>
+                  <h2>Paiwt Kit</h2>
+                  <p style="color:black;font-size:18px;">You can purchase a
+                    Paiwt Kit </p>
+                  <a href="https://www.etsy.com/listing/853836280" target="_blank"><img
+                      src="file:///C:/Users/danbo/Documents/GitHub/paiwt7.github.io/images/3mLKit.jpg"
+                      alt="Paiwt Kit" title="Paiwt Kit" style="width: 241px; height: 281px;"><br>
+                  </a>
+                  <p style="color:black;font-size:18px;">$20<br>
+                    <a href="peelingoffplastic" target="_blank"> </a> </p>
+                  <p style="color: black; font-size: 15px; text-align: center;"
+                    class="center"></p>
+                  <div> <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2">
+                      Buy with Crypto </a>
+                    <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
+  </script> </div>
+                  <br>
+                  <p></p>
+                </article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Footer -->
+    <div id="footer-wrapper">
+      <footer id="footer" class="container">
+        <div class="row">
+          <div class="col-3 col-6-medium col-12-small">
+            <!-- Links -->
+            <section class="widget links"> <strong>Customer Service </strong>
+              <ul class="style2">
+                <li><a href="contact" title="Contact Us">Contact Us </a></li>
+                <li><a href="payments" title="Payment Options">Payment Options</a></li>
+                <li><a href="shipping" title="Shipping Information">Shipping
+                    Information </a></li>
+                <li><a href="returns" title="Return Policy">Return Policy</a></li>
+                <li><br>
+                </li>
+              </ul>
+            </section>
+          </div>
+          <div class="col-3 col-6-medium col-12-small">
+            <!-- Links -->
+            <section class="widget links"> <strong>Product Information </strong>
+              <ul class="style2">
+                <li><a href="help" title="General Help">General Help </a></li>
+                <li><a href="products" title="Products Page">Products Page </a></li>
+                <li><a href="instructions" title="Instructions">Instructions</a></li>
+                <li><a href="live" title="Live Show">Live Show</a></li>
+                <li><br>
+                </li>
+              </ul>
+            </section>
+          </div>
+          <div class="col-3 col-6-medium col-12-small">
+            <!-- Links --><strong> </strong>
+            <section class="widget links"><strong> Quick Links </strong>
+              <ul class="style2">
+                <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop ">e-Shop</a></li>
+                <li><a href="mailinglist" title="Join Our Email List">Join Our
+                    Email List </a></li>
+                <li><a href="security" title="Security &amp; Privacy">Security
+                    &amp; Privacy </a></li>
+                <li><a href="terms" title="Terms of Use">Terms of Use </a></li>
+                <li><br>
+                </li>
+              </ul>
+            </section>
+          </div>
+          <div class="col-3 col-6-medium col-12-small">
+            <!-- Contact -->
+            <section class="widget contact last"><strong><span style="color: #ffaab4;">Social
+                  Media</span></strong><br>
+              <ul>
+                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+                    title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
+                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+                    title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
+                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+                    title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
+                <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
+                    title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
+                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+                    title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
+              </ul>
+              <p><br>
+              </p>
+            </section>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <div id="copyright">
+              <ul class="menu">
+                <li> © 2018 Paiwt.com. All rights reserved</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
