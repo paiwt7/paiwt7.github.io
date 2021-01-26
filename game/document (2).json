@@ -1,0 +1,26 @@
+{
+
+  "name": "Chief Ernie ",
+
+  "description": "Leading a Rain Dance, Enjin Ernest, Paiwt Hand, commonly known as Ernie, taking on the role of a Chief, opens the sky using dancing and chanting.",
+
+  "image": "https://paiwt.com/images/NativeAmericanErnie.jpg",
+
+  "properties":{
+
+   "rarity": {
+
+    "name": "Classification",
+
+    "value": "legendary",
+
+    "display_value":"Rare"
+
+   },
+
+   "Origin":"Paiwt.com",
+
+   "Paiwt The Board Game Tournament Ability":"Rain Dance -  Takes all discards and reshuffles them into the deck."
+
+   }
+}

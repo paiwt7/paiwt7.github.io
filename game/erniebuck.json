@@ -1,0 +1,27 @@
+{
+
+  "name": "Ernie Buck",
+
+  "description": "The currency used for Paiwt.com. Each Ernie Buck equals $1 worth of purchases on Paiwt.com",
+
+  "image": "https://paiwt.com/images/erniebuck.jpg",
+
+  "properties":{
+
+
+  
+   "rarity": {
+
+    "name": "Quality",
+
+    "value": "mint",
+
+    "display_value":"Mint"
+
+   },
+ 
+ 
+   "Website":"Paiwt.com"
+
+   }
+}

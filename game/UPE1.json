@@ -1,0 +1,27 @@
+{
+
+  "name": "Unique Paiwt Explosion",
+
+  "description": "Official Paiwt UPE Token",
+
+  "image": "https://paiwt.com/images/UPETest-min.jpg",
+
+  "properties":{
+
+   "Creator Name":"Daniel Crosswaters Bohnett",
+  
+   "rarity": {
+
+    "name": "Quality",
+
+    "value": "mint",
+
+    "display_value":"Mint"
+
+   },
+ 
+  "Game":"Paiwt The Board Game",
+   "Website":"Paiwt.com"
+
+   }
+}
