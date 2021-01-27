@@ -22,15 +22,16 @@ type="08cdb94f21440b4a6c20c560-text/javascript"></script>
     <div id="wrapper">
       <div id="main">
         <div class="inner">
+          <!-- Header -->
           <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
                 src="images/logopaiwt.jpg" alt="logo" height="135" width="299"></a>
             <ul class="icons">
               <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
                     class="label">Twitter</span></a></li>
-              <li><a href="https://www.facebook.com/Paiwt/" target="_blank" class="icon fa-facebook"><span
-                    class="label">Facebook</span></a></li>
               <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
                   class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
+                    class="label">Medium</span></a></li>
             </ul>
           </header>
           <section>
@@ -53,26 +54,22 @@ type="08cdb94f21440b4a6c20c560-text/javascript"></script>
                   <div class="mc-field-group"> <label for="mce-EMAIL">Email
                       Address <span class="asterisk">*</span> </label> <input
                       value="" name="EMAIL" class="required email" id="mce-EMAIL"
-                      type="email">
-                  </div>
+                      type="email"> </div>
                   <div class="mc-field-group"> <label for="mce-FNAME">First
-                      Name
-                    </label> <input value="" name="FNAME" class="" id="mce-FNAME"
+                      Name </label> <input value="" name="FNAME" class="" id="mce-FNAME"
                       type="text"> </div>
                   <div class="mc-field-group"> <label for="mce-LNAME">Last Name
-                    </label>
-                    <input value="" name="LNAME" class="" id="mce-LNAME" type="text">
-                  </div>
+                    </label> <input value="" name="LNAME" class="" id="mce-LNAME"
+                      type="text"> </div>
                   <div class="mc-field-group"> <label for="mce-COMPANY">Company
-                    </label>
-                    <input value="" name="COMPANY" class="" id="mce-COMPANY" type="text">
-                  </div>
+                    </label> <input value="" name="COMPANY" class="" id="mce-COMPANY"
+                      type="text"> </div>
                   <div class="mc-field-group size1of2"> <label for="mce-PHONE">Phone
-                    </label> <input name="PHONE" class="" value="" id="mce-PHONE"
+                      </label> <input name="PHONE" class="" value="" id="mce-PHONE"
                       type="text"> </div>
                   <div class="mc-address-group">
                     <div class="mc-field-group"> <label for="mce-ADDRESS-addr1">Address
-                      </label> <input value="" maxlength="70" name="ADDRESS[addr1]"
+                        </label> <input value="" maxlength="70" name="ADDRESS[addr1]"
                         id="mce-ADDRESS-addr1" class="" type="text"> </div>
                     <div class="mc-field-group"> <label for="mce-ADDRESS-addr2">Address
 Line

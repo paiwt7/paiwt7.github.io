@@ -14,28 +14,25 @@
   gtag('config', 'UA-140661149-1');
 </script> <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <title>Shipping Information | The Game | Paiwt</title>
+    <title>UPE Mint Shop | The Game | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
-  <body class="is-preload"> <!-- Wrapper -->
+  <body class="is-preload">
+    <!-- Wrapper -->
     <div id="wrapper">
       <!-- Main -->
       <div id="main">
         <div class="inner">
-              <!-- Header -->
-          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
-
+          <!-- Header -->
+          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
                 src="images/logopaiwt.jpg" alt="logo" height="135" width="299"></a>
             <ul class="icons">
-              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
-
+              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
                     class="label">Twitter</span></a></li>
-              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
-
+              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
                   class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
-
+              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
                     class="label">Medium</span></a></li>
             </ul>
           </header>
@@ -97,7 +94,7 @@
                   <ul>
                     <li><a href="https://paiwt.com/game">Homepage</a></li>
                     <li><a href="getstarted">Get Started</a></li>
-                    <li><a href="paiwtboardgame">The Board Game</a></li>
+                    <li><a href="boardgame">The Board Game</a></li>
                     <li><a href="mint">UPE Mint Shop</a></li>
                     <li> <span class="opener">Collectibles</span>
                       <ul>
@@ -128,14 +125,14 @@
                 </footer>
               </div>
             </div>
-            <!-- Scripts -->
-            <script src="assets/js/jquery.min.js"></script>
-            <script src="assets/js/browser.min.js"></script>
-            <script src="assets/js/breakpoints.min.js"></script>
-            <script src="assets/js/util.js"></script>
-            <script src="assets/js/main.js"></script> </section>
+          </section>
         </div>
-      </div>
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/browser.min.js"></script>
+        <script src="assets/js/breakpoints.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script> </div>
     </div>
   </body>
 </html>
