@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<!--
+	Editorial by HTML5 UP	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140661149-1');
+</script> <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Mailing List | The Game | Paiwt</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="is-preload">
+    <!-- Wrapper -->
+    <div id="wrapper">
+      <!-- Main -->
+      <div id="main">
+        <div class="inner">
+          <!-- Header -->
+          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
+                src="images/logopaiwt.jpg" alt="logo" height="135" width="299"></a>
+            <ul class="icons">
+              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
+                    class="label">Twitter</span></a></li>
+              <li><a href="https://www.facebook.com/Paiwt/" target="_blank" class="icon fa-facebook"><span
+                    class="label">Facebook</span></a></li>
+              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
+                  class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+            </ul>
+          </header>
+          <!-- Content -->
+          <section>
+            <header class="major">
+              <h2>Shipping Information</h2>
+            </header>
+            <!-- Content --> Ground shipping charges for orders to be delivered
+            within the contiguous 48 United States are based on the number of
+            unique items in your order for orders totaling less than $25; orders
+            of $25 or more ship free. <br>
+            Residential orders within the 48 contiguous states will ship USPS
+            Priority 1 business days of receipt of your order and will be
+            delivered within 2–7 business days. If your postal address is
+            different from your physical address, please provide both.<br>
+            <strong>Shipping Charges for US Orders Being Shipped Outside of the
+              48 Contiguous States<br>
+            </strong>Shipping charges for residential orders shipping to AK, HI,
+            PR, VI, the Pacific Territories, and APO/FPO addresses, regardless
+            of order total or weight, will require you to place an international
+            order.&nbsp; Your order will be shipped via USPS Priority Mail. <br>
+            <strong>Free Shipping</strong><br>
+            Merchandise orders totaling $25 or more ship freight-free via USPS
+            Priority to the United States of America. <br>
+            Free Shipping does not apply to Expedited or Overnight Express
+            Shipping. Oversized or overweight orders will ship via a freight
+            line. In those cases, the free freight offer includes curbside
+            delivery only. Additional services performed at the time of the
+            delivery such as lift gate and inside delivery will incur additional
+            charges. The average transit times will be extended for freight line
+            deliveries and a delivery signature is required.<br>
+            <strong>US Postal Service</strong><br>
+            Orders shipping to APO/FPO addresses, along with Alaska, Hawaii,
+            Virgin Islands, Puerto Rico, and US Pacific Territories are shipped
+            via the US Postal Service. Please allow additional time for
+            delivery. <br>
+            <strong>International Shipping</strong><br>
+            International orders ship by USPS Int'l Priority Mail. The method is
+            determined by items ordered, weight, size and destination. Free
+            shipping does not apply on international orders. <br>
+            The recipient is responsible for any taxes, duties, or brokerage
+            fees. These cannot be estimated prior to shipping. We are unable to
+            remove pricing from documents as the correct value must be provided.
+            We do not mark packages as gifts or samples, all prices will be
+            shown for custom clearance. <br>
+            Questions regarding international shipments should be directed to
+            sales@paiwt.com. International orders do not ship without customer
+            approval so questions regarding shipping charges will be answered
+            once an order is placed. You may also call 1-702-764-7095.
+            <!-- Sidebar -->
+            <div id="sidebar">
+              <div class="inner">
+                <!-- Menu -->
+                <nav id="menu">
+                  <header class="major">
+                    <h2>Menu</h2>
+                  </header>
+                  <ul>
+                    <li><a href="https://paiwt.com/game">Homepage</a></li>
+                    <li><a href="getstarted">Get Started</a></li>
+                    <li><a href="paiwtboardgame">The Board Game</a></li>
+                    <li><a href="mint">UPE Mint Shop</a></li>
+                    <li> <span class="opener">Collectibles</span>
+                      <ul>
+                        <li><a href="upe">Unique Paiwt Explosion</a></li>
+                        <li><a href="upc">Unique Paiwt Creature</a></li>
+                        <li><a href="ernie">Ernie</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </nav>
+                <!-- Section -->
+                <section>
+                  <header class="major">
+                    <h2>Get in touch</h2>
+                  </header>
+                  <p>Questions? Comments? Join Telegram. Chat live with us and
+                    enter giveaways. Private and Cloud-Based, Telegram messages
+                    are heavily encrypted. </p>
+                  <ul class="contact">
+                    <p></p>
+                    <li class="fa-envelope-o"><a href="https://t.me/PaiwtTelegram">Paiwt's
+                        Official Telegram</a></li>
+                  </ul>
+                </section>
+                <!-- Footer -->
+                <footer id="footer">
+                  <p class="copyright">© ArtWaters. All rights reserved.</p>
+                </footer>
+              </div>
+            </div>
+            <!-- Scripts -->
+            <script src="assets/js/jquery.min.js"></script>
+            <script src="assets/js/browser.min.js"></script>
+            <script src="assets/js/breakpoints.min.js"></script>
+            <script src="assets/js/util.js"></script>
+            <script src="assets/js/main.js"></script> </section>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
