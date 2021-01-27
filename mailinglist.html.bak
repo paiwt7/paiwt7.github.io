@@ -2,32 +2,37 @@
 <!--
 	Verti by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
-  <head>
+  <head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140661149-1');
+</script>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Mailing List | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
   <body class="is-preload homepage">
-    <p><!-- Header --> </p>
+    <!-- Header --> 
     <div id="page-wrapper">
       <div id="header-wrapper">
-        <header id="header" class="container">
-          <!-- Logo -->
-          <div id="logo">
-            <h1><a href="index.html">Paiwt </a></h1>
-            <span></span> </div>
+        <header id="header" class="container">       <!-- Logo -->     <div id="logo">   <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img  src="images/logo9.png" alt="yes" title="yes"></a></h1>          <span></span> </div>
+         
           <!-- Nav -->
           <nav id="nav">
             <ul>
-              <li><a href="index" title="https://paiwt7.github.io">Welcome</a></li>
+              <li><a href="https://paiwt.com" title="https://paiwt.com">Welcome</a></li>
               <li><a href="about" title="About">About<br>
                 </a> </li>
               <li><a href="products">Products</a>
                 <ul>
                   <li><a href="color-droppers">Color Droppers</a></li>
                   <li><a href="white-medium">White Medium</a></li>
-                  <li><a href="expander">Expander</a></li>
+               <li><a href="expander">Expander</a></li>    <li><a href="kit">Paiwt Kit</a></li>   
                 </ul>
               </li>
               <li><a href="instructions">Instructions</a></li>
@@ -75,53 +80,68 @@
             <article>
               <h2>Subscribe To Our Mailing List</h2>
               <!-- Begin Mailchimp Signup Form -->
-              <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css"
+              <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css"
+
                 rel="stylesheet" type="text/css">
               <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style> <div id="mc_embed_signup">
-                <form action="https://Paiwt.us9.list-manage.com/subscribe/post?u=8a6a9a171c38193bc9389c1cb&amp;id=d764f95e76"
-                  method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+                <form action="https://Paiwt.us9.list-manage.com/subscribe/post?u=8a6a9a171c38193bc9389c1cb&amp;id=d764f95e76"
+
+                  method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+
                   class="validate" target="_blank" novalidate="">
                   <div id="mc_embed_signup_scroll">
                     <div class="indicates-required"><span class="asterisk">*</span>
                       indicates required</div>
                     <div class="mc-field-group"> <label for="mce-EMAIL">Email
-                        Address <span class="asterisk">*</span> </label> <input
-                        value="" name="EMAIL" class="required email" id="mce-EMAIL"
+                        Address <span class="asterisk">*</span> </label> <input
+
+                        value="" name="EMAIL" class="required email" id="mce-EMAIL"
+
                         type="email"> </div>
                     <div class="mc-field-group"> <label for="mce-FNAME">First
-                        Name </label> <input value="" name="FNAME" class="" id="mce-FNAME"
+                        Name </label> <input value="" name="FNAME" class="" id="mce-FNAME"
+
                         type="text"> </div>
                     <div class="mc-field-group"> <label for="mce-LNAME">Last
-                        Name </label> <input value="" name="LNAME" class="" id="mce-LNAME"
+                        Name </label> <input value="" name="LNAME" class="" id="mce-LNAME"
+
                         type="text"> </div>
                     <div class="mc-field-group"> <label for="mce-COMPANY">Company
-                        </label> <input value="" name="COMPANY" class="" id="mce-COMPANY"
+                        </label> <input value="" name="COMPANY" class="" id="mce-COMPANY"
+
                         type="text"> </div>
                     <div class="mc-field-group size1of2"> <label for="mce-PHONE">Phone
-                        </label> <input name="PHONE" class="" value="" id="mce-PHONE"
+                        </label> <input name="PHONE" class="" value="" id="mce-PHONE"
+
                         type="text"> </div>
                     <div class="mc-address-group">
                       <div class="mc-field-group"> <label for="mce-ADDRESS-addr1">Address
-                          </label> <input value="" maxlength="70" name="ADDRESS[addr1]"
+                          </label> <input value="" maxlength="70" name="ADDRESS[addr1]"
+
                           id="mce-ADDRESS-addr1" class="" type="text"> </div>
                       <div class="mc-field-group"> <label for="mce-ADDRESS-addr2">Address
-                          Line 2</label> <input value="" maxlength="70" name="ADDRESS[addr2]"
+                          Line 2</label> <input value="" maxlength="70" name="ADDRESS[addr2]"
+
                           id="mce-ADDRESS-addr2" type="text"> </div>
                       <div class="mc-field-group size1of2"> <label for="mce-ADDRESS-city">City</label>
-                        <input value="" maxlength="40" name="ADDRESS[city]" id="mce-ADDRESS-city"
+                        <input value="" maxlength="40" name="ADDRESS[city]" id="mce-ADDRESS-city"
+
                           class="" type="text"> </div>
                       <div class="mc-field-group size1of2"> <label for="mce-ADDRESS-state">State/Province/Region</label>
-                        <input value="" maxlength="20" name="ADDRESS[state]" id="mce-ADDRESS-state"
+                        <input value="" maxlength="20" name="ADDRESS[state]" id="mce-ADDRESS-state"
+
                           class="" type="text"> </div>
                       <div class="mc-field-group size1of2"> <label for="mce-ADDRESS-zip">Postal
-                          / Zip Code</label> <input value="" maxlength="10" name="ADDRESS[zip]"
+                          / Zip Code</label> <input value="" maxlength="10" name="ADDRESS[zip]"
+
                           id="mce-ADDRESS-zip" class="" type="text"> </div>
                       <div class="mc-field-group size1of2"> <label for="mce-ADDRESS-country">Country</label>
-                        <select name="ADDRESS[country]" id="mce-ADDRESS-country"
+                        <select name="ADDRESS[country]" id="mce-ADDRESS-country"
+
                           class="">
                           <option value="164" selected="selected">USA</option>
                           <option value="286">Aaland Islands</option>
@@ -366,104 +386,112 @@
                       <div class="response" id="mce-success-response" style="display:none"></div>
                     </div>
                     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input
-                        name="b_8a6a9a171c38193bc9389c1cb_d764f95e76" tabindex="-1"
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input
+
+                        name="b_8a6a9a171c38193bc9389c1cb_d764f95e76" tabhttps://paiwt.com="-1"
+
                         value="" type="text"></div>
-                    <div class="clear"><input value="Subscribe" name="subscribe"
+                    <div class="clear"><input value="Subscribe" name="subscribe"
+
 id="mc-embedded-subscribe" class="button" type="submit"></div>
                   </div>
                 </form>
               </div>
               <!--End mc_embed_signup-->
-                 <!-- Footer --> </div>
-    <div id="footer-wrapper">
-      <footer id="footer" class="container">
-        <div class="row">
-          <div class="col-3 col-6-medium col-12-small">
-            <!-- Links -->
-            <section class="widget links"> <strong>Customer Service </strong>
-              <ul class="style2">
-                <li><a href="contact" title="Contact Us">Contact Us </a></li>
-                <li><a href="payments" title="Payment Options">Payment Options</a></li>
-                <li><a href="shipping" title="Shipping Information">Shipping
-                    Information </a></li>
-                <li><a href="returns" title="Return Policy">Return Policy</a></li>
-                <li><br>
-                </li>
-              </ul>
-            </section>
+              <!-- Footer --> </article>
           </div>
-          <div class="col-3 col-6-medium col-12-small">
-            <!-- Links -->
-            <section class="widget links"> <strong>Product Information </strong>
-              <ul class="style2">
-                <li><a href="help" title="General Help">General Help </a></li>
-                <li><a href="products" title="Products Page">Products Page </a></li>
-                <li><a href="instructions" title="Instructions">Instructions</a></li>
-                <li><a href="live" title="Live Show">Live Show</a></li>
-                <li><br>
-                </li>
-              </ul>
-            </section>
+          <div id="footer-wrapper">
+            <footer id="footer" class="container">
+              <div class="row">
+                <div class="col-3 col-6-medium col-12-small">
+                  <!-- Links -->
+                  <section class="widget links"> <strong>Customer Service </strong>
+                    <ul class="style2">
+                      <li><a href="contact" title="Contact Us">Contact Us </a></li>
+                      <li><a href="payments" title="Payment Options">Payment
+                          Options</a></li>
+                      <li><a href="shipping" title="Shipping Information">Shipping
+                          Information </a></li>
+                      <li><a href="returns" title="Return Policy">Return Policy</a></li>
+                      <li><br>
+                      </li>
+                    </ul>
+                  </section>
+                </div>
+                <div class="col-3 col-6-medium col-12-small">
+                  <!-- Links -->
+                  <section class="widget links"> <strong>Product Information </strong>
+                    <ul class="style2">
+                      <li><a href="help" title="General Help">General Help </a></li>
+                      <li><a href="products" title="Products Page">Products Page
+                        </a></li>
+                      <li><a href="instructions" title="Instructions">Instructions</a></li>
+                      <li><a href="live" title="Live Show">Live Show</a></li>
+                      <li><br>
+                      </li>
+                    </ul>
+                  </section>
+                </div>
+                <div class="col-3 col-6-medium col-12-small">
+                  <!-- Links --><strong> </strong>
+                  <section class="widget links"><strong> Quick Links </strong>
+                    <ul class="style2">
+                      <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop ">e-Shop</a></li>
+                      <li><a href="mailinglist" title="Join Our Email List">Join
+                          Our Email List </a></li>
+                      <li><a href="security" title="Security &amp; Privacy">Security
+                          &amp; Privacy </a></li>
+                      <li><a href="terms" title="Terms of Use">Terms of Use </a></li>
+                      <li><br>
+                      </li>
+                    </ul>
+                  </section>
+                </div>
+                <div class="col-3 col-6-medium col-12-small">
+                  <!-- Contact -->
+                  <section class="widget contact last"><strong><span style="color: #ffaab4;">Social
+                        Media</span></strong><br>
+                    <ul>
+                      <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+
+                          title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
+                      <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+
+                          title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
+                      <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+
+                          title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
+                      <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
+
+                          title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
+                      <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+
+                          title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
+                    </ul>
+                    <p><br>
+                    </p>
+                  </section>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-12">
+                  <div id="copyright">
+                    <ul class="menu">
+                      <li> © 2018 Paiwt.com. All rights reserved</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </footer>
           </div>
-          <div class="col-3 col-6-medium col-12-small">
-            <!-- Links --><strong> </strong>
-            <section class="widget links"><strong> Quick Links </strong>
-              <ul class="style2">
-                <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop ">e-Shop</a></li>
-                <li><a href="mailinglist" title="Join Our Email List">Join Our
-                    Email List </a></li>
-                <li><a href="security" title="Security &amp; Privacy">Security
-                    &amp; Privacy </a></li>
-                <li><a href="terms" title="Terms of Use">Terms of Use </a></li>
-                <li><br>
-                </li>
-              </ul>
-            </section>
-          </div>
-          <div class="col-3 col-6-medium col-12-small">
-            <!-- Contact -->
-            <section class="widget contact last"><strong><span style="color: #ff2400;">Social
-                  Media</span></strong><br>
-              <ul>
-                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
-
-                    title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
-
-                    title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
-
-                    title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
-
-                    title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
-
-                    title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
-              </ul>
-              <p><br>
-              </p>
-            </section>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-12">
-            <div id="copyright">
-              <ul class="menu">
-                <li>Copyright © 2018 Paiwt.com. All rights reserved</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </footer>
+          <!-- Scripts -->
+          <script src="assets/js/jquery.min.js"></script>
+          <script src="assets/js/jquery.dropotron.min.js"></script>
+          <script src="assets/js/browser.min.js"></script>
+          <script src="assets/js/breakpoints.min.js"></script>
+          <script src="assets/js/util.js"></script>
+          <script src="assets/js/main.js"></script> </div>
+      </div>
     </div>
-    <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery.dropotron.min.js"></script>
-    <script src="assets/js/browser.min.js"></script>
-    <script src="assets/js/breakpoints.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
   </body>
 </html>
