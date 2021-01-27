@@ -18,24 +18,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
-  <body class="is-preload"> <!-- Wrapper -->
+  <body class="is-preload">
+    <!-- Wrapper -->
     <div id="wrapper">
       <!-- Main -->
       <div id="main">
         <div class="inner">
           <!-- Header -->
-          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
-
+          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
                 src="images/logopaiwt.jpg" alt="logo" height="135" width="299"></a>
             <ul class="icons">
-              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
-
+              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
                     class="label">Twitter</span></a></li>
-              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
-
+              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
                   class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
-
+              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
                     class="label">Medium</span></a></li>
             </ul>
           </header>
@@ -48,14 +45,12 @@
                 <h3>powered by <a href="enjin.io" title="Enjin Website" target="_blank">Enjin</a></h3>
                 <p>Compete in a <a href="boardgame" title="Paiwt The Board Game">board
                     game</a> using paint to complete unique artwork that enables
-                  you to join an interactive <a href="https://enjin.io/software/marketplace"
-
+                  you to join an interactive <a href="https://enjin.io/software/marketplace"
                     title="Enjin Blockchain Marketplace" target="_blank">blockchain
                     market</a>. </p>
               </header>
               <p> Paiwt The Game is a <a href="boardgame" title="Paiwt The Board Game">board
-                  game</a> where your creations create <a href="https://enjin.io/about/erc-1155"
-
+                  game</a> where your creations create <a href="https://enjin.io/about/erc-1155"
                   title="Enjin ERC-1155 Token" target="_top">Enjin backed
                   ERC-1155 Tokens</a>. Players create <a href="upe" title="Unique Paiwt Explosions">Unique
 Paiwt
@@ -70,62 +65,112 @@ Paiwt
                 be replicated, stolen, or destroyed. Unique Paiwt Explosions are
                 not a cryptocurrency; they’re a cryptocollectible. </p>
               <ul class="actions">
-                <li><a href="boardgame.html" class="button big">View Paiwt The
-                    Board Game</a></li>
+                <li><a href="boardgame" class="button big" title="Paiwt The Board Game">View
+                    Paiwt The Board Game</a></li>
               </ul>
             </div>
             <span class="image object"> <img src="images/pic10c.jpg" alt=""> </span>
           </section>
         </div>
       </div>
-      <!-- Sidebar -->
-      <div id="sidebar">
-        <div class="inner">
-          <!-- Menu -->
-          <nav id="menu">
-            <header class="major">
-              <h2>Menu</h2>
-            </header>
-            <ul>
-              <li><a href="https://paiwt.com/game">Homepage</a></li>
-              <li><a href="getstarted">Get Started</a></li>
-              <li><a href="boardgame">The Board Game</a></li>
-              <li><a href="mint">UPE Mint Shop</a></li>
-              <li> <span class="opener">Collectibles</span>
-                <ul>
-                  <li><a href="upe">Unique Paiwt Explosion</a></li>
-                  <li><a href="upc">Unique Paiwt Creature</a></li>
-                  <li><a href="ernie">Ernie</a></li>
-                </ul>
-              </li>
-            </ul>
-          </nav>
-          <!-- Section -->
-          <section>
-            <header class="major">
-              <h2>Get in touch</h2>
-            </header>
-            <p>Questions? Comments? Join Telegram. Chat live with us and enter
-              giveaways. Private and Cloud-Based, Telegram messages are heavily
-              encrypted. </p>
-            <ul class="contact">
-              <p></p>
-              <li class="fa-envelope-o"><a href="https://t.me/PaiwtTelegram">Paiwt's
-                  Official Telegram</a></li>
-            </ul>
-          </section>
-          <!-- Footer -->
-          <footer id="footer">
-            <p class="copyright">© ArtWaters. All rights reserved.</p>
+     <!-- Footer --> </section>
+        </div>
+        <div id="footer-wrapper">
+          <footer id="footer" class="container">
+            <div class="row">
+              <div class="col-3 col-6-medium col-12-small">
+                <!-- Links -->
+                <section class="widget links"> <strong> </strong>
+                  <ul class="style2">
+                    &nbsp;
+                  </ul>
+                </section>
+              </div>
+              <div class="col-3 col-6-medium col-12-small">
+                <!-- Links -->
+                <section class="widget links"> <strong>Game Information </strong>
+                  <ul class="style2">
+                    <li><a href="products" title="Products Page">The Board Game</a></li>
+                    <li><a href="mailinglist" title="Join Our Email List">UPE
+                        Mint Shop</a></li>
+                    <li><a href="ernie" title="Ernie Paiwt Hand">Ernie Paiwt
+                        Hand<br>
+                      </a></li>
+                    <li><a href="upe" title="Unique Paiwt Explosion">Unique
+                        Paiwt Explosion</a></li>
+                    <li><a href="upc" title="Unique Paiwt Creature">Unique Paiwt
+                        Creature</a></li>
+                  </ul>
+                </section>
+              </div>
+              <div class="col-3 col-6-medium col-12-small">
+                <!-- Links --><strong> </strong>
+                <section class="widget links"><strong> Quick Links </strong>
+                  <ul class="style2">
+                    <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop ">e-Shop</a></li>
+                    <li><a href="mailinglist" title="Join Our Email List">Join
+                        Our Email List </a></li>
+                    <li><a href="mailinglist" title="Join Our Email List">The
+                        Chatroom</a></li>
+                    <li><a href="privacy" title="Security &amp; Privacy">Security
+                        &amp; Privacy </a></li>
+                    <li><a href="terms" title="Terms of Use">Terms of Use </a></li>
+                          </ul>
+                </section>
+              </div>
+              <div class="col-3 col-6-medium col-12-small">
+                <!-- Contact --> </div>
+            </div>
           </footer>
         </div>
+        <!-- Sidebar -->
+        <div id="sidebar">
+          <div class="inner">
+            <!-- Menu -->
+            <nav id="menu">
+              <header class="major">
+                <h2>Menu</h2>
+              </header>
+              <ul>
+                <li><a href="https://paiwt.com/game">Homepage</a></li>
+                <li><a href="getstarted">Get Started</a></li>
+                <li><a href="boardgame">The Board Game</a></li>
+                <li><a href="mint">UPE Mint Shop</a></li>
+                <li> <span class="opener">Collectibles</span>
+                  <ul>
+                    <li><a href="upe">Unique Paiwt Explosion</a></li>
+                    <li><a href="upc">Unique Paiwt Creature</a></li>
+                    <li><a href="ernie">Ernie</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </nav>
+            <!-- Section -->
+            <section>
+              <header class="major">
+                <h2>Get in touch</h2>
+              </header>
+              <p>Questions? Comments? Join Telegram. Chat live with us and enter
+                giveaways. Private and Cloud-Based, Telegram messages are
+                heavily encrypted. </p>
+              <ul class="contact">
+                <p></p>
+                <li class="fa-envelope-o"><a href="https://t.me/PaiwtTelegram">Paiwt's
+                    Official Telegram</a></li>
+              </ul>
+            </section>
+            <!-- Footer -->
+            <footer id="footer">
+              <p class="copyright">© ArtWaters. All rights reserved.</p>
+            </footer>
+          </div>
+        </div>
       </div>
-    </div>
-    <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/browser.min.js"></script>
-    <script src="assets/js/breakpoints.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
+      <!-- Scripts -->
+      <script src="assets/js/jquery.min.js"></script>
+      <script src="assets/js/browser.min.js"></script>
+      <script src="assets/js/breakpoints.min.js"></script>
+      <script src="assets/js/util.js"></script>
+      <script src="assets/js/main.js"></script> </div>
   </body>
 </html>
