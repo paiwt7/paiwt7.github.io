@@ -35,7 +35,7 @@
                 <ul>
                   <li><a href="color-droppers">Color Droppers</a></li>
                   <li><a href="white-medium">White Medium</a></li>
-                  <li><a href="expander">Expander</a></li>
+               <li><a href="expander">Expander</a></li>    <li><a href="kit">Paiwt Kit</a></li>   
                 </ul>
               </li>
               <li><a href="instructions">Instructions</a></li>
@@ -78,7 +78,7 @@
       <!-- Banner -->
       <div id="banner-wrapper">
         <div id="banner" class="box container">
-          <div class="row"> <img src="images/welcomebanner10.png" alt="Paiwt Welcome Banner"
+          <div class="row"> <img src="images/welcomebanner11.png" alt="Paiwt Welcome Banner"
               title="Paiwt Welcome Banner" style="width: 375px; height: 228px;"><br>
             <div class="col-5 col-12-medium">
               <ul>
@@ -253,7 +253,7 @@
             </div>
             <div class="col-3 col-6-medium col-12-small">
               <!-- Contact -->
-              <section class="widget contact last"><strong><span style="color: #ff2400;">Social
+              <section class="widget contact last"><strong><span style="color: #ffaab4;">Social
                     Media</span></strong><br>
                 <ul>
                   <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
@@ -262,7 +262,7 @@
                       title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
                   <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
                       title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                  <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+                  <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
                       title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
                   <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
                       title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
@@ -274,7 +274,7 @@
             <div class="col-12">
               <div id="copyright">
                 <ul class="menu">
-                  <li>Copyright © 2018 Paiwt.com. All rights reserved</li>
+                  <li> © 2018 Paiwt.com. All rights reserved</li>
                 </ul>
               </div>
             </div>
