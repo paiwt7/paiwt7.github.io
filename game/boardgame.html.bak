@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <!--
-	Editorial by HTML5 UP	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+	Editorial by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -15,25 +14,28 @@
   gtag('config', 'UA-140661149-1');
 </script> <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <title>Paiwt - The Board Game</title>
+    <title>The Board Game | The Game | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
   <body class="is-preload">
     <!-- Wrapper -->
-    <div id="wrapper">
-      <!-- Main -->
+    <div id="wrapper"> <!-- Main -->
       <div id="main">
         <div class="inner">
           <!-- Header -->
-          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
+          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
+
                 src="images/logopaiwt.jpg" alt="logo" height="135" width="299"></a>
             <ul class="icons">
-              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
+              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
+
                     class="label">Twitter</span></a></li>
-              <li><a href="https://www.facebook.com/Paiwt/" target="_blank" class="icon fa-facebook"><span
+              <li><a href="https://www.facebook.com/Paiwt/" target="_blank" class="icon fa-facebook"><span
+
                     class="label">Facebook</span></a></li>
-              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
+              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
+
                   class="icon fa-instagram"><span class="label">Instagram</span></a></li>
             </ul>
           </header>
@@ -43,7 +45,8 @@
               <h2>Paiwt The Board Game</h2>
             </header>
             <p style="color:black;font-size:18px;"> Purchase Paiwt The Board
-              Game using Ethereum. You can also visit the <a href="https://etsy.com/shop/paiwt"
+              Game using Ethereum. You can also visit the <a href="https://etsy.com/shop/paiwt"
+
                 title="Paiwt Etsy e-Shop ">Paiwt Etsy e-Shop</a> to purchase.
               When purchasing from Paiwt.com using Ethereum, your order total
               includes taxes, shipping, and handling. </p>
@@ -79,7 +82,8 @@
                 <tr>
                   <td>Kit Includes: (7) <a href="color-droppers" title="Paiwt Color Droppers">Paiwt
                       Color Droppers</a> <span style="color: #62bca3;"></span>in
-                    3mL bottles<span style="color: #367BC6;"></span>, (1) <a href="white-medium"
+                    3mL bottles<span style="color: #367BC6;"></span>, (1) <a href="white-medium"
+
                       title="Paiwt White Medium">Paiwt White Medium</a> in 8 oz
                     dual chamber bottle, (1) <a href="expander" title="Paiwt Expander">Paiwt
                       Expander</a> in 15mL bottle, (1) Paiwt Board, (1) 52 Card
@@ -88,17 +92,20 @@
                       Ernie ERC-1155 Token</a>, <a href="upe" title="Unique Paiwt Explosion">Unique
                       Paiwt Explosion ERC-1155 Custom Token Mint</a>.</td>
                   <td style="text-align: center;"><strong>U.S. <br>
-                      <a href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2"
+                      <a href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2"
+
                         title="U.S. Order" target="_blank"><span style="color: #62bca3;">24.99</span></a><br>
                       Int.<br>
-                      <a href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21"
+                      <a href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21"
+
                         target="_blank"> <span style="color: #62bca3;">64.99</span></a><br>
                     </strong></td>
                 </tr>
                 <tr>
-                  <td>To purchase using Ethereum, first fill out our <a href="mailinglist"
-                      title="Mailing List Form" target="_blank">Mailing Form</a>,
-                    then complete your order by selecting your region:</td>
+                  <td>To purchase using Ethereum, first fill out our <a href="mailinglist"
+
+                      title="Mailing List Form">Mailing Form</a>, then complete
+                    your order by selecting your region:</td>
                   <td><br>
                   </td>
                 </tr>
@@ -106,16 +113,20 @@
                   <td>a.) U.S. Order if you are <u><strong>in</strong></u> the
                     <a href="shipping" title="Shipping Information">48 U.S.
                       Contiguous States</a>.</td>
-                  <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2"
-                      title="U.S. Paiwt Order" target="_blank"><button name="U.S."
+                  <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/628167aa-1e85-4038-ba9d-4253b265951d"
+
+                      title="U.S. Paiwt Order" target="_blank"><button name="U.S."
+
                         value="U.S." type="button" formtarget="https://commerce.coinbase.com/checkout/628167aa-1e85-4038-ba9d-4253b265951d">U.S.</button></a></td>
                 </tr>
                 <tr>
                   <td>b.) International Order if you are placing your order from
                     <strong><u>outside</u></strong> of the <a href="shipping" title="Shipping Information">48
                       U.S. Contiguous States. </a></td>
-                  <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21"
-                      title="International Paiwt Order" target="_blank"><button
+                  <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21"
+
+                      title="International Paiwt Order" target="_blank"><button
+
                         name="Int." value="Int." type="button" formtarget="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21">Int.</button></a></td>
                 </tr>
                 <tr>
