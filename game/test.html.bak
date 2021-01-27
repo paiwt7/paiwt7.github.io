@@ -94,9 +94,14 @@
             <div class="row">
               <div class="col-3 col-6-medium col-12-small">
                 <!-- Links -->
-                <section class="widget links"> <strong> </strong>
+                <section class="widget links"> <strong>Customer Service </strong>
                   <ul class="style2">
-                    &nbsp;
+                    <li><a href="contact" title="Contact Us">Contact Us </a></li>
+                    <li><a href="payments" title="Payment Options">Payment
+                        Options</a></li>
+                    <li><a href="shipping" title="Shipping Information">Shipping
+                        Information </a></li>
+                    <li><a href="returns" title="Return Policy">Return Policy</a></li>
                   </ul>
                 </section>
               </div>
