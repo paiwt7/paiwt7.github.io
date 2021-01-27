@@ -14,7 +14,7 @@
   gtag('config', 'UA-140661149-1');
 </script> <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <title>Ernie Collectibles  | The Game | Paiwt</title>
+    <title>Ernie Collectibles | The Game | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
@@ -32,19 +32,22 @@
               <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
 
                     class="label">Twitter</span></a></li>
-              <li><a href="https://www.facebook.com/Paiwt/" target="_blank" class="icon fa-facebook"><span
-
-                    class="label">Facebook</span></a></li>
               <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
 
                   class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
+
+                    class="label">Medium</span></a></li>
             </ul>
           </header>
           <!-- Content -->
           <div id="ernie"></div>
-          <span style="color: rgb(127, 136, 143); font-family: &quot;open sans&quot;, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Enjin
-            Ernest, "Paiwt Hand," commonly known as "Ernie," takes
-            on the role of infinite characters. He is a <a href="https://enjin.io/about/erc-1155"
+          <span style="color: rgb(127, 136, 143); font-family: &quot;open sans&quot;, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">
+               <header class="major">
+              <h2>Ernie</h2>
+            </header>
+            Enjin Ernest, "Paiwt Hand," commonly known as "Ernie," takes on the
+            role of infinite characters. He is a <a href="https://enjin.io/about/erc-1155"
 
               title="Enjin ERC-1155 Token" target="_blank">NFT Enjin ERC-1155
               Token</a> used for unlocking special abilities during Paiwt The

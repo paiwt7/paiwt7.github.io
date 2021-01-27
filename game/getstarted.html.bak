@@ -25,16 +25,20 @@
       <!-- Main -->
       <div id="main">
         <div class="inner">
-          <!-- Header -->
-          <header id="header"> <a href="https://www.paiwt.com" class="logo"><img
+                  <!-- Header -->
+          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
+
                 src="images/logopaiwt.jpg" alt="logo" height="135" width="299"></a>
             <ul class="icons">
-              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
+              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
+
                     class="label">Twitter</span></a></li>
-              <li><a href="https://www.facebook.com/Paiwt/" target="_blank" class="icon fa-facebook"><span
-                    class="label">Facebook</span></a></li>
-              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
+              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
+
                   class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
+
+                    class="label">Medium</span></a></li>
             </ul>
           </header>
           <!-- Section -->
@@ -62,13 +66,13 @@
                   <li><a href="upc" class="button">More</a></li>
                 </ul>
               </article>
-              <article> <a href="paiwtboardgame" class="image"><img src="images/pic05b.jpg"
+              <article> <a href="boardgame" class="image"><img src="images/pic05b.jpg"
                     alt=""></a>
                 <h3>Paiwt The Board Game</h3>
                 <p> Purchase the official Paiwt The Board Game here. Learn the
                   rules to game and view the Paiwt Cards and Paiwt Board. </p>
                 <ul class="actions">
-                  <li><a href="paiwtboardgame" class="button">More</a></li>
+                  <li><a href="boardgame" class="button">More</a></li>
                 </ul>
               </article>
               <article> <a href="ernie" class="image"><img src="images/pic04b.jpg"
@@ -84,10 +88,10 @@
               </article>
               <article> <a href="http://t.me/PaiwtTelegram" target="_blank" class="image"><img
                     src="images/pic03b.jpg" alt=""></a>
-                <h3>Let's Chat</h3>
-                <p> Join Telegram. Chat live with us and enter giveaways.
-                  Private and Cloud-Based, Telegram messages are heavily
-                  encrypted. </p>
+                <h3>The Chatroom</h3>
+                <p> Join our interactive Telegram group. Chat live with us and
+                  enter giveaways. Private and Cloud-Based, Telegram messages
+                  are heavily encrypted. </p>
                 <ul class="actions">
                   <li><a href="http://t.me/PaiwtTelegram" target="_blank" class="button">More</a></li>
                 </ul>
@@ -105,9 +109,9 @@
               <h2>Menu</h2>
             </header>
             <ul>
-              <li><a href="https://www.paiwt.com">Homepage</a></li>
+              <li><a href="https://paiwt.com/game">Homepage</a></li>
               <li><a href="getstarted">Get Started</a></li>
-              <li><a href="paiwtboardgame">The Board Game</a></li>
+              <li><a href="boardgame">The Board Game</a></li>
               <li><a href="mint">UPE Mint Shop</a></li>
               <li> <span class="opener">Collectibles</span>
                 <ul>

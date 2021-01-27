@@ -25,14 +25,18 @@
       <div id="main">
         <div class="inner">
           <!-- Header -->
-          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
+          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
+
                 src="images/logopaiwt.jpg" alt="logo" height="135" width="299"></a>
             <ul class="icons">
-              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
+              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
+
                     class="label">Twitter</span></a></li>
-              <li><a href="https://www.facebook.com/Paiwt/" target="_blank" class="icon fa-facebook"><span
+              <li><a href="https://www.facebook.com/Paiwt/" target="_blank" class="icon fa-facebook"><span
+
                     class="label">Facebook</span></a></li>
-              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
+              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
+
                   class="icon fa-instagram"><span class="label">Instagram</span></a></li>
             </ul>
           </header>
@@ -42,7 +46,8 @@
               <h2>Paiwt The Board Game</h2>
             </header>
             <p style="color:black;font-size:18px;"> Purchase Paiwt The Board
-              Game using cryptocurrency. You can also visit the <a href="https://etsy.com/shop/paiwt"
+              Game using cryptocurrency. You can also visit the <a href="https://etsy.com/shop/paiwt"
+
                 title="Paiwt Etsy e-Shop ">Paiwt Etsy e-Shop</a> to purchase.
               When purchasing from Paiwt.com using cryptocurrency, your order
               total includes taxes, shipping, and handling. </p>
@@ -78,7 +83,8 @@
                 <tr>
                   <td>Kit Includes: (7) <a href="color-droppers" title="Paiwt Color Droppers">Paiwt
                       Color Droppers</a> <span style="color: #62bca3;"></span>in
-                    3mL bottles<span style="color: #367BC6;"></span>, (1) <a href="white-medium"
+                    3mL bottles<span style="color: #367BC6;"></span>, (1) <a href="white-medium"
+
                       title="Paiwt White Medium">Paiwt White Medium</a> in 8 oz
                     dual chamber bottle, (1) <a href="expander" title="Paiwt Expander">Paiwt
                       Expander</a> in 15mL bottle, (1) Paiwt Board, (1) 52 Card
@@ -87,16 +93,20 @@
                       Ernie ERC-1155 Token</a>, <a href="upe" title="Unique Paiwt Explosion">Unique
                       Paiwt Explosion ERC-1155 Custom Token Mint</a>.</td>
                   <td style="text-align: center;"><strong>U.S. <br>
-                      <a href="https://commerce.coinbase.com/checkout/628167aa-1e85-4038-ba9d-4253b265951d"
+                      <a href="https://commerce.coinbase.com/checkout/628167aa-1e85-4038-ba9d-4253b265951d"
+
                         title="U.S. Order" target="_blank" style="color: #0778fd;">49.99</a><br>
                       Int.<br>
-                      <a href="https://commerce.coinbase.com/checkout/f5631a04-7192-46a3-87bb-2128df37cf7b"
-                        target="_blank" title="International Paiwt Kit"> <span
+                      <a href="https://commerce.coinbase.com/checkout/f5631a04-7192-46a3-87bb-2128df37cf7b"
+
+                        target="_blank" title="International Paiwt Kit"> <span
+
                           style="color: #0778fd;">99.99</span></a><br>
                     </strong></td>
                 </tr>
                 <tr>
-                  <td>To purchase using cryptocurrency, first fill out our <a href="mailinglist"
+                  <td>To purchase using cryptocurrency, first fill out our <a href="mailinglist"
+
                       title="Mailing List Form">Mailing Form</a>, then complete
                     your order by selecting your region:</td>
                   <td><br>
@@ -106,16 +116,20 @@
                   <td>a.) U.S. Order if you are <u><strong>in</strong></u> the
                     <a href="shipping" title="Shipping Information">48 U.S.
                       Contiguous States</a>.</td>
-                  <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/628167aa-1e85-4038-ba9d-4253b265951d"
-                      title="U.S. Paiwt Board Game Order" target="_blank"><button
+                  <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/628167aa-1e85-4038-ba9d-4253b265951d"
+
+                      title="U.S. Paiwt Board Game Order" target="_blank"><button
+
                         name="U.S." value="U.S." type="button" formtarget="https://commerce.coinbase.com/checkout/628167aa-1e85-4038-ba9d-4253b265951d">U.S.</button></a></td>
                 </tr>
                 <tr>
                   <td>b.) International Order if you are placing your order from
                     <strong><u>outside</u></strong> of the <a href="shipping" title="Shipping Information">48
                       U.S. Contiguous States. </a></td>
-                  <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/f5631a04-7192-46a3-87bb-2128df37cf7b"
-                      title="International Paiwt Board Game Order" target="_blank"><button
+                  <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/f5631a04-7192-46a3-87bb-2128df37cf7b"
+
+                      title="International Paiwt Board Game Order" target="_blank"><button
+
                         name="Int." value="Int." type="button" formtarget="https://commerce.coinbase.com/checkout/f5631a04-7192-46a3-87bb-2128df37cf7b">Int.</button></a></td>
                 </tr>
                 <tr>

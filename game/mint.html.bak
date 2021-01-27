@@ -19,7 +19,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
-  <body class="is-preload"> <!-- Wrapper -->
+  <body class="is-preload">
+    <!-- Wrapper -->
     <div id="wrapper">
       <!-- Main -->
       <div id="main">
@@ -42,12 +43,11 @@
           </header>
           <!-- Content -->
           <section>
-            <header class="main">
-              <h1>UPE Mint Shop</h1>
+            <header class="major">
+              <h2>UPE Mint Shop</h2>
             </header>
             <!-- Content -->
-            <h2 id="content">MINT YOUR ART INTO AN OFFICIAL PAIWT UPE ERC-1155
-              TOKEN</h2>
+              <!-- Content --> </header>
             <p><span class="image left"><img src="images/pic02.png" alt=""></span>
               All tokens minted through this service are ERC-1155 blockchain
               assets that are cross-platform compatible, automatically supported
