@@ -73,13 +73,13 @@
 </style> <table id="customers">
               <tbody>
                 <tr>
-                  <th style="background-color: #62bca3;">Description</th>
-                  <th style="background-color: #62bca3; text-align: center;">Price</th>
+                  <th style="background-color: #367BC6;">Description</th>
+                  <th style="background-color: #367BC6; text-align: center;">Price</th>
                 </tr>
                 <tr>
                   <td>Kit Includes: (7) <a href="color-droppers" title="Paiwt Color Droppers">Paiwt
                       Color Droppers</a> <span style="color: #62bca3;"></span>in
-                    3mL bottles<span style="color: #62bca3;"></span>, (1) <a href="white-medium"
+                    3mL bottles<span style="color: #367BC6;"></span>, (1) <a href="white-medium"
                       title="Paiwt White Medium">Paiwt White Medium</a> in 8 oz
                     dual chamber bottle, (1) <a href="expander" title="Paiwt Expander">Paiwt
                       Expander</a> in 15mL bottle, (1) Paiwt Board, (1) 52 Card
