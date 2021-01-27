@@ -32,19 +32,20 @@
               <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
 
                     class="label">Twitter</span></a></li>
-              <li><a href="https://www.facebook.com/Paiwt/" target="_blank" class="icon fa-facebook"><span
-
-                    class="label">Facebook</span></a></li>
               <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
 
                   class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
+
+                    class="label">Medium</span></a></li>
             </ul>
           </header>
           <!-- Content -->
-          <article>
-            <header class="main">
-              <h2>Paiwt The Board Game</h2>
+          <section>
+            <header class="major">
+              <h2>The Board Game</h2>
             </header>
+            <!-- Content -->
             <p style="color:black;font-size:18px;"> Purchase Paiwt The Board
               Game using cryptocurrency. You can also visit the <a href="https://etsy.com/shop/paiwt"
 
