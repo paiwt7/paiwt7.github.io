@@ -1,156 +1,124 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <!--
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+	Editorial by HTML5 UP	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
-	<head>
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
-<script>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
+    <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'UA-140661149-1');
-</script>
-
-		
-		
-			
-			<link rel="icon" href="favicon.ico" type="image/x-icon"> 
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
-		
-		
-		
-		
-		
-		
-		<title>The Game | Paiwt</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-	</head>
-	<body class="is-preload">
-
-		<!-- Wrapper -->
-			<div id="wrapper">
-
-				<!-- Main -->
-					<div id="main">
-						<div class="inner">
-
-							<!-- Header -->
-								<header id="header">
-									<a href="https://paiwt.com/game" class="logo"><img src="images/logopaiwt.jpg" alt="logo" height="135" width="299"></a>
-									<ul class="icons">
-										<li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="https://www.facebook.com/Paiwt/" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-										<li><a href="https://www.instagram.com/paiwtgame/" target="_blank"  class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="https://www.medium.com/@paiwt" target="_blank"  class="icon fa-medium"><span class="label">Medium</span></a></li>
-											
-									</ul>
-								</header>
-
-							<!-- Banner -->
-								<section id="banner">
-									<div class="content">
-										<header>
-											<h1>PaintWaters<br />
-											</h1><h3>powered by Enjin</h3>
-											<p>Compete in a board game using paint to complete unique artwork that enables you to join an interactive blockchain market. </p>
-										</header>
-										<p>
-										
-										
-										
-										Paiwt [PAWNT] is a board game where your creations create Enjin backed ERC-1155 Tokens. Players create Unique Paiwt Explosions (or UPE for short) according to the game rules and then be submitted for minting. Individual Unique Paiwt Explosions will have a distinct visual appearance determined by the sequence of colors players choose during the game. After Unique Paiwt Explosions become minted into an offical Paiwt UPE ERC-1155 Token, they can be bought, sold, or transferred digitally. All the block digital Unique Paiwt Explosions are unique and 100% owned and controlled by the artists; they cannot be replicated, stolen, or destroyed. Unique Paiwt Explosions are not a cryptocurrency; they’re a cryptocollectible.
-										
-										
-										
-										</p><ul class="actions">
-											<li><a href="paiwtboardgame.html" class="button big">View Paiwt The Board Game</a></li>
-										</ul>
-									</div>
-									<span class="image object">
-										<img src="images/pic10c.jpg" alt="" />
-									</span>
-								</section>
-
-							
-
-						</div>
-				</div>
-
-	<!-- Sidebar -->
-					<div id="sidebar">
-						<div class="inner">
-
-							
-
-							<!-- Menu -->
-								<nav id="menu">
-									<header class="major">
-										<h2>Menu</h2>
-									</header>
-									<ul>
-										<li><a href="https://paiwt.com/game">Homepage</a></li>
-											<li><a href="getstarted">Get Started</a></li>
-							
-												<li><a href="paiwtboardgame">The Board Game</a></li>
-										<li><a href="mint">UPE Mint Shop</a></li>
-									
-										<li>
-											<span class="opener">Collectibles</span>
-											<ul>
-												<li><a href="upe">Unique Paiwt Explosion</a></li>
-												<li><a href="upc">Unique Paiwt Creature</a></li>
-												<li><a href="ernie">Ernie</a></li>
-												
-											</ul>
-										</li>
-			
-										
-										
-											
-									</ul>
-									
-								</nav>
-
-							
-							<!-- Section -->
-								<section>
-									<header class="major">
-										<h2>Get in touch</h2>
-									</header>
-									<p>Questions? Comments? Join Telegram. Chat live with us and enter giveaways. Private and Cloud-Based, Telegram messages are heavily encrypted. 
-											<ul class="contact">
-									
-									
-									</p>
-									
-									<li class="fa-envelope-o"><a href="https://t.me/PaiwtTelegram">Paiwt's Official Telegram</a></li>
-										
-									</ul>
-								</section>
-
-							<!-- Footer -->
-								<footer id="footer">
-									<p class="copyright">&copy; ArtWaters. All rights reserved.</a></p>
-								</footer>
-
-						</div>
-					</div>
-
-			</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
+</script> <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>The Game | Paiwt</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="is-preload">
+    <!-- Wrapper -->
+    <div id="wrapper">
+      <!-- Main -->
+      <div id="main">
+        <div class="inner">
+          <!-- Header -->
+          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
+                src="images/logopaiwt.jpg" alt="logo" height="135" width="299"></a>
+            <ul class="icons">
+              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
+                    class="label">Twitter</span></a></li>
+              <li><a href="https://www.facebook.com/Paiwt/" target="_blank" class="icon fa-facebook"><span
+                    class="label">Facebook</span></a></li>
+              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
+                  class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
+                    class="label">Medium</span></a></li>
+            </ul>
+          </header>
+          <!-- Banner -->
+          <section id="banner">
+            <div class="content">
+              <header>
+                <h1>The Game<br>
+                </h1>
+                <h3>powered by Enjin</h3>
+                <p>Compete in a board game using paint to complete unique
+                  artwork that enables you to join an interactive blockchain
+                  market. </p>
+              </header>
+              <p> Paiwt The Game is a board game where your creations create
+                Enjin backed ERC-1155 Tokens. Players create Unique Paiwt
+                Explosions (or UPE for short) according to the game rules and
+                then be submitted for minting. Individual Unique Paiwt
+                Explosions will have a distinct visual appearance determined by
+                the sequence of colors players choose during the game. After
+                Unique Paiwt Explosions become minted into an official Paiwt UPE
+                ERC-1155 Token, they can be bought, sold, or transferred
+                digitally. All the block digital Unique Paiwt Explosions are
+                unique and 100% owned and controlled by the artists; they cannot
+                be replicated, stolen, or destroyed. Unique Paiwt Explosions are
+                not a cryptocurrency; they’re a cryptocollectible. </p>
+              <ul class="actions">
+                <li><a href="boardgame.html" class="button big">View Paiwt
+                    The Board Game</a></li>
+              </ul>
+            </div>
+            <span class="image object"> <img src="images/pic10c.jpg" alt=""> </span>
+          </section>
+        </div>
+      </div>
+      <!-- Sidebar -->
+      <div id="sidebar">
+        <div class="inner">
+          <!-- Menu -->
+          <nav id="menu">
+            <header class="major">
+              <h2>Menu</h2>
+            </header>
+            <ul>
+              <li><a href="https://paiwt.com/game">Homepage</a></li>
+              <li><a href="getstarted">Get Started</a></li>
+              <li><a href="boardgame">The Board Game</a></li>
+              <li><a href="mint">UPE Mint Shop</a></li>
+              <li> <span class="opener">Collectibles</span>
+                <ul>
+                  <li><a href="upe">Unique Paiwt Explosion</a></li>
+                  <li><a href="upc">Unique Paiwt Creature</a></li>
+                  <li><a href="ernie">Ernie</a></li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+          <!-- Section -->
+          <section>
+            <header class="major">
+              <h2>Get in touch</h2>
+            </header>
+            <p>Questions? Comments? Join Telegram. Chat live with us and enter
+              giveaways. Private and Cloud-Based, Telegram messages are heavily
+              encrypted. </p>
+            <ul class="contact">
+              <p></p>
+              <li class="fa-envelope-o"><a href="https://t.me/PaiwtTelegram">Paiwt's
+                  Official Telegram</a></li>
+            </ul>
+          </section>
+          <!-- Footer -->
+          <footer id="footer">
+            <p class="copyright">© ArtWaters. All rights reserved.</p>
+          </footer>
+        </div>
+      </div>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
 </html>
