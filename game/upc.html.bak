@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!--
-	Editorial by HTML5 UP	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+	Editorial by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
   <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
     <script>
@@ -15,7 +15,6 @@
 </script> <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <title>Paiwt - Unique Paiwt Creature</title>
-    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
@@ -26,18 +25,14 @@
       <div id="main">
         <div class="inner">
           <!-- Header -->
-          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
-
+          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
                 src="images/logopaiwt.jpg" alt="logo" height="135" width="299"></a>
             <ul class="icons">
-              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
-
+              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
                     class="label">Twitter</span></a></li>
-              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
-
+              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
                   class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
-
+              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
                     class="label">Medium</span></a></li>
             </ul>
           </header>
@@ -61,45 +56,36 @@
             </p>
             <h4>Once a UPC has completed its metamorphosis it will have a:</h4>
             <li>distinct visual appearance.</li>
-            <li>unique name.
-            </li>
+            <li>unique name. </li>
             <li>Enjin amount of 10.</li>
             <li>maximum total supply of 1.</li>
             <p></p>
             <p> </p>
             <div class="box alt">
               <div class="row gtr-50 gtr-uniform">
-                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/85435529"
-
+                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/85435529"
                       target="_blank"> <img src="images/upc03bb.jpg" alt=""></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/85435415"
-
+                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/85435415"
                       target="_blank"> <img src="images/upc02bb.jpg" alt=""></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/85443715"
-
+                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/85443715"
                       target="_blank"> <img src="images/upc04cc.jpg" alt=""></a></span></div>
                 <!-- Break -->
-                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/86112931"
-
+                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/86112931"
                       target="_blank"> <img src="images/upc07bb.jpg" alt=""></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/86112930"
-
+                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/86112930"
                       target="_blank"> <img src="images/upc08bb.jpg" alt=""></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/86112947"
-
+                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/86112947"
                       target="_blank"> <img src="images/upc06bb.jpg" alt=""></a></span></div>
                 <!-- Break -->
-                <div class="col-4"><span class="image fit"> <a href="images/upc07a.png"
-
-                      target="_blank"> <img src="images/upc07.png" alt=""></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="images/upc08a.png"
-
-                      target="_blank"> <img src="images/upc08.png" alt=""></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="images/upc09a.png"
-
-                      target="_blank"> <img src="images/upc09.png" alt=""></a></span>
-                </div>
-				
+                <div class="col-4"><span class="image fit"> <a href="images/upc07a.png"
+                      target="_blank"> <br>
+                    </a></span></div>
+                <div class="col-4"><span class="image fit"> <a href="images/upc08a.png"
+                      target="_blank"> <br>
+                    </a></span></div>
+                <div class="col-4"><span class="image fit"> <a href="images/upc09a.png"
+                      target="_blank"> <br>
+                    </a></span> </div>
                 <div class="table-wrapper"> </div>
               </div>
             </div>
@@ -107,7 +93,6 @@
         </div>
       </div>
       <div class="col-6 col-12-medium">
-      
         <!-- Sidebar -->
         <div id="sidebar">
           <div class="inner">
