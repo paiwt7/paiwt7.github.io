@@ -25,18 +25,14 @@
       <div id="main">
         <div class="inner">
           <!-- Header -->
-          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
-
+          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
                 src="images/logopaiwt.jpg" alt="logo" height="135" width="299"></a>
             <ul class="icons">
-              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
-
+              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
                     class="label">Twitter</span></a></li>
-              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
-
+              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
                   class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
-
+              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
                     class="label">Medium</span></a></li>
             </ul>
           </header>
@@ -84,52 +80,43 @@
               <li>Each Unique Paiwt Explosion is secure due to their
                 irreproducible nature and block security measures, i.e. codes.</li>
               <li>Every UPE goes through a metamorphosis, typically taking
-                around 14 days to complete, which creates a new separate <a href="upc"
-
+                around 14 days to complete, which creates a new separate <a href="upc"
                   target="_blank"> Unique Paiwt Creature. </a></li>
             </ul>
             <p></p>
             <p> </p>
             <ul class="actions">
-              <li><a href="https://docs.google.com/document/d/e/2PACX-1vS9GfCc7KCaVXLooawBUBgoaYPRbrGrCx3jyXYlcJQFOT8pwGkDWYwK8HF_-yCjvVnlLbEXYsqwllvJ/pub"
-
+              <li><a href="https://docs.google.com/document/d/e/2PACX-1vS9GfCc7KCaVXLooawBUBgoaYPRbrGrCx3jyXYlcJQFOT8pwGkDWYwK8HF_-yCjvVnlLbEXYsqwllvJ/pub"
                   target="_blank" class="button big">View Paiwt White Paper on
                   Google</a></li>
             </ul>
             <p></p>
             <div class="box alt">
               <div class="row gtr-50 gtr-uniform">
-                <div class="col-4"><span class="image fit"> <a href="images/upe01a.png"
-
+                <div class="col-4"><span class="image fit"> <a href="images/upe01a.png"
                       target="_blank"> <img src="images/upe01b.jpg" alt=""></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="images/upe02a.png"
-
+                <div class="col-4"><span class="image fit"> <a href="images/upe02a.png"
                       target="_blank"> <img src="images/upe02b.jpg" alt=""></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="images/upe03a.png"
-
+                <div class="col-4"><span class="image fit"> <a href="images/upe03a.png"
                       target="_blank"> <img src="images/upe03b.jpg" alt=""></a></span></div>
                 <!-- Break -->
-                <div class="col-4"><span class="image fit"> <a href="images/upe04a.png"
-
+                <div class="col-4"><span class="image fit"> <a href="images/upe04a.png"
                       target="_blank"> <img src="images/upe099b.jpg" alt=""></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="images/upe05a.png"
-
+                <div class="col-4"><span class="image fit"> <a href="images/upe05a.png"
                       target="_blank"> <img src="images/upe05b.jpg" alt=""></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="images/upe06a.png"
-
+                <div class="col-4"><span class="image fit"> <a href="images/upe06a.png"
                       target="_blank"> </a><a href="images/upe06a.png" target="_blank">
                       <img src="images/upe06b.jpg" alt=""></a></span></div>
                 <!-- Break -->
-                <div class="col-4"><span class="image fit"> <a href="images/upe07a.png"
-
-                      target="_blank"> <img src="images/upe07.png" alt=""></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="images/upe08a.png"
-
-                      target="_blank"> <img src="images/upe08.png" alt=""></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="images/upe09a.png"
-
-                      target="_blank"> <img src="images/upe09.png" alt=""></a></span>
-                </div>
+                <div class="col-4"><span class="image fit"> <a href="images/upe07a.png"
+                      target="_blank"> <br>
+                    </a></span></div>
+                <div class="col-4"><span class="image fit"> <a href="images/upe08a.png"
+                      target="_blank"> <br>
+                    </a></span></div>
+                <div class="col-4"><span class="image fit"> <a href="images/upe09a.png"
+                      target="_blank"> <br>
+                    </a></span> </div>
                 <div class="table-wrapper"> </div>
               </div>
             </div>
@@ -137,7 +124,6 @@
         </div>
       </div>
       <div class="col-6 col-12-medium">
-    
         <!-- Sidebar -->
         <div id="sidebar">
           <div class="inner">
