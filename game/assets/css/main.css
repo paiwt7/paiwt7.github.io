@@ -3048,7 +3048,7 @@ ul li::before {
 			-webkit-transform: scaleX(-1);
 			-ms-transform: scaleX(-1);
 			transform: scaleX(-1);
-			color: #7f888f;
+			color: #3d4449;
 			content: '\f002';
 			cursor: default;
 			display: block;
