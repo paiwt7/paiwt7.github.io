@@ -129,62 +129,59 @@
                 </tr>
               </tbody>
             </table>
-            <br>
-            <p></p>
-            <a href="https://www.etsy.com/listing/853836280" target="_blank"> </a>
-            <p style="color: black; font-size: 15px; text-align: center;" class="center"></p>
-            <p></p>
           </section>
         </div>
       </div>
     </div>
-    <!-- Sidebar -->
-    <div id="sidebar">
-      <div class="inner">
-        <!-- Menu -->
-        <nav id="menu">
-          <header class="major">
-            <h2>Menu</h2>
-          </header>
-          <ul>
-            <li><a href="https://paiwt.com/game">Homepage</a></li>
-            <li><a href="getstarted">Get Started</a></li>
-            <li><a href="paiwtboardgame">The Board Game</a></li>
-            <li><a href="mint">UPE Mint Shop</a></li>
-            <li> <span class="opener">Collectibles</span>
+
+        <!-- Sidebar -->
+        <div id="sidebar">
+          <div class="inner">
+            <!-- Menu -->
+            <nav id="menu">
+              <header class="major">
+                <h2>Menu</h2>
+              </header>
               <ul>
-                <li><a href="upe">Unique Paiwt Explosion</a></li>
-                <li><a href="upc">Unique Paiwt Creature</a></li>
-                <li><a href="ernie">Ernie</a></li>
+                <li><a href="https://paiwt.com/game">Homepage</a></li>
+                <li><a href="getstarted">Get Started</a></li>
+                <li><a href="boardgame">Board Game</a></li>
+                <li><a href="mint">UPE Mint Shop</a></li>
+                <li> <span class="opener">Collectibles</span>
+                  <ul>
+                    <li><a href="upe">Unique Paiwt Explosion</a></li>
+                    <li><a href="upc">Unique Paiwt Creature</a></li>
+                    <li><a href="ernie">Ernie Paiwt Hand</a></li>
+                  </ul>
+                </li>
               </ul>
-            </li>
-          </ul>
-        </nav>
-        <!-- Section -->
-        <section>
-          <header class="major">
-            <h2>Get in touch</h2>
-          </header>
-          <p>Questions? Comments? Join Telegram. Chat live with us and enter
-            giveaways. Private and Cloud-Based, Telegram messages are heavily
-            encrypted. </p>
-          <ul class="contact">
-            <p></p>
-            <li class="fa-envelope-o"><a href="https://t.me/PaiwtTelegram">Paiwt's
-                Official Telegram</a></li>
-          </ul>
-        </section>
-        <!-- Footer -->
-        <footer id="footer">
-          <p class="copyright">© ArtWaters. All rights reserved.</p>
-        </footer>
+            </nav>
+            <!-- Section -->
+            <section>
+              <header class="major">
+                <h2>Get in touch</h2>
+              </header>
+              <p>Questions? Comments? Join Telegram. Chat live with us and enter
+                giveaways. Private and Cloud-Based, Telegram messages are
+                heavily encrypted. </p>
+              <ul class="contact">
+                <p></p>
+                <li class="fa-envelope-o"><a href="https://t.me/PaiwtTelegram">Paiwt's
+                    Official Telegram</a></li>
+              </ul>
+            </section>
+            <!-- Footer -->
+            <footer id="footer">
+              <p class="copyright">© Paiwt 2018. All rights reserved.</p>
+            </footer>
+          </div>
+        </div>
       </div>
-    </div>
-    <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/browser.min.js"></script>
-    <script src="assets/js/breakpoints.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
+      <!-- Scripts -->
+      <script src="assets/js/jquery.min.js"></script>
+      <script src="assets/js/browser.min.js"></script>
+      <script src="assets/js/breakpoints.min.js"></script>
+      <script src="assets/js/util.js"></script>
+      <script src="assets/js/main.js"></script> </div>
   </body>
 </html>
