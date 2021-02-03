@@ -1,25 +1,29 @@
 <!DOCTYPE html>
 <html>
-  <head><!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
-<script>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
+    <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'UA-140661149-1');
-</script>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Contact Us | Paiwt</title>
+</script> <title>Contact Us | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
   <body class="is-preload homepage">
-    <!-- Header --> 
+    <!-- Header -->
     <div id="page-wrapper">
       <div id="header-wrapper">
         <header id="header" class="container">
- <!-- Logo -->     <div id="logo">   <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img  src="images/logo9.png" alt="yes" title="yes"></a></h1>          <span></span> </div>
+          <!-- Logo -->
+          <div id="logo">
+            <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img
+                  src="images/logo9.png" alt="yes" title="yes"></a></h1>
+            <span></span> </div>
           <!-- Nav -->
           <nav id="nav">
             <ul>
@@ -30,7 +34,8 @@
                 <ul>
                   <li><a href="color-droppers">Color Droppers</a></li>
                   <li><a href="white-medium">White Medium</a></li>
-               <li><a href="expander">Expander</a></li>    <li><a href="kit">Paiwt Kit</a></li>   
+                  <li><a href="expander">Expander</a></li>
+                  <li><a href="kit">Paiwt Kit</a></li>
                 </ul>
               </li>
               <li><a href="instructions">Instructions</a></li>
@@ -77,120 +82,105 @@
             <!-- Content -->
             <article>
               <h2>Contact Us</h2>
-              Have a question? Great. We are here to help you 7 days a week
-              and respond within 24 hours.<br>
-              <strong>For Assistance with an Order:</strong><br>
-              For questions about placing an order or for help with an order
-              that has just been placed (including cancellations): <br>
-              <em>Email:</em> <a href="mailto:orders@paiwt.com" title="Assistance with an Order Email">orders@paiwt.com</a><br>
-              <strong>For Issues With an Order That Has Already Shipped:</strong>
-              <br>
-              <em>Email:</em> <a href="mailto:custservice@paiwt.com" title="Email: custservice@paiwt.com">custservice@paiwt.com</a>
-              <br>
-              <strong>For Product Information Questions about art materials,
-                product applications, and techniques:<br>
+              Have a question? Great. We are here to help you 7 days a week and
+              respond within 24 hours.<br>
+              <strong>For Assistance and Questions:</strong><strong><br>
               </strong>Please feel free to contact us with any questions you may
               have. We're happy to help! <br>
-              <em>Email:</em> <a href="mailto:info@paiwt.com%20" title="Email: info@paiwt.com">info@paiwt.com
-                </a><br> <strong>For Questions About Institutional Quotes &amp;
-                Discounts For assistance with quotes, bid and contract terms, or
-                volume school discounts:<br>
-              </strong>&nbsp;<em>Email:</em> <a href="mailto:sales@paiwt.com" title="Email: sales@paiwt.com">sales@paiwt.com</a><br>
-              <strong>For Questions About The Paiwt Live Show</strong> <br>
-              <em>Email: </em><a href="mailto:%20daniel@paiwt.com%20" title="Email:  daniel@paiwt.com ">daniel@paiwt.com
+              <em>Email:</em> sales<a href="mailto:info@paiwt.com%20" title="Email: info@paiwt.com">@paiwt.com
                 </a><br> <strong>To Contact Us By Mail:</strong> <br>
               Paiwt 1350 E Flamingo Rd Ste 13b #422 Las Vegas, NV 89119 <br>
               <strong>Direct Contact: </strong><br>
               <em>Phone:</em> (702)764-7095
-                   <!-- Footer --> </div>
-    <div id="footer-wrapper">
-      <footer id="footer" class="container">
-        <div class="row">
-          <div class="col-3 col-6-medium col-12-small">
-            <!-- Links -->
-            <section class="widget links"> <strong>Customer Service </strong>
-              <ul class="style2">
-                <li><a href="contact" title="Contact Us">Contact Us </a></li>
-                <li><a href="payments" title="Payment Options">Payment Options</a></li>
-                <li><a href="shipping" title="Shipping Information">Shipping
-                    Information </a></li>
-                <li><a href="returns" title="Return Policy">Return Policy</a></li>
-                <li><br>
-                </li>
-              </ul>
-            </section>
+              <!-- Footer --> </article>
           </div>
-          <div class="col-3 col-6-medium col-12-small">
-            <!-- Links -->
-            <section class="widget links"> <strong>Product Information </strong>
-              <ul class="style2">
-                <li><a href="help" title="General Help">General Help </a></li>
-                <li><a href="products" title="Products Page">Products Page </a></li>
-                <li><a href="instructions" title="Instructions">Instructions</a></li>
-                <li><a href="live" title="Live Show">Live Show</a></li>
-                <li><br>
-                </li>
-              </ul>
-            </section>
+          <div id="footer-wrapper">
+            <footer id="footer" class="container">
+              <div class="row">
+                <div class="col-3 col-6-medium col-12-small">
+                  <!-- Links -->
+                  <section class="widget links"> <strong>Customer Service </strong>
+                    <ul class="style2">
+                      <li><a href="contact" title="Contact Us">Contact Us </a></li>
+                      <li><a href="payments" title="Payment Options">Payment
+                          Options</a></li>
+                      <li><a href="shipping" title="Shipping Information">Shipping
+                          Information </a></li>
+                      <li><a href="returns" title="Return Policy">Return Policy</a></li>
+                      <li><br>
+                      </li>
+                    </ul>
+                  </section>
+                </div>
+                <div class="col-3 col-6-medium col-12-small">
+                  <!-- Links -->
+                  <section class="widget links"> <strong>Product Information </strong>
+                    <ul class="style2">
+                      <li><a href="help" title="General Help">General Help </a></li>
+                      <li><a href="products" title="Products Page">Products Page
+                        </a></li>
+                      <li><a href="instructions" title="Instructions">Instructions</a></li>
+                      <li><a href="live" title="Live Show">Live Show</a></li>
+                      <li><br>
+                      </li>
+                    </ul>
+                  </section>
+                </div>
+                <div class="col-3 col-6-medium col-12-small">
+                  <!-- Links --><strong> </strong>
+                  <section class="widget links"><strong> Quick Links </strong>
+                    <ul class="style2">
+                      <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop ">e-Shop</a></li>
+                      <li><a href="mailinglist" title="Join Our Email List">Join
+                          Our Email List </a></li>
+                      <li><a href="security" title="Security &amp; Privacy">Security
+                          &amp; Privacy </a></li>
+                      <li><a href="terms" title="Terms of Use">Terms of Use </a></li>
+                      <li><br>
+                      </li>
+                    </ul>
+                  </section>
+                </div>
+                <div class="col-3 col-6-medium col-12-small">
+                  <!-- Contact -->
+                  <section class="widget contact last"><strong><span style="color: #ffaab4;">Social
+                        Media</span></strong><br>
+                    <ul>
+                      <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+                          title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
+                      <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+                          title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
+                      <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+                          title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
+                      <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
+                          title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
+                      <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+                          title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
+                    </ul>
+                    <p><br>
+                    </p>
+                  </section>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-12">
+                  <div id="copyright">
+                    <ul class="menu">
+                      <li> © 2018 Paiwt.com. All rights reserved</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </footer>
           </div>
-          <div class="col-3 col-6-medium col-12-small">
-            <!-- Links --><strong> </strong>
-            <section class="widget links"><strong> Quick Links </strong>
-              <ul class="style2">
-                <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop ">e-Shop</a></li>
-                <li><a href="mailinglist" title="Join Our Email List">Join Our
-                    Email List </a></li>
-                <li><a href="security" title="Security &amp; Privacy">Security
-                    &amp; Privacy </a></li>
-                <li><a href="terms" title="Terms of Use">Terms of Use </a></li>
-                <li><br>
-                </li>
-              </ul>
-            </section>
-          </div>
-          <div class="col-3 col-6-medium col-12-small">
-            <!-- Contact -->
-            <section class="widget contact last"><strong><span style="color: #ffaab4;">Social
-                  Media</span></strong><br>
-              <ul>
-                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
-
-                    title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
-
-                    title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
-
-                    title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
-
-                    title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
-
-                    title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
-              </ul>
-              <p><br>
-              </p>
-            </section>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-12">
-            <div id="copyright">
-              <ul class="menu">
-                <li> © 2018 Paiwt.com. All rights reserved</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </footer>
+          <!-- Scripts -->
+          <script src="assets/js/jquery.min.js"></script>
+          <script src="assets/js/jquery.dropotron.min.js"></script>
+          <script src="assets/js/browser.min.js"></script>
+          <script src="assets/js/breakpoints.min.js"></script>
+          <script src="assets/js/util.js"></script>
+          <script src="assets/js/main.js"></script> </div>
+      </div>
     </div>
-    <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery.dropotron.min.js"></script>
-    <script src="assets/js/browser.min.js"></script>
-    <script src="assets/js/breakpoints.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
   </body>
 </html>
