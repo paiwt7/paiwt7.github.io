@@ -39,7 +39,7 @@
                 </ul>
               </li>
               <li><a href="instructions">Instructions</a></li>
-              <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt e-Shop">e-Shop</a></li>
+              <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store">Amazon Store</a></li>
               <li> <a href="techniques">Techniques</a>
                 <ul>
                   <li> <a href="#">Beginner Techniques</a>
@@ -101,12 +101,6 @@
                 <!-- Content -->
                 <article>
                   <h2>Paiwt Kit</h2>
-                  <p style="color:black;font-size:18px;"> We now offer the
-                    ability to purchase a Paiwt Kit directly from Paiwt.com
-                    using Bitcoin. You can also visit the <a href="https://www.amazon.com/dp/B08W1L57WZ"
-                      title="Paiwt Etsy e-Shop ">Paiwt Etsy e-Shop</a> to
-                    purchase. When purchasing from Paiwt.com using Bitcoin, your
-                    order total includes taxes, shipping, and handling. </p>
                   <style>
 #customers {
   font-family: Arial, Helvetica, sans-serif;
@@ -147,43 +141,13 @@
                           Shipping Included, 100% Satisfaction Guaranteed.</td>
                         <td style="text-align: center;"><strong>U.S. <br>
                             <a href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2"
-                              title="U.S. Order" target="_blank"><span style="color: #62bca3;">24.99</span></a><br>
-                            Int.<br>
-                            <a href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21"
-                              target="_blank"> <span style="color: #62bca3;">64.99</span></a><br>
+                              title="U.S. Order" target="_blank"><span style="color: #62bca3;">34.99</span></a><br>
                           </strong></td>
                       </tr>
                       <tr>
-                        <td>To purchase using Bitcoin, first fill out our <a href="mailinglist"
-                            title="Mailing List Form" target="_blank">Mailing
-                            Form</a>, then complete your order by selecting your
-                          region:</td>
-                        <td><br>
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>a.) U.S. Order if you are <u><strong>in</strong></u>
-                          the <a href="shipping" title="Shipping Information">48
-                            U.S. Contiguous States</a>.</td>
-                        <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2"
-                            title="U.S. Paiwt Order" target="_blank"><button name="U.S."
-                              value="U.S." type="button" formtarget="https://commerce.coinbase.com/checkout/d8765b79-34cf-4300-959b-41875e218db2">U.S.</button></a></td>
-                      </tr>
-                      <tr>
-                        <td>b.) International Order if you are placing your
-                          order from <strong><u>outside</u></strong> of the <a
-                            href="shipping" title="Shipping Information">48 U.S.
-                            Contiguous States. </a></td>
-                        <td style="text-align: center;"> <a href="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21"
-                            title="International Paiwt Order" target="_blank"><button
-                              name="Int." value="Int." type="button" formtarget="https://commerce.coinbase.com/checkout/e31fd241-cbe7-403a-b356-c4706f89be21">Int.</button></a></td>
-                      </tr>
-                      <tr>
-                        <td>You will receive a confirmation receipt including
-                          your USPS Priority Mail tracking code by e-mail within
-                          24 hours of your order. <a href="shipping" title="Shipping Information">Shipments</a>
-                          are sent out the next business day.</td>
-                        <td><br>
+                        <td> <a href="https://www.amazon.com/dp/B08W1L57WZ" title="Amazon Paiwt Kit"><img
+                              src="images/Amazon-order-button.png" alt="Amazon Buy Button"
+                              title="Amazon Buy Button" style="width: 212px; height: 102px;"></a>
                         </td>
                       </tr>
                     </tbody>
@@ -237,7 +201,7 @@
             <!-- Links --><strong> </strong>
             <section class="widget links"><strong> Quick Links </strong>
               <ul class="style2">
-                <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt e-Shop ">e-Shop</a></li>
+                <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store ">Amazon Store</a></li>
                 <li><a href="mailinglist" title="Join Our Email List">Join Our
                     Email List </a></li>
                 <li><a href="security" title="Security &amp; Privacy">Security
