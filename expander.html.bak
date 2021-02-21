@@ -21,8 +21,7 @@
         <header id="header" class="container">
           <!-- Logo -->
           <div id="logo">
-            <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img
-
+            <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img
                   src="images/logo9.png" alt="yes" title="yes"></a></h1>
             <span></span> </div>
           <!-- Nav -->
@@ -40,7 +39,7 @@
                 </ul>
               </li>
               <li><a href="instructions">Instructions</a></li>
-              <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt e-Shop">e-Shop</a></li>
+              <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store">Amazon Store</a></li>
               <li> <a href="techniques">Techniques</a>
                 <ul>
                   <li> <a href="#">Beginner Techniques</a>
@@ -102,21 +101,17 @@
                 <!-- Content -->
                 <article>
                   <h2>Paiwt Expander</h2>
-                  <p style="color:black;font-size:18px;"> By using <a href="https://www.etsy.com/listing/853822352"
-
-                      target="_blank">Paiwt Expander</a>, Paiwt offers the
-                    ability to create a powerful visual effect that will amplify
-                    your Paiwt Colors outwards in all directions while mixing
-                    the Paiwt Colors in the center creating a
-                    beautiful unique design that moves, dances, and grows each
-                    second. Apply one drop onto your layered Paiwt Colors and
-                    you will be dazzled by a unique display of moving and mixing
-                    colors; different Paiwt Color sequences produce different
-                    effects. </p>
-                  <a href="https://www.etsy.com/listing/853822352" target="_blank"><img
-
-                      src="images/expanderpage1b.png" class="center" alt="Expander Page Image #1"
-
+                  <p style="color:black;font-size:18px;"> By using Paiwt
+                    Expander, Paiwt offers the ability to create a powerful
+                    visual effect that will amplify your Paiwt Colors outwards
+                    in all directions while mixing the Paiwt Colors in the
+                    center creating a beautiful unique design that moves,
+                    dances, and grows each second. Apply one drop onto your
+                    layered Paiwt Colors and you will be dazzled by a unique
+                    display of moving and mixing colors; different Paiwt Color
+                    sequences produce different effects. </p>
+                  <a href="https://www.etsy.com/listing/853822352" target="_blank"><img
+                      src="images/expanderpage1b.png" class="center" alt="Expander Page Image #1"
                       title="Expander Page Image #1"><br>
                   </a>
                   <p style="color:black;font-size:18px;">The expander helps the
@@ -125,24 +120,18 @@
                     mix the two+ Paiwt Colors together to form new Paiwt Colors.
                     It can also be applied to single Paiwt Color.<br>
                   </p>
-                  <a href="https://www.instagram.com/p/CFoUlObHhqt/" target="_blank"><img
-
+                  <a href="https://www.instagram.com/p/CFoUlObHhqt/" target="_blank"><img
                       src="images/expanderpage2.png" class="center" alt="" style="width: 355px; height: 355px;"><br>
                   </a>
-                  <p style="color:black;font-size:18px;"><a href="https://www.etsy.com/listing/853822352"
-
-                      target="_blank">Paiwt Expander</a> is a biodegradable,
-                    nontoxic, and all-natural formulation.<br>
+                  <p style="color:black;font-size:18px;">Paiwt Expander is a
+                    biodegradable, nontoxic, and all-natural formulation.<br>
                   </p>
-                  <a href="https://www.instagram.com/p/CFu4gbxnZMx/" target="_blank"><img
-
+                  <a href="https://www.instagram.com/p/CFu4gbxnZMx/" target="_blank"><img
                       src="images/expanderpage5.png" class="center" alt="" style="width: 355px; height: 355px;"><br>
                   </a>
-                  <p style="color: black; font-size: 15px; text-align: center;"
-
-                    class="center"> Visit <a href="https://www.amazon.com/dp/B08W1L57WZ"
-
-                      target="_blank">The Paiwt e-Shop</a> to order genuine
+                  <p style="color: black; font-size: 15px; text-align: center;"
+                    class="center"> Visit <a href="https://www.amazon.com/dp/B08W1L57WZ"
+                      target="_blank">The Paiwt Amazon Store</a> to order genuine
                     Paiwt supplies. </p>
                 </article>
               </div>
@@ -186,7 +175,7 @@
             <!-- Links --><strong> </strong>
             <section class="widget links"><strong> Quick Links </strong>
               <ul class="style2">
-                <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt e-Shop ">e-Shop</a></li>
+                <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store ">Amazon Store</a></li>
                 <li><a href="mailinglist" title="Join Our Email List">Join Our
                     Email List </a></li>
                 <li><a href="security" title="Security &amp; Privacy">Security
@@ -202,20 +191,15 @@
             <section class="widget contact last"><strong><span style="color: #ffaab4;">Social
                   Media</span></strong><br>
               <ul>
-                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
-
+                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
                     title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
-
+                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
                     title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
-
+                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
                     title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
-
+                <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
                     title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
-
+                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
                     title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
               </ul>
               <p><br>

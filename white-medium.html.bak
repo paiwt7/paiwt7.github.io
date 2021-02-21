@@ -39,7 +39,7 @@
                 </ul>
               </li>
               <li><a href="instructions">Instructions</a></li>
-              <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt e-Shop">e-Shop</a></li>
+              <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store">Amazon Store</a></li>
               <li> <a href="techniques">Techniques</a>
                 <ul>
                   <li> <a href="#">Beginner Techniques</a>
@@ -121,8 +121,8 @@
                       title="White Medium Image #2"><br>
                   </a>
                   <p style="color:black;font-size:18px;">Mixing colors into
-                    white medium using Paiwt Color Droppers creates a colorful
-                    medium:<br>
+                    white medium using <a href="color-droppers" title="Paiwt Color Droppers">Paiwt
+                      Color Droppers</a> creates a colorful medium:<br>
                   </p>
                   <a href="colorful-medium" title="Paiwt Colorful Medium Technique"><img
                       src="images/cmt7.jpg" class="center" alt=""><br>
@@ -138,7 +138,7 @@
                   </a>
                   <p style="color: black; font-size: 15px; text-align: center;"
                     class="center"> Visit <a href="https://www.amazon.com/dp/B08W1L57WZ"
-                      target="_blank">The Paiwt e-Shop</a> to order genuine
+                      target="_blank">The Paiwt Amazon Store</a> to order genuine
                     Paiwt supplies. </p>
                 </article>
               </div>
@@ -182,7 +182,7 @@
             <!-- Links --><strong> </strong>
             <section class="widget links"><strong> Quick Links </strong>
               <ul class="style2">
-                <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt e-Shop ">e-Shop</a></li>
+                <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store ">Amazon Store</a></li>
                 <li><a href="mailinglist" title="Join Our Email List">Join Our
                     Email List </a></li>
                 <li><a href="security" title="Security &amp; Privacy">Security
