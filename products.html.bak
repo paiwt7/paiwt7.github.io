@@ -21,8 +21,7 @@
         <header id="header" class="container">
           <!-- Logo -->
           <div id="logo">
-            <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img
-
+            <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img
                   src="images/logo9.png" alt="yes" title="yes"></a></h1>
             <span></span> </div>
           <!-- Nav -->
@@ -102,18 +101,15 @@
                 <!-- Content -->
                 <article>
                   <h2>Products</h2>
-                  <p>Colorful dendrite fractal painting supplies and
-                    artwork. Paiwt supplies, kits, and artwork can be purchased
-                    from our <a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store">Amazon
+                  <p>Colorful dendrite fractal painting supplies and artwork.
+                    Paiwt supplies, kits, and artwork can be purchased from our
+                    <a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store">Amazon
                       Store</a>. You can also purchase a <a href="kit" title="Paiwt Kit">Paiwt
                       Kit</a> directly from Paiwt.com using Bitcoin. Learn about
                     Paiwt Supplies: <a href="color-droppers" title="Color Droppers">Color
-                      Droppers</a> ,<span style="color: #0090c5;"> </span><a href="white-medium"
-
-                      title="Paiwt White Medium">White Medium</a> , and <a href="expander"
-
-                      title="Expander">Expander</a> or learn about our <a href="kit"
-
+                      Droppers</a> ,<span style="color: #0090c5;"> </span><a href="white-medium"
+                      title="Paiwt White Medium">White Medium</a> , and <a href="expander"
+                      title="Expander">Expander</a> or learn about our <a href="kit"
                       title="Paiwt Kit">Paiwt Kit</a>. </p>
                   <img src="images/SLCV6290.PNG" alt="Paiwt Kit" style="width: 300px; height: 300px;">
                 </article>
@@ -174,20 +170,15 @@
             <section class="widget contact last"><strong><span style="color: #ffaab4;">Social
                   Media</span></strong><br>
               <ul>
-                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
-
+                <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
                     title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
-
+                <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
                     title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
-
+                <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
                     title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
-
+                <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
                     title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
-                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
-
+                <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
                     title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
               </ul>
               <p><br>
