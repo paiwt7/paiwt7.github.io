@@ -4,7 +4,15 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>About | Paiwt</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140661149-1');
+</script> <title>Privacy Notice | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
@@ -14,22 +22,25 @@
         <header id="header" class="container">
           <!-- Logo -->
           <div id="logo">
-            <h1><a href="index.html">Paiwt </a></h1>
+            <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img
+                  src="images/logo9.png" alt="yes" title="yes"></a></h1>
             <span></span> </div>
           <!-- Nav -->
           <nav id="nav">
             <ul>
-              <li><a href="index" title="https://paiwt7.github.io">Welcome</a></li>
+              <li><a href="https://paiwt.com" title="https://paiwt.com">Welcome</a></li>
               <li class="current"><a href="about" title="About">About </a> </li>
               <li><a href="products">Products</a>
                 <ul>
                   <li><a href="color-droppers">Color Droppers</a></li>
                   <li><a href="white-medium">White Medium</a></li>
                   <li><a href="expander">Expander</a></li>
+                  <li><a href="kit">Paiwt Kit</a></li>
                 </ul>
               </li>
               <li><a href="instructions">Instructions</a></li>
-              <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop">e-Shop</a></li>
+              <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store">Amazon
+                  Store</a></li>
               <li> <a href="techniques">Techniques</a>
                 <ul>
                   <li> <a href="#">Beginner Techniques</a>
@@ -71,7 +82,7 @@
           <div id="content">
             <!-- Content -->
             <article>
-              <h1 style="text-align: justify;">Privacy Notice</h1>
+              <h2>Privacy Notice</h2>
               <article>
                 <style>
   [data-custom-class='body'], [data-custom-class='body'] * {
@@ -126,7 +137,7 @@ word-break: break-word !important;
                       your personal information and your right to privacy. If
                       you have any questions or concerns about this privacy
                       notice, or our practices with regards to your personal
-                      information, please contact us at daniel@paiwt.com.</span></div>
+                      information, please contact us at sales@paiwt.com.</span></div>
                   <div style="line-height: 1.5;"><span style="font-size: 15px;"><br>
                     </span></div>
                   <div style="line-height: 1.5;"><span style="font-size: 15px;"><span
@@ -1042,10 +1053,10 @@ word-break: break-word !important;
                                                                   style="color: rgb(48, 48, 241);"><span
                                                                   data-custom-class="body_text"><a
                                                                   data-custom-class="link"
-                                                                  href="http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+                                                                  href="http://ec.europa.eu/justice/data-protection/bodies/authorities/https://paiwt.com_en.htm"
                                                                   rel="noopener noreferrer"
                                                                   target="_blank"><span
-                                                                  style="font-size: 15px;">http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm</span></a></span></span></span></span></span>.</span></span></span></div>
+                                                                  style="font-size: 15px;">http://ec.europa.eu/justice/data-protection/bodies/authorities/https://paiwt.com_en.htm</span></a></span></span></span></span></span>.</span></span></span></div>
                                                   <div style="line-height: 1.5;"><br>
                                                   </div>
                                                   <div style="line-height: 1.5;"><span
@@ -1892,7 +1903,7 @@ word-break: break-word !important;
                                                               email at&nbsp;</span><span
                                                               style="color: rgb(89, 89, 89); font-size: 15px;"><span
                                                                 data-custom-class="body_text">info@paiwt.com,
-                                                              </span><span data-custom-class="body_text"><span
+                                                                </span><span data-custom-class="body_text"><span
                                                                   data-custom-class="body_text"></span></span></span></span></span><span
                                                           data-custom-class="body_text">or
                                                           by referring to the
@@ -2857,7 +2868,8 @@ word-break: break-word !important;
                       <!-- Links --><strong> </strong>
                       <section class="widget links"><strong> Quick Links </strong>
                         <ul class="style2">
-                          <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop ">e-Shop</a></li>
+                          <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store ">Amazon
+                              Store</a></li>
                           <li><a href="mailinglist" title="Join Our Email List">Join
                               Our Email List </a></li>
                           <li><a href="security" title="Security &amp; Privacy">Security
@@ -2871,7 +2883,7 @@ word-break: break-word !important;
                     </div>
                     <div class="col-3 col-6-medium col-12-small">
                       <!-- Contact -->
-                      <section class="widget contact last"><strong><span style="color: #ff2400;">Social
+                      <section class="widget contact last"><strong><span style="color: #ffaab4;">Social
                             Media</span></strong><br>
                         <ul>
                           <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
@@ -2880,7 +2892,7 @@ word-break: break-word !important;
                               title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
                           <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
                               title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                          <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+                          <li><a href="https://www.youtube.com/paiwt" class="icon brands fa-youtube"
                               title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
                           <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
                               title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
@@ -2892,7 +2904,7 @@ word-break: break-word !important;
                     <div class="col-12">
                       <div id="copyright">
                         <ul class="menu">
-                          <li>Copyright © 2018 Paiwt.com. All rights reserved</li>
+                          <li> © 2018 Paiwt.com. All rights reserved</li>
                         </ul>
                       </div>
                     </div>
