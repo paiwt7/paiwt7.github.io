@@ -48,7 +48,7 @@
                 target="_blank">Click Here</a> to view The Enjin Blockchain
               Legacy, which contains 4 Paiwt Collectibles including: the first <a
                 href="https://enjinx.io/eth/asset/708000000000026d/1/" target="_blank">Unique
-                Paiwt Explosion</a>, as well as three Ernie's <a href="https://enjinx.io/eth/asset/20098374"
+                Paiwt Explosion</a>, as well as the three first Ernie's: <a href="https://enjinx.io/eth/asset/20098374"
                 target="_blank">Pirate Ernie</a>, <a href="https://enjinx.io/eth/asset/20513435"
                 target="_blank">Clown Ernie</a>, and <a href="https://enjinx.io/eth/asset/24776876"
                 target="_blank">Chief Ernie.</a><a href="https://enjinx.io/eth/project/d7f380b4-fba9-4682-8359-c9ce504833ff/"
@@ -57,44 +57,39 @@
             </p>
             <div class="box alt">
               <div class="row gtr-50 gtr-uniform">
-                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/10000000000013c4/"
-                      target="_blank" title="Golden Pirate Ernie "> <img src=""
-                        alt="UPE Ernie Paiwt Enjin ERC-1155 Token" title="UPE Paiwt Enjin ERC-1155 Token"></a></span></div>
-                <div class="col-4"><a href="https://enjinx.io/eth/asset/70000000000012d3/"
-                    target="_blank" title="Promo Token Paiwt Enjin ERC-1155 Token"></a><span
-                    class="image fit"><a href="https://enjinx.io/eth/asset/10000000000013c4/"
-                      target="_blank" title="Golden Pirate Ernie "><img src="images/upe099b.jpg"
-                        alt="UPE Ernie Paiwt Enjin ERC-1155 Token" title="UPE Paiwt Enjin ERC-1155 Token"></a></span></div>
-                <div class="col-4"><a href="https://enjinx.io/eth/asset/78000000000012d2/"
-                    target="_blank" title="Ernie Buck Paiwt Enjin ERC-1155 Token"></a><span
-                    class="image fit"><a href="https://enjinx.io/eth/asset/10000000000013c4/"
-                      target="_blank" title="Golden Pirate Ernie "><img src="" alt="UPE Ernie Paiwt Enjin ERC-1155 Token"
-                        title="UPE Paiwt Enjin ERC-1155 Token"></a></span></div>
+                <div class="col-4"><span class="image fit">
+                    <div class="col-4"><a href="https://enjinx.io/eth/asset/70000000000012d3/"
+                        target="_blank" title="Promo Token Paiwt Enjin ERC-1155 Token"></a><span
+                        class="image fit"><a href="https://enjinx.io/eth/asset/10000000000013c4/"
+                          target="_blank" title="Golden Pirate Ernie "><img src="images/upe099b.jpg"
+                            alt="UPE Ernie Paiwt Enjin ERC-1155 Token" title="UPE Paiwt Enjin ERC-1155 Token"
+                            align="middle"></a></span></div>
+                  </span></div>
               </div>
-            </div>
-            <h2>Paiwt Project</h2>
-            <p style="color:black;font-size:18px;"><a href="https://enjinx.io/eth/project/d7f380b4-fba9-4682-8359-c9ce504833ff/"
-                target="_blank">Click Here</a> to view Paiwt The Game's Enjin
-              Project Page and view <a href="https://enjinx.io/eth/project/d7f380b4-fba9-4682-8359-c9ce504833ff/assets"
-                target="_blank">Paiwt Assets</a>. <br>
-              <span style="color: rgb(127, 136, 143); font-family: &quot;open sans&quot;, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span>
-            </p>
-            <div class="box alt">
-              <div class="row gtr-50 gtr-uniform">
-                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/10000000000013c4/"
-                      target="_blank" title="Golden Pirate Ernie "> <img src="images/goldenpirate.png"
-                        alt="Golden Pirate Ernie Paiwt Enjin ERC-1155 Token" title="Golden Pirate Ernie Paiwt Enjin ERC-1155 Token"></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/70000000000012d3/"
-                      target="_blank" title="Promo Token Paiwt Enjin ERC-1155 Token">
-                      <img src="images/promotoken.png" alt="Promo Token Paiwt Enjin ERC-1155 Token"
-                        title="Promo Token Paiwt Enjin ERC-1155 Token"></a></span></div>
-                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/78000000000012d2/"
-                      target="_blank" title="Ernie Buck Paiwt Enjin ERC-1155 Token">
-                      <img src="images/erniebuck.png" alt="Ernie Buck Ernie Paiwt Enjin ERC-1155 Token"
-                        title="Ernie Buck Paiwt Enjin ERC-1155 Token"></a></span></div>
+              <h2>Paiwt Project</h2>
+              <p style="color:black;font-size:18px;"><a href="https://enjinx.io/eth/project/d7f380b4-fba9-4682-8359-c9ce504833ff/"
+                  target="_blank">Click Here</a> to view Paiwt The Game's Enjin
+                Project Page and view <a href="https://enjinx.io/eth/project/d7f380b4-fba9-4682-8359-c9ce504833ff/assets"
+                  target="_blank">Paiwt Assets</a>. <br>
+                <span style="color: rgb(127, 136, 143); font-family: &quot;open sans&quot;, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span>
+              </p>
+              <div class="box alt">
+                <div class="row gtr-50 gtr-uniform">
+                  <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/10000000000013c4/"
+                        target="_blank" title="Golden Pirate Ernie "> <img src="images/goldenpirate.png"
+                          alt="Golden Pirate Ernie Paiwt Enjin ERC-1155 Token" title="Golden Pirate Ernie Paiwt Enjin ERC-1155 Token"></a></span></div>
+                  <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/70000000000012d3/"
+                        target="_blank" title="Promo Token Paiwt Enjin ERC-1155 Token">
+                        <img src="images/promotoken.png" alt="Promo Token Paiwt Enjin ERC-1155 Token"
+                          title="Promo Token Paiwt Enjin ERC-1155 Token"></a></span></div>
+                  <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/78000000000012d2/"
+                        target="_blank" title="Ernie Buck Paiwt Enjin ERC-1155 Token">
+                        <img src="images/erniebuck.png" alt="Ernie Buck Ernie Paiwt Enjin ERC-1155 Token"
+                          title="Ernie Buck Paiwt Enjin ERC-1155 Token"></a></span></div>
+                </div>
               </div>
+              <p></p>
             </div>
-            <p></p>
           </section>
         </div>
       </div>
