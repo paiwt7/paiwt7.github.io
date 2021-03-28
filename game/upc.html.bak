@@ -47,19 +47,24 @@
             <p> </p>
             <h4></h4>
             <p><span class="image left"><img src="images/upc00gg.jpg" alt=""></span>
-              A Unique Paiwt Creature (UPC) <a href="https://enjin.io/about/erc-1155"
-                title="Enjin ERC-1155" target="_blank">Enjin ERC-1155 Token</a>
-              is the result of a Unique Paiwt Explosion’s (UPE) ERC-1155
-              metamorphosis. Every UPE goes through a metamorphosis, typically
-              taking around 14 days to complete, which creates a new separate
-              UPC. The result is two ERC-1155 Tokens, both a UPE and a UPC. <br>
+            </p>
+            <p style="color:black;font-size:18px;">A Unique Paiwt Creature (UPC)
+              <a href="https://enjin.io/about/erc-1155" title="Enjin ERC-1155" target="_blank">Enjin
+                ERC-1155 Token</a> is the result of a Unique Paiwt Explosion’s
+              (UPE) ERC-1155 metamorphosis. Every UPE goes through a
+              metamorphosis, typically taking around 14 days to complete, which
+              creates a new separate UPC. The result is two ERC-1155 Tokens,
+              both a UPE and a UPC. <br>
               <img src="images/UPEUPCb.jpg" alt="" height="135" width="299"><br>
             </p>
-            <h4>Once a UPC has completed its metamorphosis it will have a:</h4>
-            <li>distinct visual appearance.</li>
-            <li>unique name. </li>
-            <li>Enjin amount of 10.</li>
-            <li>maximum total supply of 1.</li>
+            <h4>
+              <p style="color:black;font-size:18px;">Once a UPC has completed
+                its metamorphosis it will have:</p>
+            </h4>
+            <li style="color:black;font-size:18px;">distinct visual appearance.</li>
+            <li style="color:black;font-size:18px;">unique name. </li>
+            <li style="color:black;font-size:18px;">Enjin amount of 10.</li>
+            <li style="color:black;font-size:18px;">maximum total supply of 1.</li>
             <p></p>
             <p> </p>
             <div class="box alt">
