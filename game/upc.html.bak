@@ -59,7 +59,7 @@
             </p>
             <h4>
               <p style="color:black;font-size:18px;">Once a UPC has completed
-                its metamorphosis it will have:</p>
+                its metamorphosis it will have a:</p>
             </h4>
             <li style="color:black;font-size:18px;">distinct visual appearance.</li>
             <li style="color:black;font-size:18px;">unique name. </li>
@@ -111,7 +111,7 @@
                 <li><a href="mint">UPE Mint Shop</a></li>
                 <li> <span class="opener">Collectibles</span>
                   <ul>
-                    <li><a href="upe">Unique Paiwt Explosion</a></li>
+                    <li><a href="overview">Overview</a></li> 				   <li><a href="upe">Unique Paiwt Explosion</a></li>
                     <li><a href="upc">Unique Paiwt Creature</a></li>
                     <li><a href="ernie">Ernie Paiwt Hand</a></li>
                   </ul>
