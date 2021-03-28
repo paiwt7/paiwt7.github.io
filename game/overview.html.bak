@@ -39,110 +39,150 @@
           <!-- Section -->
           <section>
             <header class="major">
-              <h2>Get Started</h2>
+              <h2>Overview</h2>
             </header>
-            <div class="posts">
-              <article> <a href="upe" class="image"><img src="images/pic01b.jpg"
-                    alt=""></a>
-                <h3>Unique Paiwt Explosion</h3>
-                <p> Competing in our board game creates Unique Paiwt Explosions,
-                  or UPE for short. Each UPE consists of a random color design
-                  that a player completes to win. </p>
-                <ul class="actions">
-                  <li><a href="upe" class="button">More</a></li>
-                </ul>
-              </article>
-              <article> <a href="upc" class="image"><img src="images/pic02bb.jpg"
-                    alt=""></a>
-                <h3>Unique Paiwt Creature</h3>
-                <p> A Unique Paiwt Creature (UPC) ERC-1155 is the result of a
-                  Unique Paiwt Explosion’s (UPE) ERC-1155 metamorphosis </p>
-                <ul class="actions">
-                  <li><a href="upc" class="button">More</a></li>
-                </ul>
-              </article>
-              <article> <a href="boardgame" class="image"><img src="images/pic05b.jpg"
-                    alt=""></a>
-                <h3>Paiwt The Board Game</h3>
-                <p> Purchase the official Paiwt The Board Game here. Learn the
-                  rules to game and view the Paiwt Cards and Paiwt Board. </p>
-                <ul class="actions">
-                  <li><a href="boardgame" class="button">More</a></li>
-                </ul>
-              </article>
-              <article> <a href="ernie" class="image"><img src="images/pic04b.jpg"
-                    alt=""></a>
-                <h3>Ernie ERC-1155 Collectibles</h3>
-                <p> Enjin Ernest, "Paiwt Hand," commonly known as "Ernie," takes
-                  on the role of infinite characters, unlocking special ability
-                  during a tournament. </p>
-                <p> </p>
-                <ul class="actions">
-                  <li><a href="ernie" class="button">More</a></li>
-                </ul>
-              </article>
-              <article> <a href="http://t.me/PaiwtTelegram" target="_blank" class="image"><img
-                    src="images/pic03b.jpg" alt=""></a>
-                <h3>The Chatroom</h3>
-                <p> Join our interactive Telegram group. Chat live with us and
-                  enter giveaways. Private and Cloud-Based, Telegram messages
-                  are heavily encrypted. </p>
-                <ul class="actions">
-                  <li><a href="http://t.me/PaiwtTelegram" target="_blank" class="button">More</a></li>
-                </ul>
-              </article>
+            <a href="https://enjinx.io/eth/project/d7f380b4-fba9-4682-8359-c9ce504833ff/">Click
+              Here</a> to view Paiwt The Game's Enjin Project Page and view all
+            <a href="https://enjinx.io/eth/project/d7f380b4-fba9-4682-8359-c9ce504833ff/assets">Paiwt
+              Assets</a>.<br>
+            <br>
+            <div class="box alt">
+              <div class="row gtr-50 gtr-uniform">
+                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/20098374"
+                      target="_blank" title="Pirate Ernie "> <img src="images/ernie01b.jpg"
+                        alt="Pirate Ernie Paiwt Enjin ERC-1155 Token" title="Pirate Ernie Paiwt Enjin ERC-1155 Token"></a></span></div>
+                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/24776876"
+                      target="_blank" title="Chief Ernie Paiwt Enjin ERC-1155 Token">
+                      <img src="images/ernie02b.jpg" alt="Chief Ernie Paiwt Enjin ERC-1155 Token"
+                        title="Chief Ernie Paiwt Enjin ERC-1155 Token"></a></span></div>
+                <div class="col-4"><span class="image fit"> <a href="https://enjinx.io/eth/asset/20513435"
+                      target="_blank" title="Clown Ernie Paiwt Enjin ERC-1155 Token">
+                      <img src="images/ernie03b.jpg" alt="Clown Ernie Paiwt Enjin ERC-1155 Token"
+                        title="Clown Paiwt Enjin ERC-1155 Token"></a></span></div>
+                <!-- Break -->
+                <div class="col-4"><span class="image fit"> <a href="images/ernie04a.png"
+                      target="_blank"> <img src="images/ernie04b.jpg" alt=""></a></span></div>
+                <div class="col-4"><span class="image fit"> <a href="images/ernie05a.png"
+                      target="_blank"> <img src="images/ernie05b.jpg" alt=""></a></span></div>
+                <div class="col-4"><span class="image fit"> <a href="images/ernie06a.png"
+                      target="_blank"> <img src="images/ernie06b.jpg" alt=""></a></span></div>
+                <!-- Break -->
+                <div class="col-4"><span class="image fit"> <a href="images/ernie07a.png"
+                      target="_blank"> <img src="images/ernie07b.jpg" alt=""></a></span></div>
+                <div class="col-4"><span class="image fit"> <a href="images/ernie08a.png"
+                      target="_blank"> <img src="images/ernie08b.jpg" alt=""></a></span></div>
+                <div class="col-4"><span class="image fit"> <a href="images/ernie09a.png"
+                      target="_blank"> <img src="images/ernie09b.jpg" alt=""></a></span></div>
+                <div class="col-4"><span class="image fit"> <a href="images/ernie10a.png"
+                      target="_blank"> <img src="images/ernie10b.jpg" alt=""></a></span></div>
+                <div class="col-4"><span class="image fit"> <a href="images/ernie11a.png"
+                      target="_blank"> <img src="images/ernie11b.jpg" alt=""></a></span></div>
+                <div class="col-4"><span class="image fit"> <a href="images/ernie12a.png"
+                      target="_blank"> <img src="images/ernie12b.jpg" alt=""></a></span>
+                </div>
+                <br>
+                <br>
+                <article> <a href="upe" class="image"><img src="images/pic01b.jpg"
+                      alt=""></a>
+                  <h3>Unique Paiwt Explosion</h3>
+                  <p> Competing in our board game creates Unique Paiwt
+                    Explosions, or UPE for short. Each UPE consists of a random
+                    color design that a player completes to win. </p>
+                  <ul class="actions">
+                    <li><a href="upe" class="button">More</a></li>
+                  </ul>
+                </article>
+                <article> <a href="upc" class="image"><img src="images/pic02bb.jpg"
+                      alt=""></a>
+                  <h3>Unique Paiwt Creature</h3>
+                  <p> A Unique Paiwt Creature (UPC) ERC-1155 is the result of a
+                    Unique Paiwt Explosion’s (UPE) ERC-1155 metamorphosis </p>
+                  <ul class="actions">
+                    <li><a href="upc" class="button">More</a></li>
+                  </ul>
+                </article>
+                <article> <a href="boardgame" class="image"><img src="images/pic05b.jpg"
+                      alt=""></a>
+                  <h3>Paiwt The Board Game</h3>
+                  <p> Purchase the official Paiwt The Board Game here. Learn the
+                    rules to game and view the Paiwt Cards and Paiwt Board. </p>
+                  <ul class="actions">
+                    <li><a href="boardgame" class="button">More</a></li>
+                  </ul>
+                </article>
+                <article> <a href="ernie" class="image"><img src="images/pic04b.jpg"
+                      alt=""></a>
+                  <h3>Ernie ERC-1155 Collectibles</h3>
+                  <p> Enjin Ernest, "Paiwt Hand," commonly known as "Ernie,"
+                    takes on the role of infinite characters, unlocking special
+                    ability during a tournament. </p>
+                  <p> </p>
+                  <ul class="actions">
+                    <li><a href="ernie" class="button">More</a></li>
+                  </ul>
+                </article>
+                <article> <a href="http://t.me/PaiwtTelegram" target="_blank" class="image"><img
+                      src="images/pic03b.jpg" alt=""></a>
+                  <h3>The Chatroom</h3>
+                  <p> Join our interactive Telegram group. Chat live with us and
+                    enter giveaways. Private and Cloud-Based, Telegram messages
+                    are heavily encrypted. </p>
+                  <ul class="actions">
+                    <li><a href="http://t.me/PaiwtTelegram" target="_blank" class="button">More</a></li>
+                  </ul>
+                </article>
+              </div>
             </div>
           </section>
         </div>
-      </div>
-      <!-- Sidebar -->
-      <div id="sidebar">
-        <div class="inner">
-          <!-- Menu -->
-          <nav id="menu">
-            <header class="major">
-              <h2>Menu</h2>
-            </header>
-            <ul>
-              <li><a href="https://paiwt.com/game">Homepage</a></li>
-              <li><a href="getstarted">Get Started</a></li>
-              <li><a href="boardgame">Board Game</a></li>
-              <li><a href="mint">UPE Mint Shop</a></li>
-              <li> <span class="opener">Collectibles</span>
-                <ul>
-                  <li><a href="upe">Unique Paiwt Explosion</a></li>
-                  <li><a href="upc">Unique Paiwt Creature</a></li>
-                  <li><a href="ernie">Ernie Paiwt Hand</a></li>
-                </ul>
-              </li>
-            </ul>
-          </nav>
-          <!-- Section -->
-          <section>
-            <header class="major">
-              <h2>Get in touch</h2>
-            </header>
-            <p>Questions? Comments? Join Telegram. Chat live with us and enter
-              giveaways. Private and Cloud-Based, Telegram messages are heavily
-              encrypted. </p>
-            <ul class="contact">
-              <p></p>
-              <li class="fa-envelope-o"><a href="https://t.me/PaiwtTelegram">Paiwt's
-                  Official Telegram</a></li>
-            </ul>
-          </section>
-          <!-- Footer -->
-          <footer id="footer">
-            <p class="copyright">© Paiwt 2018. All rights reserved.</p>
-          </footer>
+        <!-- Sidebar -->
+        <div id="sidebar">
+          <div class="inner">
+            <!-- Menu -->
+            <nav id="menu">
+              <header class="major">
+                <h2>Menu</h2>
+              </header>
+              <ul>
+                <li><a href="https://paiwt.com/game">Homepage</a></li>
+                <li><a href="getstarted">Get Started</a></li>
+                <li><a href="boardgame">Board Game</a></li>
+                <li><a href="mint">UPE Mint Shop</a></li>
+                <li> <span class="opener">Collectibles</span>
+                  <ul>
+                    <li><a href="upe">Unique Paiwt Explosion</a></li>
+                    <li><a href="upc">Unique Paiwt Creature</a></li>
+                    <li><a href="ernie">Ernie Paiwt Hand</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </nav>
+            <!-- Section -->
+            <section>
+              <header class="major">
+                <h2>Get in touch</h2>
+              </header>
+              <p>Questions? Comments? Join Telegram. Chat live with us and enter
+                giveaways. Private and Cloud-Based, Telegram messages are
+                heavily encrypted. </p>
+              <ul class="contact">
+                <p></p>
+                <li class="fa-envelope-o"><a href="https://t.me/PaiwtTelegram">Paiwt's
+                    Official Telegram</a></li>
+              </ul>
+            </section>
+            <!-- Footer -->
+            <footer id="footer">
+              <p class="copyright">© Paiwt 2018. All rights reserved.</p>
+            </footer>
+          </div>
         </div>
-      </div>
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/browser.min.js"></script>
+        <script src="assets/js/breakpoints.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script> </div>
     </div>
-    <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/browser.min.js"></script>
-    <script src="assets/js/breakpoints.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
   </body>
 </html>
