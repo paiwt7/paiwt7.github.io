@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <!--
-	Editorial by HTML5 UP	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+	Editorial by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -25,19 +24,15 @@
       <!-- Main -->
       <div id="main">
         <div class="inner">
-                  <!-- Header -->
-          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
-
+          <!-- Header -->
+          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
                 src="images/logopaiwt.jpg" alt="logo" height="135" width="299"></a>
             <ul class="icons">
-              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
-
+              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
                     class="label">Twitter</span></a></li>
-              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
-
+              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
                   class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
-
+              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
                     class="label">Medium</span></a></li>
             </ul>
           </header>
@@ -89,11 +84,22 @@
               <article> <a href="http://t.me/PaiwtTelegram" target="_blank" class="image"><img
                     src="images/pic03b.jpg" alt=""></a>
                 <h3>The Chatroom</h3>
-                <p> Join our interactive Telegram group. Chat live with us and
+                <p>Join our interactive Telegram group. Chat live with us and
                   enter giveaways. Private and Cloud-Based, Telegram messages
                   are heavily encrypted. </p>
                 <ul class="actions">
-                  <li><a href="http://t.me/PaiwtTelegram" target="_blank" class="button">More</a></li>
+                  <li><a href="http://t.me/PaiwtTelegram" class="button" target="_blank">More</a></li>
+                </ul>
+              </article>
+              <article> <a href="overview" class="image" title="Collectibles Overview"><img
+                    src="images/pc09x.jpg" alt="Overview" title="Overview"></a>
+                <h3>Collectibles Overview</h3>
+                <p>Overview of all Paiwt Enjin ERC-1155 Collectible Tokens.
+                  Learn about the blockchain legacy assets, as well as The Paiwt
+                  Game Enjin Platform. </p>
+                <p> </p>
+                <ul class="actions">
+                  <li><a href="overview" class="button" title="Overview">More</a></li>
                 </ul>
               </article>
             </div>
@@ -111,13 +117,13 @@
             <ul>
               <li><a href="https://paiwt.com/game">Homepage</a></li>
               <li><a href="getstarted">Get Started</a></li>
-              <li><a href="boardgame">The Board Game</a></li>
+              <li><a href="boardgame">Board Game</a></li>
               <li><a href="mint">UPE Mint Shop</a></li>
               <li> <span class="opener">Collectibles</span>
                 <ul>
                   <li><a href="upe">Unique Paiwt Explosion</a></li>
                   <li><a href="upc">Unique Paiwt Creature</a></li>
-                  <li><a href="ernie">Ernie</a></li>
+                  <li><a href="ernie">Ernie Paiwt Hand</a></li>
                 </ul>
               </li>
             </ul>
@@ -138,7 +144,7 @@
           </section>
           <!-- Footer -->
           <footer id="footer">
-            <p class="copyright">© ArtWaters. All rights reserved.</p>
+            <p class="copyright">© Paiwt 2018. All rights reserved.</p>
           </footer>
         </div>
       </div>
