@@ -25,14 +25,18 @@
       <div id="main">
         <div class="inner">
           <!-- Header -->
-          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
+          <header id="header"> <a href="https://paiwt.com/game" class="logo"><img
+
                 src="images/logopaiwt.jpg" alt="logo" height="135" width="299"></a>
             <ul class="icons">
-              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
+              <li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span
+
                     class="label">Twitter</span></a></li>
-              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
+              <li><a href="https://www.instagram.com/paiwtgame/" target="_blank"
+
                   class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
+              <li><a href="https://www.medium.com/@paiwt" target="_blank" class="icon fa-medium"><span
+
                     class="label">Medium</span></a></li>
             </ul>
           </header>
@@ -44,7 +48,8 @@
             <!-- Content -->
             <!-- Content -->
             <p><span class="image left"><img src="images/pic02.png" alt=""></span>
-              All tokens minted through this service are <a title="Enjin ERC-1155"
+               <p style="color:black;font-size:18px;">All tokens minted through this service are <a title="Enjin ERC-1155"
+
                 href="https://enjin.io/about/erc-1155" target="_blank">Enjin
                 ERC-1155 Blockchain Assets</a> that are cross-platform
               compatible, automatically supported by the Enjin Wallet, powered
@@ -70,19 +75,22 @@
                 </tr>
                 <tr>
                   <td>Unique Paiwt Explosion ERC-1155 Custom Token Mint</td>
-                  <td style="text-align: center;"><strong><a href="https://commerce.coinbase.com/checkout/3df3fb01-13e4-44d1-b4aa-ffa11276e2ff"
-                        title="U.S. Order" target="_blank" style="color: #0778fd;">25.00
-                        </a><br> </strong></td>
+                  <td style="text-align: center;"><strong><a href="https://commerce.coinbase.com/checkout/3df3fb01-13e4-44d1-b4aa-ffa11276e2ff"
+
+                        title="U.S. Order" target="_blank" style="color: #0778fd;">24.99</a><br>
+                    </strong></td>
                 </tr>
               </tbody>
             </table>
             <font color="red"><strong>
                 <p> </p>
-                <div class="typeform-widget" data-url="https://paiwt.typeform.com/to/UFCDUO"
+                <div class="typeform-widget" data-url="https://paiwt.typeform.com/to/UFCDUO"
+
                   style="width: 100%; height: 500px;"></div>
                 <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
                 <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">
-                  powered by <a href="https://admin.typeform.com/signup?utm_campaign=UFCDUO&amp;utm_source=typeform.com-13696227-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN"
+                  powered by <a href="https://admin.typeform.com/signup?utm_campaign=UFCDUO&amp;utm_source=typeform.com-13696227-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN"
+
                     style="color: #999" target="_blank">Typeform</a> </div>
               </strong></font></section>
           <font color="red"><strong> </strong></font></div>
