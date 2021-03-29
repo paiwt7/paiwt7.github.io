@@ -14,7 +14,7 @@
   gtag('config', 'UA-140661149-1');
 </script> <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <title>UPE Mint Shop | The Game | Paiwt</title>
+    <title>UPE NFT Mint Shop | The Game | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
@@ -39,12 +39,11 @@
           <!-- Content -->
           <section>
             <header class="major">
-              <h2>UPE Mint Shop</h2>
+              <h2>UPE NFT Mint Shop</h2>
             </header>
             <!-- Content -->
-            <!-- Content -->
-            <p><span class="image left"><img src="images/pic02.png" alt=""></span>
-            </p>
+            <!-- Content --> <span class="image left"><img src="images/pic02.png"
+                alt=""></span>
             <p style="color:black;font-size:18px;">All tokens minted through
               this service are <a title="Enjin ERC-1155" href="https://enjin.io/about/erc-1155"
                 target="_blank">Enjin ERC-1155 Blockchain Assets</a> that are
@@ -109,13 +108,13 @@
                     <li><a href="https://paiwt.com/game">Homepage</a></li>
                     <li><a href="getstarted">Get Started</a></li>
                     <li><a href="boardgame">Board Game</a></li>
-                    <li><a href="mint">UPE Mint Shop</a></li>
-                    <li> <span class="opener">Collectibles</span>
+                    <li><a href="mint">UPE NFT Mint Shop</a></li>
+                    <li> <span class="opener">NFT Collectibles</span>
                       <ul>
-                        <li><a href="upe">Unique Paiwt Explosion</a></li>
+                        <li><a href="overview">Overview</a></li> 				   <li><a href="upe">Unique Paiwt Explosion</a></li>
                         <li><a href="upc">Unique Paiwt Creature</a></li>
                         <li><a href="ernie">Ernie Paiwt Hand</a></li>
-                      </ul>
+                      </ul>  <li><a href="https://paiwt.com">Back To Paiwt.com</a></li>
                     </li>
                   </ul>
                 </nav>
