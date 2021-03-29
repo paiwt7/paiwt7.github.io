@@ -14,7 +14,7 @@
   gtag('config', 'UA-140661149-1');
 </script> <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <title>Ernie Collectibles | The Game | Paiwt</title>
+    <title>Ernie NFT Collectibles | The Game | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
@@ -55,8 +55,6 @@
               larger image, that means that it has not yet been <a href="https://support.enjin.io/help/minting-your-first-asset"
                 title="Enjin Mint Help" target="_blank">minted</a>): <br>
               <span style="color: rgb(127, 136, 143); font-family: &quot;open sans&quot;, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span>
-            </p>
-            <p> <br>
             </p>
             <div class="box alt">
               <div class="row gtr-50 gtr-uniform">
@@ -111,10 +109,10 @@
                 <li><a href="https://paiwt.com/game">Homepage</a></li>
                 <li><a href="getstarted">Get Started</a></li>
                 <li><a href="boardgame">Board Game</a></li>
-                <li><a href="mint">UPE Mint Shop</a></li>
-                <li> <span class="opener">Collectibles</span>
+                <li><a href="mint">UPE NFT Mint Shop</a></li>
+                <li> <span class="opener">NFT Collectibles</span>
                   <ul>
-                    <li><a href="upe">Unique Paiwt Explosion</a></li>
+                    <li><a href="overview">Overview</a></li> 				   <li><a href="upe">Unique Paiwt Explosion</a></li>
                     <li><a href="upc">Unique Paiwt Creature</a></li>
                     <li><a href="ernie">Ernie Paiwt Hand</a></li>
                   </ul>
