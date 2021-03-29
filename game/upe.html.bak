@@ -43,48 +43,44 @@
             </header>
             <!-- Content -->
             <h2 id="content"></h2>
-            <p> </p>
-            <h4></h4>
             <p><span class="image left"><img src="images/upeleft.jpg" alt=""></span>
-              Unique Paiwt Explosion™ (UPE) is the final scannable art creation
-              that is peeled off of the game board surface after the game is
-              over. Its approximate diameter is about 3 inches. Explosions are
-              unique because Paiwt employs the Crosswaters™️ methodology, which
-              has family roots. It's creator, Daniel Crosswaters Bohnett, used
-              materials his part-time artist parents experimented with. His
-              mother used various synchromatic dyes to colorize her black and
-              white photographs. His father experimented with different
-              biological staining effects when applied to various wet media
-              acrylic surfaces. By combining certain components, Mr. Bohnett
-              evolved his unique art form, which he documented on YouTube over
-              the last 10 years. </p>
-            <p> </p>
-            <h4>Create UPE ERC-1155 Tokens</h4>
-            <ul>
-              <li>Create <a title="Enjin ERC-1155 Tokens" href="https://enjin.io/about/erc-1155"
-                  target="_blank">Enjin ERC-1155 Tokens</a><a href=""> </a>by
-                submitting a scan of your Unique Paiwt Explosion (or UPE for
-                short).</li>
-              <br>
-              <h4>UPEs are Valuable</h4>
-              <li>Paiwt is an extension of the Crosswaters™ method. The only
-                water based methodology in the world that produces such a
-                intricately beautiful effect. Crosswaters™ creations by
-                themselves are valuable.</li>
-              <li>Paiwt provides players of most ages and abilities the tools to
-                create beautiful Unique Paiwt Explosion ERC-1155 Tokens.</li>
-              <li>Every beautiful organic fractal effect is unique. No two could
-                ever be the same. The effect is cultureless and represents an
-                art form that everyone in the world agrees upon, as evidenced by
-                happy Paiwt customers in over 40 countries.️</li>
-              <li>Each Unique Paiwt Explosion can be cashed in for their Enjin
-                counterpart at any time and forever.</li>
-              <li>Each Unique Paiwt Explosion is secure due to their
-                irreproducible nature and block security measures, i.e. codes.</li>
-              <li>Every UPE goes through a metamorphosis, typically taking
-                around 14 days to complete, which creates a new separate <a href="upc"
-                  target="_blank"> Unique Paiwt Creature. </a></li>
-            </ul>
+            </p>
+            <p style="color:black;font-size:18px;">Unique Paiwt Explosion™ (UPE)
+              is the final scannable art creation that is peeled off of the game
+              board surface after the game is over. Its approximate diameter is
+              about 3 inches. Explosions are unique because Paiwt employs the
+              Crosswaters™️ methodology, which has family roots. It's creator,
+              Daniel Crosswaters Bohnett, used materials his part-time artist
+              parents experimented with. His mother used various synchromatic
+              dyes to colorize her black and white photographs. His father
+              experimented with different biological staining effects when
+              applied to various wet media acrylic surfaces. By combining
+              certain components, Mr. Bohnett evolved his unique art form, which
+              he documented on YouTube over the last 10 years. </p>
+            <h2>Create UPE ERC-1155 Tokens</h2>
+            <p style="color:black;font-size:18px;">Create <a title="Enjin ERC-1155 Tokens"
+                href="https://enjin.io/about/erc-1155" target="_blank">Enjin
+                ERC-1155 NFT Tokens</a><a href=""> </a>by submitting a scan of
+              your Unique Paiwt Explosion (or UPE for short). Visit <a href="mint">The
+                UPE NFT Mint Shop</a> to get started. </p>
+            <h2>UPEs are Valuable</h2>
+            <p style="color:black;font-size:18px;">Paiwt is an extension of the
+              Crosswaters™ method. The only water based methodology in the world
+              that produces such a intricately beautiful effect. Crosswaters™
+              creations by themselves are valuable.<br>
+              Paiwt provides players of most ages and abilities the tools to
+              create beautiful Unique Paiwt Explosion ERC-1155 NFT Tokens.<br>
+              Every beautiful organic fractal effect is unique. No two could
+              ever be the same. The effect is cultureless and represents an art
+              form that everyone in the world agrees upon, as evidenced by happy
+              Paiwt customers in over 40 countries.️<br>
+              Each Unique Paiwt Explosion can be cashed in for their Enjin
+              counterpart at any time and forever.<br>
+              Each Unique Paiwt Explosion is secure due to their irreproducible
+              nature and block security measures, i.e. codes.<br>
+              Every UPE goes through a metamorphosis, typically taking around 14
+              days to complete, which creates a new separate <a href="upc" target="_blank">
+                Unique Paiwt Creature. </a> </p>
             <p></p>
             <p> </p>
             <ul class="actions">
@@ -138,9 +134,10 @@
                 <li><a href="https://paiwt.com/game">Homepage</a></li>
                 <li><a href="getstarted">Get Started</a></li>
                 <li><a href="boardgame">Board Game</a></li>
-                <li><a href="mint">UPE Mint Shop</a></li>
-                <li> <span class="opener">Collectibles</span>
+                <li><a href="mint">UPE NFT Mint Shop</a></li>
+                <li> <span class="opener">NFT Collectibles</span>
                   <ul>
+                    <li><a href="overview">Overview</a></li>
                     <li><a href="upe">Unique Paiwt Explosion</a></li>
                     <li><a href="upc">Unique Paiwt Creature</a></li>
                     <li><a href="ernie">Ernie Paiwt Hand</a></li>
