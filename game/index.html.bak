@@ -53,7 +53,7 @@
               </header>
               <p> Paiwt The Game is a <a href="boardgame" title="Paiwt The Board Game">board
                   game</a> where your creations create <a href="https://enjin.io/about/erc-1155"
-                  title="Enjin ERC-1155 Token" target="_top">Enjin backed
+                  title="Enjin ERC-1155 Token" target="_blank">Enjin backed
                   ERC-1155 Tokens</a>. Players create <a href="upe" title="Unique Paiwt Explosions">Unique
 Paiwt
                   Explosions</a> (or UPE for short) according to the game rules
@@ -87,10 +87,10 @@ Paiwt
               <li><a href="https://paiwt.com/game">Homepage</a></li>
               <li><a href="getstarted">Get Started</a></li>
               <li><a href="boardgame">Board Game</a></li>
-              <li><a href="mint">UPE Mint Shop</a></li>
-              <li> <span class="opener">Collectibles</span>
+              <li><a href="mint">UPE NFT Mint Shop</a></li>
+              <li> <span class="opener">NFT Collectibles</span>
                 <ul>
-                  <li><a href="upe">Unique Paiwt Explosion</a></li>
+                  <li><a href="overview">Overview</a></li> 				   <li><a href="upe">Unique Paiwt Explosion</a></li>
                   <li><a href="upc">Unique Paiwt Creature</a></li>
                   <li><a href="ernie">Ernie Paiwt Hand</a></li>
                 </ul>
