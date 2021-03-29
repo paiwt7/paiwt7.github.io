@@ -45,8 +45,7 @@
             <!-- Content --> <span class="image left"><img src="images/pic02.png"
                 alt=""></span>
             <p style="color:black;font-size:18px;">All tokens minted through
-              this service are <a title="Enjin ERC-1155" href="https://enjin.io/about/erc-1155"
-                target="_blank">Enjin ERC-1155 Blockchain Assets</a> that are
+              this service are Enjin ERC-1155 Blockchain Assets that are
               cross-platform compatible, automatically supported by the Enjin
               Wallet, powered by a robust suite of modular smart contracts—and
               therefore more advanced than Bitcoin, Ethereum, and Enjin Coin
@@ -111,11 +110,13 @@
                     <li><a href="mint">UPE NFT Mint Shop</a></li>
                     <li> <span class="opener">NFT Collectibles</span>
                       <ul>
-                        <li><a href="overview">Overview</a></li> 				   <li><a href="upe">Unique Paiwt Explosion</a></li>
+                        <li><a href="overview">Overview</a></li>
+                        <li><a href="upe">Unique Paiwt Explosion</a></li>
                         <li><a href="upc">Unique Paiwt Creature</a></li>
                         <li><a href="ernie">Ernie Paiwt Hand</a></li>
-                      </ul>  <li><a href="https://paiwt.com">Back To Paiwt.com</a></li>
+                      </ul>
                     </li>
+                    <li><a href="https://paiwt.com">Back To Paiwt.com</a></li>
                   </ul>
                 </nav>
                 <!-- Section -->
