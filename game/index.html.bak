@@ -40,7 +40,7 @@
           <section id="banner">
             <div class="content">
               <header>
-                <h1>The Game<br>
+                <h1>The Original&nbsp; NFT Art Game<br>
                 </h1>
                 <h3>powered by <a href="enjin.io" title="Enjin Website" target="_blank">Enjin</a></h3>
                 <p>Compete in a <a href="boardgame" title="Paiwt The Board Game">board
@@ -54,14 +54,14 @@
               <p> Paiwt The Game is a <a href="boardgame" title="Paiwt The Board Game">board
                   game</a> where your creations create <a href="https://enjin.io/about/erc-1155"
                   title="Enjin ERC-1155 Token" target="_blank">Enjin backed
-                  ERC-1155 Tokens</a>. Players create <a href="upe" title="Unique Paiwt Explosions">Unique
+                  ERC-1155 NFT Tokens</a>. Players create <a href="upe" title="Unique Paiwt Explosions">Unique
 Paiwt
                   Explosions</a> (or UPE for short) according to the game rules
                 and then be submitted for minting. Individual Unique Paiwt
                 Explosions will have a distinct visual appearance determined by
                 the sequence of colors players choose during the game. After
                 Unique Paiwt Explosions become minted into an official Paiwt UPE
-                ERC-1155 Token, they can be bought, sold, or transferred
+                ERC-1155 NFT Token, they can be bought, sold, or transferred
                 digitally. All the block digital Unique Paiwt Explosions are
                 unique and 100% owned and controlled by the artists; they cannot
                 be replicated, stolen, or destroyed. Unique Paiwt Explosions are
@@ -90,7 +90,8 @@ Paiwt
               <li><a href="mint">UPE NFT Mint Shop</a></li>
               <li> <span class="opener">NFT Collectibles</span>
                 <ul>
-                  <li><a href="overview">Overview</a></li> 				   <li><a href="upe">Unique Paiwt Explosion</a></li>
+                  <li><a href="overview">Overview</a></li>
+                  <li><a href="upe">Unique Paiwt Explosion</a></li>
                   <li><a href="upc">Unique Paiwt Creature</a></li>
                   <li><a href="ernie">Ernie Paiwt Hand</a></li>
                 </ul>
