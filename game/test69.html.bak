@@ -18,7 +18,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
-  <body class="is-preload"> <!-- Wrapper -->
+  <body class="is-preload">
+    <!-- Wrapper -->
     <div id="wrapper">
       <!-- Main -->
       <div id="main">
@@ -101,7 +102,7 @@
           <font color="red"><strong> </strong></font></div>
         <font color="red"><strong> </strong></font></div>
       <font color="red"><strong></strong></font>
-        <div class="col-6 col-12-medium"> 
+        <div class="col-6 col-12-medium">
           <!-- Sidebar -->
           <div id="sidebar">
             <div class="inner">
@@ -154,5 +155,6 @@
         <script src="assets/js/util.js"></script>
         <script src="assets/js/main.js"></script> </font></div>
     <font color="red"><strong> </strong></font>
+    
   </body>
 </html>
