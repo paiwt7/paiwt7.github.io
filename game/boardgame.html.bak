@@ -37,9 +37,13 @@
             </ul>
           </header>
           <!-- Content -->
-          <p style="color:black;font-size:18px;"> Paiwt The Board Game, coming
-            soon to Amazon.</p>
-          <style>
+          <section>
+            <header class="major">
+              <h2>The Board Game</h2>
+            </header>
+            <p style="color:black;font-size:18px;"> Paiwt The Board Game, coming
+              soon to Amazon.</p>
+            <style>
 #customers {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
@@ -63,27 +67,28 @@
   color: white;
 }
 </style> <table id="customers">
-            <tbody>
-              <tr>
-                <th style="background-color: #367BC6;">Description</th>
-                <th style="background-color: #367BC6; text-align: center;">Price</th>
-              </tr>
-              <tr>
-                <td>Kit Includes: (7) Paiwt Color Droppers <span style="color: #62bca3;"></span>in
-                  3mL bottles<span style="color: #367BC6;"></span>, (1) Paiwt
-                  White Medium in 8 oz dual chamber bottle, (1) Paiwt Expander
-                  in 15mL bottle, (1) Paiwt Board, (1) 52 Card Deck of Paiwt
-                  Cards, (1) Instructions Booklet, (6) Score Sheets, (7) Mixing
-                  Cups, (1) <a href="ernie" title="Enjin Ernie">Enjin Ernie
-                    ERC-1155 Token</a>, <a href="upe" title="Unique Paiwt Explosion">Unique
-                    Paiwt Explosion ERC-1155 Custom Token Mint</a>.</td>
-                <td style="text-align: center;"><strong>TBD<br>
-                  </strong></td>
-              </tr>
-              <tr>
-              </tr>
-            </tbody>
-          </table>
+              <tbody>
+                <tr>
+                  <th style="background-color: #367BC6;">Description</th>
+                  <th style="background-color: #367BC6; text-align: center;">Price</th>
+                </tr>
+                <tr>
+                  <td>Kit Includes: (7) Paiwt Color Droppers <span style="color: #62bca3;"></span>in
+                    3mL bottles<span style="color: #367BC6;"></span>, (1) Paiwt
+                    White Medium in 8 oz dual chamber bottle, (1) Paiwt Expander
+                    in 15mL bottle, (1) Paiwt Board, (1) 52 Card Deck of Paiwt
+                    Cards, (1) Instructions Booklet, (6) Score Sheets, (7)
+                    Mixing Cups, (1) <a href="ernie" title="Enjin Ernie">Enjin
+                      Ernie ERC-1155 Token</a>, <a href="upe" title="Unique Paiwt Explosion">Unique
+                      Paiwt Explosion ERC-1155 Custom Token Mint</a>.</td>
+                  <td style="text-align: center;"><strong>TBD<br>
+                    </strong></td>
+                </tr>
+                <tr>
+                </tr>
+              </tbody>
+            </table>
+          </section>
         </div>
       </div>
       <div class="col-6 col-12-medium">
@@ -102,10 +107,13 @@
                 <li><a href="mint">UPE NFT Mint Shop</a></li>
                 <li> <span class="opener">NFT Collectibles</span>
                   <ul>
-                    <li><a href="overview">Overview</a></li> 				   <li><a href="upe">Unique Paiwt Explosion</a></li>
+                    <li><a href="overview">Overview</a></li>
+                    <li><a href="upe">Unique Paiwt Explosion</a></li>
                     <li><a href="upc">Unique Paiwt Creature</a></li>
-                   <li><a href="ernie">Ernie Paiwt Hand</a></li></ul>  <li><a href="https://paiwt.com">Back To Paiwt.com</a></li>
+                    <li><a href="ernie">Ernie Paiwt Hand</a></li>
+                  </ul>
                 </li>
+                <li><a href="https://paiwt.com">Back To Paiwt.com</a></li>
               </ul>
             </nav>
             <!-- Section -->
