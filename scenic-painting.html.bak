@@ -2,7 +2,15 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Scenic Painting | Techniques | Paiwt</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-140661149-1"></script>
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140661149-1');
+</script> <title>Scenic Painting | Techniques | Paiwt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
@@ -11,7 +19,11 @@
       <!-- Header -->
       <div id="header-wrapper">
         <header id="header" class="container">
- <!-- Logo -->     <div id="logo">   <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img  src="images/logo9.png" alt="yes" title="yes"></a></h1>          <span></span> </div>
+          <!-- Logo -->
+          <div id="logo">
+            <h1 style="background-color: transparent;"><a href="https://paiwt.com"><img
+                  src="images/paiwtlogonew3.png" alt="yes" title="yes"></a></h1>
+            <span></span> </div>
           <!-- Nav -->
           <nav id="nav">
             <ul>
@@ -22,11 +34,13 @@
                 <ul>
                   <li><a href="color-droppers">Color Droppers</a></li>
                   <li><a href="white-medium">White Medium</a></li>
-               <li><a href="expander">Expander</a></li>    <li><a href="kit">Paiwt Kit</a></li>   
+                  <li><a href="expander">Expander</a></li>
+                  <li><a href="kit">Paiwt Kit</a></li>
                 </ul>
               </li>
               <li><a href="instructions">Instructions</a></li>
-              <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store">Amazon Store</a></li>
+              <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store">Amazon
+                  Store</a></li>
               <li class="current"> <a href="techniques">Techniques</a>
                 <ul>
                   <li> <a href="#">Beginner Techniques</a>
@@ -54,10 +68,7 @@
                       <li><a href="starfish">Creating Starfish</a></li>
                       <li><a href="scenic-painting">Scenic Painting</a></li>
                       <li><a href="resin-finish">Resin Finish</a></li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
+                    </ul> </li> </ul> </li>        <li><a href="https://paiwt.com/game">The Game</a></li>
             </ul>
           </nav>
         </header>
@@ -73,7 +84,7 @@
                   <h2>Scenic Painting</h2>
                   <p></p>
                   <a href="images/scenic9.jpg" target="_blank"><img src="images/scenic8.jpg"
-                      class="center" alt="" style="width: 373px; height: 362px;"></a>
+                      class="center" alt="" height="25%" width="25%"></a>
                   <p></p>
                   <center> <iframe src="https://www.youtube.com/embed/KvpV2I2ptCw"
                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -81,10 +92,11 @@
                   </center>
                   <p style="color:black;font-size:25px;">This technique shows
                     how to create a scenic painting. For this example, I will be
-                    using a <a href="https://www.etsy.com/listing/209615057" target="_blank">Paiwt
+                    using a <a href="https://www.amazon.com/dp/B08W1L57WZ" target="_blank">Paiwt
                       Kit</a> and a paint brush. </p>
-                  <a href="https://www.etsy.com/listing/209615057" target="_blank"><img
-                      src="images/3mLKit.jpg" class="center" alt="" style="width: 345px; height: 404px;"><br>
+                  <a href="https://www.amazon.com/dp/B08W1L57WZ" target="_blank"
+                    title="Paiwt Kit"><img src="file:///C:/Users/danbo/Documents/GitHub/paiwt7.github.io/images/OTPC3968.PNG"
+                      alt="Paiwt Kit" title="Paiwt Kit" style="width: 299px; height: 300px;"><br>
                   </a>
                   <p style="color:black;font-size:25px;">Start by mixing Paiwt
                     Colors with Paiwt Medium. Create three seperate Paiwt
@@ -94,60 +106,60 @@
                     canvas, this example is using 8" x 8").<br>
                   </p>
                   <a href="images/scenic1.png" target="_blank"><img src="images/scenic1b.png"
-                      class="center" alt="" style="width: 343px; height: 313px;"><br>
+                      class="center" alt=""><br>
                   </a>
                   <p style="color:black;font-size:25px;">Dip your paint brush
                     into the Paiwt Pink Colorful Medium and brush onto the
                     canvas. <br>
                   </p>
                   <a href="images/scenic2.png" target="_blank"><img src="images/scenic2.png"
-                      class="center" alt="" style="width: 344px; height: 313px;"><br>
+                      class="center" alt=""><br>
                   </a>
                   <p style="color:black;font-size:25px;">Using the same brush,
                     dip into the Paiwt Yellow Colorful Medium and brush onto and
                     around the Paiwt Pink Colorful Medium.<br>
                   </p>
                   <a href="images/scenic3.png" target="_blank"><img src="images/scenic3.png"
-                      class="center" alt="" style="width: 353px; height: 321px;"><br>
+                      class="center" alt=""><br>
                   </a>
                   <p style="color:black;font-size:25px;">Pour Paiwt Blue Medium
                     onto canvas, but not onto your Paiwt Pink and Paiwt Yellow
                     Medium. <br>
                   </p>
                   <a href="images/scenic4.png" target="_blank"><img src="images/scenic4.png"
-                      class="center" alt="" style="width: 350px; height: 319px;"><br>
+                      class="center" alt=""><br>
                   </a>
                   <p style="color:black;font-size:25px;">Using the same paint
                     brush, paint the blue onto the canvas until the painting is
                     covered. <br>
                   </p>
                   <a href="images/scenic5.png" target="_blank"><img src="images/scenic5.png"
-                      class="center" alt="" style="width: 351px; height: 321px;"><br>
+                      class="center" alt=""><br>
                   </a>
                   <p style="color:black;font-size:25px;">Using a Paiwt Brown
                     Color Dropper, create lines that resemble organic growth. <br>
                   </p>
                   <a href="images/scenic6.png" target="_blank"><img src="images/scenic6.png"
-                      class="center" alt="" style="width: 350px; height: 320px;"><br>
+                      class="center" alt=""><br>
                   </a>
                   <p style="color:black;font-size:25px;">Overlap the Paiwt Brown
                     growths that are just above the horizon with Paiwt Green
                     Color Dropper, leaving pure Brown growth below. <br>
                   </p>
                   <a href="images/scenic7.png" target="_blank"><img src="images/scenic7.png"
-                      class="center" alt="" style="width: 352px; height: 321px;"><br>
+                      class="center" alt=""><br>
                   </a>
                   <p style="color:black;font-size:25px;">Awe-inspiring! Your
                     Scenic Painting has come to life! Thank you for visiting. <br>
                   </p>
                   <a href="images/scenic8.jpg" target="_blank"><img src="images/scenic9.jpg"
-                      class="center" alt="" style="width: 375px; height: 375px;"><br>
+                      class="center" alt=""><br>
                   </a>
                   <p></p>
                   <p style="color: black; font-size: 18px; text-align: center;"
                     class="center"> Visit <a href="https://www.amazon.com/dp/B08W1L57WZ"
-                      target="_blank">The Paiwt Amazon Store</a> to order genuine
-                    Paiwt supplies. </p>
+                      target="_blank">The Paiwt Amazon Store</a> to order
+                    genuine Paiwt supplies. </p>
                 </article>
               </div>
             </div>
@@ -230,7 +242,8 @@
             <!-- Links --><strong> </strong>
             <section class="widget links"><strong> Quick Links </strong>
               <ul class="style2">
-                <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store ">Amazon Store</a></li>
+                <li><a href="https://www.amazon.com/dp/B08W1L57WZ" title="Paiwt Amazon Store ">Amazon
+                    Store</a></li>
                 <li><a href="mailinglist" title="Join Our Email List">Join Our
                     Email List </a></li>
                 <li><a href="security" title="Security &amp; Privacy">Security
