@@ -43,7 +43,8 @@
             </header>
             <p style="color:black;font-size:18px;"> Paiwt The Board Game Model I
               is currently sold out. Model II will be available soon. Stay up to
-              date through our Telegram. </p>
+              date through our <a href="t.me/PaiwtTelegram" title="Paiwt's Official Telegram Channel"
+                target="_blank">Telegram</a>. </p>
             <style>
 #customers {
   font-family: Arial, Helvetica, sans-serif;
