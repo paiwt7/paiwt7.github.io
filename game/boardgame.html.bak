@@ -97,7 +97,9 @@
                   class="button big" title="Instructions" target="_blank">Instructions</a></li>
               &nbsp; <a href="PaiwtCards.zip" class="button big" title="Paiwt Cards">Paiwt
                 Cards</a>&nbsp;<a href="PaiwtBoard.pdf" class="button big" title="Paiwt Board"
-                target="_blank">Paiwt Board</a>
+                target="_blank">Paiwt Board</a>&nbsp;<a href="PaiwtTallySheets.pdf"
+                class="button big" title="Tally Sheets" target="_blank">Tally
+                Sheets</a>
             </ul>
           </section>
         </div>
